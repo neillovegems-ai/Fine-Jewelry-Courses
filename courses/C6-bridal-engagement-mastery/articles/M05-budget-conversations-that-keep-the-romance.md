@@ -6,7 +6,7 @@ When a customer walks in to purchase an engagement ring, they carry genuine exci
 
 Adding to that stress is a century of arbitrary marketing dogma. Decades of advertising pushed rigid formulas: spend one month of salary, spend two months, spend three months.
 
-Modern buyers reject those synthetic rules. They balance rent, housing goals, student debt, and wedding expenses. When an associate opens a conversation with a blunt demand—"What is your budget today?"—the romantic atmosphere evaporates. The client feels guarded and exposed.
+Modern buyers reject those synthetic rules. They balance rent, housing goals, student debt, and wedding expenses. When an associate opens a conversation with a blunt question like "What is your budget today?", the romantic atmosphere evaporates. The client feels guarded and exposed.
 
 Master bridal specialists treat financial discovery as a creative design boundary. Just as an architect needs to know lot dimensions before drawing blueprints, a jewelry consultant needs to understand the comfort zone to curate the finest possible piece of heirloom craft.
 
@@ -217,7 +217,7 @@ When a client wants a larger visual presence on a fixed budget, guide them towar
           <strong style="color:#d4af37;">2. The Production Milestone Layaway:</strong> For clients planning a proposal 3 to 6 months out. 30% deposit to cast the mounting and lock in the loose diamond, with scheduled monthly installments during production, completing payment upon final collection.
         </div>
         <div style="font-size:12px; color:#e2e8f0;">
-          <strong style="color:#d4af37;">3. The Dual-Card Bridge:</strong> Splitting the transaction across two credit facilities—utilizing an existing rewards credit card for points up to the monthly payoff limit, and placing the balance on the store's 0% deferred-interest promotional card.
+          <strong style="color:#d4af37;">3. The Dual-Card Bridge:</strong> Splitting the transaction across two credit facilities: pairing an existing rewards credit card for points up to the monthly payoff limit, and placing the balance on the store's 0% deferred-interest promotional card.
         </div>
       </div>
     </div>
@@ -248,7 +248,7 @@ When financing is introduced poorly, it sounds like an emergency loan. When intr
         <h4 style="color:#d4af37; margin:0 0 10px; font-size:14px; text-align:center; text-transform:uppercase;">COUNTER DIALOGUE PLAYBOOK: HIGH-FRICTION BUDGET SCENARIOS</h4>
         
         <div style="margin-bottom:12px; border-bottom:1px solid #334155; padding-bottom:8px;">
-          <p style="color:#f87171; margin:0 0 4px; font-weight:bold;">Scenario 1: Couple Shopping Together — Partner A Loves a Ring Way Above Partner B's Comfort Level</p>
+          <p style="color:#f87171; margin:0 0 4px; font-weight:bold;">Scenario 1: Couple Shopping Together: Partner A Loves a Ring Way Above Partner B's Comfort Level</p>
           <p style="color:#94a3b8; margin:0 0 4px;"><em>Wrong Approach:</em> "Well, if you really love her, you'll make it work!" (Fatal pressure; humiliates Partner B).</p>
           <p style="color:#34d399; margin:0;"><strong>Master Script:</strong> "This silhouette is breathtaking on you! What makes this piece so incredible is the architectural balance of the setting. Let's document this exact design code in your client profile. Behind the scenes, my job will be to explore center stone options across different diamond weights and origins that recreate this identical visual look while fitting seamlessly into the investment parameters we set."</p>
         </div>
@@ -262,7 +262,7 @@ When financing is introduced poorly, it sounds like an emergency loan. When intr
         <div>
           <p style="color:#f87171; margin:0 0 4px; font-weight:bold;">Scenario 3: Client Experiences Sticker Shock at the Final Out-the-Door Total</p>
           <p style="color:#94a3b8; margin:0 0 4px;"><em>Wrong Approach:</em> "Well, you picked platinum and pavé diamonds, that's why it costs more."</p>
-          <p style="color:#34d399; margin:0;"><strong>Master Script:</strong> "I completely understand. When we combine custom hand-set pavé with an exceptional center diamond, it’s an investment. Let’s look at the levers we can gently adjust without changing the aesthetic you fell in love with. If we adjust the diamond color from an F to a G—which is completely imperceptible once set—we save $900 right away. Let’s see how close that brings us to your sweet spot."</p>
+          <p style="color:#34d399; margin:0;"><strong>Master Script:</strong> "I completely understand. When we combine custom hand-set pavé with an exceptional center diamond, it’s an investment. Let’s look at the levers we can gently adjust without changing the aesthetic you fell in love with. If we adjust the diamond color from an F to a G (which is completely imperceptible once set), we save $900 right away. Let’s see how close that brings us to your sweet spot."</p>
         </div>
 
       </div>

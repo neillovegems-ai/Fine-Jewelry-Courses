@@ -155,7 +155,7 @@ Present this reality without condescension:
           Notice that looking at them with your eyes, they are visually, chemically, and physically identical. Both are 100% pure crystallized carbon. Both will sparkle with the exact same fire for the next hundred years.<br><br>
           The difference isn’t how they look; the difference is their origin and their story.<br><br>
           &bull; <strong>The Natural Diamond Story:</strong> Represents geological rarity. It is a finite piece of earth history that holds intrinsic market value and can be passed down as an heirloom or traded up through our lifetime upgrade program.<br><br>
-          &bull; <strong>The Lab-Grown Diamond Story:</strong> Represents modern technological innovation. Because it is created in a facility, it is priced at a fraction of the cost—allowing you to maximize carat size or invest more of your budget into your wedding, travel, or a down payment on a home.<br><br>
+          &bull; <strong>The Lab-Grown Diamond Story:</strong> Represents modern technological innovation. Because it is created in a facility, it is priced at a fraction of the cost, allowing you to maximize carat size or invest more of your budget into your wedding, travel, or a down payment on a home.<br><br>
           Neither option is right or wrong; it completely depends on which story speaks most deeply to you as a couple. Which of those two paths resonates more with what you’re envisioning?"</p>
         </div>
       </div>
@@ -236,7 +236,7 @@ State your store policy openly during the invoice review. Clear disclosures buil
           Because lab-grown diamond manufacturing capacity continues to expand globally (primarily in India and China), wholesale prices decline over time. A 2-carat lab diamond purchased for $3,000 in 2021 can be purchased wholesale for $600 today. Therefore, jewelers and secondary pawnbrokers generally do not offer cash buybacks on lab-grown diamonds.</p>
           
           <p style="margin:0 0 8px 0;"><strong style="color:#ffffff;">2. Transparent Resale Disclosure Script:</strong><br>
-          <em>"We want you to have 100% clarity: Natural diamonds trade globally with liquid cash value and are eligible for our Lifetime 100% Trade-Up Program. Lab-grown diamonds, because they are manufactured, behave more like modern consumer electronics—you get incredible beauty and size today, but they do not hold residual resale value. We want you to buy a lab diamond for the joy of wearing it, not as an investment."</em></p>
+          <em>"We want you to have 100% clarity: Natural diamonds trade globally with liquid cash value and are eligible for our Lifetime 100% Trade-Up Program. Lab-grown diamonds, because they are manufactured, behave more like modern consumer electronics: you get incredible beauty and size today, but they do not hold residual resale value. We want you to buy a lab diamond for the joy of wearing it, not as an investment."</em></p>
           
           <p style="margin:0;"><strong style="color:#ffffff;">3. Store Lifetime Upgrade Policy Distinction:</strong><br>
           Luxury guild jewelers typically offer 100% credit on natural diamonds when upgrading to a stone of twice the value. For lab-grown diamonds, stores typically do not offer 100% trade-in equity due to rapid manufacturing price deflation.</p>

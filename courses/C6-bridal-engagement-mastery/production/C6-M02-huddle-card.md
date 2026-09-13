@@ -1,4 +1,4 @@
-# Daily Floor Huddle Card — Module 2: Booking & Preparing Appointments
+# Daily Floor Huddle Card: Module 2: Booking & Preparing Appointments
 
 ### 3-Minute Morning Briefing for the Floor Team
 
@@ -12,4 +12,4 @@
 
 #### 3. Quick Role-Play Practice Question
 - *Customer:* "I booked online, but I really have no idea what I want yet."
-- *Associate Response:* "You are in the exact right place! Based on your note, I went ahead and pulled three stunning styles from our vault—our classic oval solitaire, a delicate hidden halo, and a beautiful three-stone design. Let's start by having you try on all three so you can see how they feel on your hand. What can I get you to drink while you get comfortable—espresso or champagne?"
+- *Associate Response:* "You are in the exact right place! Based on your note, I went ahead and pulled three stunning styles from our vault, our classic oval solitaire, a delicate hidden halo, and a beautiful three-stone design. Let's start by having you try on all three so you can see how they feel on your hand. What can I get you to drink while you get comfortable, espresso or champagne?"

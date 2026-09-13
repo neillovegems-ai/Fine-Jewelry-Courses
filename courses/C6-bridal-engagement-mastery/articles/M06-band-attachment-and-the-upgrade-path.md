@@ -278,7 +278,7 @@ Introduce future milestones during ring delivery:
           <strong style="color:#60a5fa;">Stage 1: The Foundation (Day 1):</strong> Engagement ring + Matching wedding band cast as an engineered architectural pair. Complete 100% diamond trade-in certificate issued.
         </div>
         <div style="margin-bottom:10px; font-size:12px; color:#e2e8f0;">
-          <strong style="color:#facc15;">Stage 2: The Push Gift / 3-Year Anniversary:</strong> Introduction of the "Third Band"—an eternity stacker or birthstone accent band creating a dynamic, fashion-forward triple stack.
+          <strong style="color:#facc15;">Stage 2: The Push Gift / 3-Year Anniversary:</strong> Introduction of the "Third Band", an eternity stacker or birthstone accent band creating a dynamic, fashion-forward triple stack.
         </div>
         <div style="margin-bottom:10px; font-size:12px; color:#e2e8f0;">
           <strong style="color:#f472b6;">Stage 3: The 5-Year Wedding Band Update (His & Hers):</strong> Refreshing worn finishes, complimentary rhodium plating, and adding a matching luxury band for the groom.

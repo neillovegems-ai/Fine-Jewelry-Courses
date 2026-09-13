@@ -1,4 +1,4 @@
-# Daily Floor Huddle Card — Module 3: Shape, Setting & Metal
+# Daily Floor Huddle Card: Module 3: Shape, Setting & Metal
 
 ### 3-Minute Morning Briefing for the Floor Team
 

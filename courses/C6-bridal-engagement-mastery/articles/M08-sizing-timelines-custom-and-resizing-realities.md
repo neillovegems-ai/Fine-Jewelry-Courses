@@ -227,7 +227,7 @@ Be clear with clients about what can and cannot be resized post-purchase:
         
         <div style="margin-bottom:12px; border-bottom:1px solid #334155; padding-bottom:8px;">
           <p style="color:#f87171; margin:0 0 4px; font-weight:bold;">Scenario 1: Client Demands a Complex Custom CAD Ring in 10 Days for a Flight</p>
-          <p style="color:#34d399; margin:0;"><strong>Master Script:</strong> "Your upcoming trip to Italy is the dream proposal setting! Because this custom mounting features hand-cut French pavé, rushing the casting and diamond setting in 10 days would risk the structural security of your center stone—something we will never compromise on. Here is our flawless solution: We will set your chosen diamond into a classic, elegant temporary solitaire mounting so you have a breathtaking ring for your Italy proposal. When you return, we’ll cast your custom dream mounting together, transferring the diamond seamlessly. You get the perfect proposal moment with zero stress."</p>
+          <p style="color:#34d399; margin:0;"><strong>Master Script:</strong> "Your upcoming trip to Italy is the dream proposal setting! Because this custom mounting features hand-cut French pavé, rushing the casting and diamond setting in 10 days would risk the structural security of your center stone, a commitment we never compromise. Here is our flawless solution: We will set your chosen diamond into a classic, elegant temporary solitaire mounting so you have a breathtaking ring for your Italy proposal. When you return, we’ll cast your custom dream mounting together, transferring the diamond seamlessly. You get the perfect proposal moment with zero stress."</p>
         </div>
 
         <div>

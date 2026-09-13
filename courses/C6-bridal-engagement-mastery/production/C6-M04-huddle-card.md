@@ -1,4 +1,4 @@
-# Daily Floor Huddle Card — Module 4: Natural vs. Lab-Grown
+# Daily Floor Huddle Card: Module 4: Natural vs. Lab-Grown
 
 ### 3-Minute Morning Briefing for the Floor Team
 
@@ -13,4 +13,4 @@
 
 #### 3. Quick Role-Play Practice Question
 - *Customer:* "Are lab-grown diamonds fake?"
-- *Associate Response:* "Not at all! A lab-grown diamond is 100% pure crystallized carbon—just like a natural diamond. It has the exact same hardness, fire, and brilliance. The only difference is where it was made: one formed deep in the earth billions of years ago, and the other was grown in a high-tech laboratory. Let's place both on the tray side-by-side so you can see them together!"
+- *Associate Response:* "Not at all! A lab-grown diamond is 100% pure crystallized carbon, just like a natural diamond. It has the exact same hardness, fire, and brilliance. The only difference is where it was made: one formed deep in the earth billions of years ago, and the other was grown in a high-tech laboratory. Let's place both on the tray side-by-side so you can see them together!"

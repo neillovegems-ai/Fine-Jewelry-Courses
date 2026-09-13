@@ -1,4 +1,4 @@
-# Course C6: Bridal & Engagement Mastery — Production Media Manifest
+# Course C6: Bridal & Engagement Mastery: Production Media Manifest
 
 All visual assets verified live on jewelswell.com. Images and operational frameworks utilize responsive luxury UI card architecture with verified academic, institutional, and industry fair-use citations.
 

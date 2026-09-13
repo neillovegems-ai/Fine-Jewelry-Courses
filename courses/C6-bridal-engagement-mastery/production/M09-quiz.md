@@ -38,7 +38,7 @@ d) Standalone policies do not require an appraisal.
 
 ## 7. What is the recommended message to send on the morning of a client's scheduled proposal?
 a) "Don't forget that wedding bands are 10% off this month."  
-b) A brief, supportive one-sentence text: "Thinking of you today—take a deep breath and soak in every moment! We're cheering for you." [CORRECT]  
+b) A brief, supportive one-sentence text: "Thinking of you today, take a deep breath and soak in every moment! We're cheering for you." [CORRECT]  
 c) A detailed invoice for unpaid sales taxes.  
 d) A 10-paragraph lecture on diamond care.
 
