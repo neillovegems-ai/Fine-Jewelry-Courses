@@ -18,8 +18,8 @@ A catalog of fine jewelry retail training courses built from the *Fine Jewelry R
 
 | Course | Track | Articles | Done |
 |---|---|---|---|
-| C1 Diamond & Gemstone Fluency for the Sales Floor | Foundations | 10 | 10 (complete, retroactive cleanup complete) |
-| C2 The Fine Jewelry Sales Conversation | Foundations | 10 | 10 (complete, published to Jewelswell LMS) |
+| C1 Diamond & Gemstone Fluency for the Sales Floor | Foundations | 10 | 10 (complete, Option B enriched: 55 figures live on Jewelswell) |
+| C2 The Fine Jewelry Sales Conversation | Foundations | 10 | 10 (complete, Option B enriched: 51 figures/frameworks live on Jewelswell) |
 | C3 Clienteling & CRM | Foundations | 8 | 0 |
 | C4 Store Security & Loss Prevention | Foundations | 8 | 0 |
 | C5 Financing, Credit & Compliance | Foundations | 6 | 0 |
@@ -33,10 +33,12 @@ A catalog of fine jewelry retail training courses built from the *Fine Jewelry R
 | C13 Hiring, Coaching & Performance Management | Leadership | 10 | 0 |
 | C14 Multi-Store Leadership | Leadership | 8 | 0 |
 | C15 Designing Jewelry Sales Training | Trainer | 8 | 0 |
-| C16 The GIA Diamonds Deep Dive (companion to GIA's D&DG further-reading bibliography) | Advanced/Specialist | 13 | 13 |
-| C17 The GIA Colored Stones Deep Dive (companion to GIA's Colored Stones further-reading bibliography) | Advanced/Specialist | 16 | 16 (complete) |
+| C16 The GIA Diamonds Deep Dive (companion to GIA's D&DG further-reading bibliography) | Advanced/Specialist | 13 | 13 (complete, Option B enriched: 65 figures live on Jewelswell) |
+| C17 The GIA Colored Stones Deep Dive (companion to GIA's Colored Stones further-reading bibliography) | Advanced/Specialist | 16 | 16 (complete, Option B enriched: 89 figures live on Jewelswell) |
 
-**Total: 159 articles (130 original catalog + 13 in C16 + 16 in C17). C1 is fully complete; C2 is complete (10/10 modules, published to Jewelswell LMS); C16 complete (13/13 modules, 65 production artifacts), independently built and verified per `courses/C16-gia-diamonds-deep-dive/production/VERIFICATION-REVIEW.md`. C17 complete (16/16 modules, 96 production artifacts, 160 quiz questions), independently built and verified per `courses/C17-gia-colored-stones-deep-dive/production/VERIFICATION-REVIEW.md`.**
+**Total: 159 articles (130 original catalog + 13 in C16 + 16 in C17). Across the platform on jewelswell.com, 49 modules are fully live and visually enriched with 260 authentic figures, laboratory schematics, and sales frameworks (100% verified HTTP 200).**
+
+**Note on C1 & C2:** Both foundation courses are fully expanded under the no-cap policy, accompanied by complete production artifacts (outlines, fact-checks, huddle cards, quizzes, media manifests), and enriched with Option B comprehensive visual sets (55 authentic figures in C1, 51 visual figures & consultative SVG frameworks in C2) live on WordPress and Tutor LMS.
 
 **Note on C16:** independent study companion, not a GIA product, built from GIA's own "For Further Reading for Diamonds and Diamond Grading" bibliography (~260 *Gems & Gemology* / GIA Research citations). It adds a `references/` folder (full annotated bibliography) and a `videos/` folder (verified video index) to the standard layout. See its README for the module-to-assignment map and wave log, and `production/VERIFICATION-REVIEW.md` for the post-build fact-check review.
 
