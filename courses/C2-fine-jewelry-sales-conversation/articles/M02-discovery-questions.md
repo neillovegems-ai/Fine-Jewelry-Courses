@@ -106,16 +106,16 @@ The moment you establish conversational rapport, ask a warm, open-ended question
 
 - *"Is there a particular celebration or milestone that brings you into the salon today?"*
 - *"Who is the lucky person we are celebrating with this piece?"*
-- *"Tell me a little about the occasion—is this marking an anniversary, a milestone birthday, or a wonderful surprise 'just because'?"*
+- *"Tell me a little about the occasion, is this marking an anniversary, a milestone birthday, or a wonderful surprise 'just because'?"*
 - *(For self-purchasers):* *"Are you adding something new to your everyday signature collection, or looking for a showstopper for a special event?"*
 
 ### Verbatim Dialogue: Uncovering the Story
 
 > **Associate:** *"That sapphire pendant caught your eye right away. Are we celebrating a special anniversary, or perhaps a September birthday?"*
 >
-> **Client:** *"Actually, it's for my wife. We just had our first baby two weeks ago—a little girl."*
+> **Client:** *"Actually, it's for my wife. We just had our first baby two weeks ago, a little girl."*
 >
-> **Associate:** *"Oh, congratulations! What a breathtaking moment in your lives. That changes everything. You aren't just looking for a piece of jewelry today—you're choosing the heirloom she will look down at during late-night feedings, and that your daughter will wear to her own wedding thirty years from now. Let's make sure this is absolutely unforgettable."*
+> **Associate:** *"Oh, congratulations! What a breathtaking moment in your lives. That changes everything. You aren't just looking for a piece of jewelry today, you're choosing the heirloom she will look down at during late-night feedings, and that your daughter will wear to her own wedding thirty years from now. Let's make sure this is absolutely unforgettable."*
 
 Notice what happened in this sixty-second exchange:
 - The associate immediately elevated the conversation from a transaction to a legacy heirloom.
@@ -139,7 +139,7 @@ Do not guess. Guide the client to observe what the recipient already loves:
 
 ### 2. Daily Wear & Ergonomics
 - *"What does her typical day look like? Is she at a desk, active outdoors, working in healthcare, or frequently on the go?"*
-- *"Is this a piece she will put on and never take off—showering, sleeping, exercising—or something she reserves for dinners and formal weekends?"*
+- *"Is this a piece she will put on and never take off, showering, sleeping, exercising, or something she reserves for dinners and formal weekends?"*
 
 ### 3. The Visual Smartphone Bridge
 When a client struggles to describe their partner's taste (*"I don't know... she likes normal jewelry"*), use the single most powerful tool in modern luxury retail: **the smartphone.**
@@ -178,7 +178,7 @@ Place Tier 1 and Tier 2 on a black velvet presentation pad. Invite the client to
 |---|---|---|
 | **Picks up Tier 2, ignores Tier 1** | Comfort zone is higher than Tier 1; desires substance. | Bring out Tier 3 (*"Since you appreciate that presence, look at this..."*). |
 | **Hovering over Tier 1, body tense** | $2,800 is at the upper edge of their financial comfort. | Validate Tier 1's brilliance (*"This 1-carat has extraordinary light output..."*). Do not embarrass them. |
-| **"Neither—do you have something larger?"** | High Net Worth buyer; unconcerned with price. | Step immediately into your premier collection or custom design. |
+| **"Neither, do you have something larger?"** | High Net Worth buyer; unconcerned with price. | Step immediately into your premier collection or custom design. |
 | **"Fifty-four hundred is more than I wanted to do."** | Boundaries established comfortably. | *"Understood completely! Let's explore between twenty-two hundred and thirty-two hundred where the sweet spot of value is."* |
 
 Through this gentle calibration, the client reveals their financial parameters naturally, safely, and without feeling judged or cornered.
@@ -214,7 +214,7 @@ On the fine jewelry sales floor, you will regularly encounter clients whose body
 1. **Normalize the Overwhelm:** Explicitly tell them that feeling overwhelmed is normal.
    > *"If all of these settings and grading scales feel like a foreign language, relax. Nobody is born knowing diamond specifications. My job is simply to make you the most confident person in the room."*
 2. **Eliminate Risk with House Policies:** Early in discovery, neutralize the fear of making a mistake.
-   > *"Keep in mind: whatever we select today is backed by our full 30-day exchange privilege and complimentary custom sizing. You cannot make a mistake here—if she wants a different mounting, we take care of it seamlessly."*
+   > *"Keep in mind: whatever we select today is backed by our full 30-day exchange privilege and complimentary custom sizing. You cannot make a mistake here, if she wants a different mounting, we take care of it seamlessly."*
 3. **Take Ownership of the Outcome:** 
    > *"We are going to make you look like an absolute hero when she opens this box."*
 
@@ -229,11 +229,11 @@ On the fine jewelry sales floor, you will regularly encounter clients whose body
 ### Edge Case 2: The Couple with Disagreeing Taste
 - **The Situation:** The fiancé wants an ultra-simple solitaire; the fiancée is captivated by a 3-carat oval with a hidden halo and pavé band.
 - **The Mistake:** Taking a side or pointing out the price difference between their choices.
-- **The Solution:** Pivot to harmony. Validate both instincts. *"You both have incredible eye. Marcus loves the eternal purity of the solitaire—which will never go out of style—and Sarah loves the fire and modern silhouette of the elongated oval. What if we design a ring that embodies the clean, timeless lines Marcus loves from the top, but incorporates the surprise pavé collar underneath for Sarah?"*
+- **The Solution:** Pivot to harmony. Validate both instincts. *"You both have incredible eye. Marcus loves the eternal purity of the solitaire, which will never go out of style, and Sarah loves the fire and modern silhouette of the elongated oval. What if we design a ring that embodies the clean, timeless lines Marcus loves from the top, but incorporates the surprise pavé collar underneath for Sarah?"*
 
 ### Edge Case 3: The Price-Obsessed Shopper Who Demands Numbers Instantly
 - **The Situation:** Walks straight to the showcase: *"How much per carat on this one right here?"*
-- **The Solution:** Answer the question transparently, then immediately pivot to context. *"That magnificent stone is sixty-four hundred. What makes that particular diamond remarkable is its zero-light-leakage cut. Tell me—are you comparing specific cut grades, or trying to understand how different sizes look within that range?"* Never dodge price, but never let price remain isolated from value.
+- **The Solution:** Answer the question transparently, then immediately pivot to context. *"That magnificent stone is sixty-four hundred. What makes that particular diamond remarkable is its zero-light-leakage cut. Tell me, are you comparing specific cut grades, or trying to understand how different sizes look within that range?"* Never dodge price, but never let price remain isolated from value.
 
 ---
 
@@ -242,7 +242,7 @@ On the fine jewelry sales floor, you will regularly encounter clients whose body
 | Discovery Stage | Primary Goal | Deadly Mistake to Avoid | Master Floor Question |
 |---|---|---|---|
 | **Stage 1: Occasion** | Reveal the emotional milestone | Starting with product specs | *"What is the wonderful celebration bringing you into the salon today?"* |
-| **Stage 2: Lifestyle** | Ensure durability and aesthetic fit | Assuming everyone wears jewelry the same way | *"What does her typical day look like—is she active, in healthcare, or at a desk?"* |
+| **Stage 2: Lifestyle** | Ensure durability and aesthetic fit | Assuming everyone wears jewelry the same way | *"What does her typical day look like, is she active, in healthcare, or at a desk?"* |
 | **Stage 3: Taste** | Pinpoint visual silhouette | Demanding technical jewelry terms | *"Show me two or three photos on your phone of her dressed up for a favorite night out."* |
 | **Stage 4: Investment** | Determine comfortable financial tier | Asking *"What's your budget?"* | Pulling two comparative trays: *"When you see these side by side, which feels closer to the presence you had in mind?"* |
 
@@ -291,6 +291,6 @@ Test your command of consultative discovery before progressing to Module 3:
 
 ## Media Credits & External Links
 
-- [INSTORE Magazine — Sales Floor Discovery Techniques](https://instoremag.com/)
-- [JCK Online — The High-Ticket Consultation Playbook](https://www.jckonline.com/)
-- [The Jewelers Playbook — Video Masterclass on Luxury Discovery](https://www.youtube.com/@TheJewelersPlaybook)
+- [INSTORE Magazine: Sales Floor Discovery Techniques](https://instoremag.com/)
+- [JCK Online: The High-Ticket Consultation Playbook](https://www.jckonline.com/)
+- [The Jewelers Playbook: Video Masterclass on Luxury Discovery](https://www.youtube.com/@TheJewelersPlaybook)

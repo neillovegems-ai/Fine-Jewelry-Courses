@@ -49,7 +49,7 @@ To an insecure or untrained sales associate, this is an agonizing moment. Novice
 
 Master client advisors do not fear the smartphone. **They welcome it.**
 
-An educated consumer who has researched the 4Cs online is ten times closer to buying than a disengaged browser. When a client pulls out an online price, they aren't rejecting you—they are simply asking you to **justify the difference between a two-dimensional piece of paper and a three-dimensional living gemstone.**
+An educated consumer who has researched the 4Cs online is ten times closer to buying than a disengaged browser. When a client pulls out an online price, they aren't rejecting you, they are simply asking you to **justify the difference between a two-dimensional piece of paper and a three-dimensional living gemstone.**
 
 ---
 
@@ -59,7 +59,7 @@ The fundamental flaw in online diamond shopping is the mistaken belief that a GI
 
 It is not. **A GIA grading report is a census of physical boundaries.**
 
-Two diamonds can possess identical GIA certificates—both graded 1.75ct, F color, VS2 clarity, Triple Excellent—and yet, when placed side by side under natural daylight:
+Two diamonds can possess identical GIA certificates, both graded 1.75ct, F color, VS2 clarity, Triple Excellent, and yet, when placed side by side under natural daylight:
 - **Stone A** explodes with scintillating white brilliance, vivid rainbow dispersion, and crisp facet contrast.
 - **Stone B** appears lifeless, dark in the center, hazy, or displays an unappealing grayish tint.
 
@@ -254,6 +254,6 @@ Test your command of showrooming defense before progressing to Module 8:
 
 ## Media Credits & External Links
 
-- [GIA Gem Encyclopedia — Diamond Cut & Scintillation](https://www.gia.edu/gem-encyclopedia)
-- [INSTORE Magazine — Showrooming Defense Tactics](https://instoremag.com/)
-- [The Jewelers Playbook — Video Masterclass on Beating Online Diamond Discounters](https://www.youtube.com/@TheJewelersPlaybook)
+- [GIA Gem Encyclopedia: Diamond Cut & Scintillation](https://www.gia.edu/gem-encyclopedia)
+- [INSTORE Magazine: Showrooming Defense Tactics](https://instoremag.com/)
+- [The Jewelers Playbook: Video Masterclass on Beating Online Diamond Discounters](https://www.youtube.com/@TheJewelersPlaybook)

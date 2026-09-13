@@ -1,4 +1,4 @@
-# Morning Huddle Card: Module 6 — Winning the "I'll Think About It" Client
+# Morning Huddle Card: Module 6: Winning the "I'll Think About It" Client
 
 ## 10-Minute Team Meeting Focus
 

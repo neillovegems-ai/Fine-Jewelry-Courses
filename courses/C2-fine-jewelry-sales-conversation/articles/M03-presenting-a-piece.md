@@ -37,7 +37,7 @@ A client is seated across from you in the consultation salon. You have conducted
 
 You unlock the high-jewelry vitrine, pull out a 2.10-carat round brilliant solitaire in platinum, place the GIA grading dossier on the counter, and begin your presentation:
 
-> *"This is a 2.10-carat round brilliant diamond. It is an F color, which means it is in the colorless range, and a VS1 clarity, so there are only microscopic inclusions that you can't see with the naked eye. The cut grade is Excellent, polish is Excellent, and symmetry is Excellent—what we call Triple Ex. The table percentage is 57% and the depth is 61.8%. The ring is mounted in 950 platinum with four prongs."*
+> *"This is a 2.10-carat round brilliant diamond. It is an F color, which means it is in the colorless range, and a VS1 clarity, so there are only microscopic inclusions that you can't see with the naked eye. The cut grade is Excellent, polish is Excellent, and symmetry is Excellent, what we call Triple Ex. The table percentage is 57% and the depth is 61.8%. The ring is mounted in 950 platinum with four prongs."*
 
 You pause, expecting gasps of admiration. Instead, the client looks down at the certificate, nods politely, and asks:
 
@@ -91,7 +91,7 @@ Most customers view a jeweler's loupe as an intimidating, mysterious instrument 
 >
 > **Client:** *"No, I've never used one."*
 >
-> **Associate:** *"It is an entirely different universe in there. Let me show you how it works—it takes ten seconds to learn. Hold the loupe directly up against your eyeglasses or eyelashes with your dominant hand. Keep both eyes open so your eye doesn't fatigue. Now, bring the ring slowly toward the lens until the facet junctions snap into razor-sharp focus."*
+> **Associate:** *"It is an entirely different universe in there. Let me show you how it works, it takes ten seconds to learn. Hold the loupe directly up against your eyeglasses or eyelashes with your dominant hand. Keep both eyes open so your eye doesn't fatigue. Now, bring the ring slowly toward the lens until the facet junctions snap into razor-sharp focus."*
 
 ### The Psychological Impact of the Loupe
 - **Radical Transparency:** You communicate complete confidence that you have nothing to hide.
@@ -120,7 +120,7 @@ Instead, use an **assumptive physical invitation**:
 Once the piece is on the client's finger or wrist:
 1. **Hand Them the Counter Mirror Immediately:** Never let a client look only down at their own hand. Hand them an angled, high-clarity mirror.
 2. **The Arm's-Length Rule:** Guide them to step back three paces from the mirror and drop their hand naturally to their side:
-   > *"Notice how the light catches across the room. People rarely look at your jewelry from three inches away—they see it when you're speaking, gesturing over dinner, or walking into a room."*
+   > *"Notice how the light catches across the room. People rarely look at your jewelry from three inches away, they see it when you're speaking, gesturing over dinner, or walking into a room."*
 3. **Step Back in Silence:** The moment the client looks into the mirror, stop talking for five full seconds. Let the emotional resonance take root without your voice intruding on the experience.
 
 ---
@@ -147,7 +147,7 @@ To present fine jewelry like a master client advisor, convert every technical fe
 
 - **Feature:** *"This diamond carries GIA's highest cut grade: Triple Excellent in cut, polish, and symmetry, with a tightly calibrated 57% table and 34.5° crown angle."*
 - **Benefit:** *"What that engineering means is zero light leakage. Every beam of ambient light entering the crown bounces internally like a hall of mirrors and shoots directly back out as white brilliance and rainbow fire."*
-- **Emotion:** *"When she walks into a candlelit restaurant or an evening gala, this ring commands the room before she even says a word. You get the quiet confidence of knowing you didn't just buy a diamond—you gave her the brightest light in the room."*
+- **Emotion:** *"When she walks into a candlelit restaurant or an evening gala, this ring commands the room before she even says a word. You get the quiet confidence of knowing you didn't just buy a diamond, you gave her the brightest light in the room."*
 - **Story:** *"Out of all the rough diamonds mined from the earth, fewer than five percent are cut with this obsessive standard of geometric perfection. The cutter sacrificed significant carat weight from the raw crystal just to ensure its optical life was flawless."*
 
 ---
@@ -155,7 +155,7 @@ To present fine jewelry like a master client advisor, convert every technical fe
 ### Example 2: Hand-Forged Platinum Setting
 
 - **Feature:** *"This mounting is hand-forged in 950 platinum with solid wire prongs, rather than cast in hollow gold."*
-- **Benefit:** *"Platinum has unmatched molecular density. Unlike white gold, which wears down over time and requires rhodium plating to stay white, platinum never loses metal when polished—it merely displaces into a rich, velvety patina that holds your diamond with absolute security."*
+- **Benefit:** *"Platinum has unmatched molecular density. Unlike white gold, which wears down over time and requires rhodium plating to stay white, platinum never loses metal when polished, it merely displaces into a rich, velvety patina that holds your diamond with absolute security."*
 - **Emotion:** *"You never have to experience that heart-stopping panic of looking down at your hand and wondering if a prong bent or a stone loosened. It gives you complete peace of mind through decades of everyday life."*
 - **Story:** *"King Louis XVI of France declared platinum 'the only metal fit for kings,' and Cartier pioneered its use in Edwardian masterworks because it allowed jewelers to hold magnificent stones in gossamer-thin, virtually invisible mountings that outlive generations."*
 
@@ -192,7 +192,7 @@ Storytelling fails on the sales floor when it feels like a rehearsed monologue. 
 > *"When you consider that this diamond crystallized a hundred miles beneath the earth's crust before dinosaurs walked the earth, survived a volcanic ascent through a kimberlite pipe, and was polished by hand in Antwerp just to sit on your hand today... it makes modern life feel beautifully timeless."*
 
 ### 2. The Artisan Craftsmanship Bridge
-> *"Look closely at the underside of this gallery. See how the jeweler hand-pierced each open-work scroll? That detail is completely invisible to anyone standing across from you—it exists solely for the person wearing it."*
+> *"Look closely at the underside of this gallery. See how the jeweler hand-pierced each open-work scroll? That detail is completely invisible to anyone standing across from you, it exists solely for the person wearing it."*
 
 ### 3. The Generational Heirloom Bridge
 > *"Fine jewelry is one of the only physical possessions we buy in our lifetime that never ends up in a landfill. Fifty years from now, someone you love will hold this exact piece and tell their children your story."*
@@ -207,7 +207,7 @@ Storytelling fails on the sales floor when it feels like a rehearsed monologue. 
 
 ### Edge Case 2: The Client Who Refuses to Try the Piece On
 - **The Situation:** *"Oh, I shouldn't... my hands are dry today"* or *"No, I'm just looking for someone else."*
-- **The Solution:** Never pressure, but use your own hand or a velvet display bust. *"I completely understand. Here—let me slip it onto my hand so you can see how the proportion looks in motion against skin."* Watching the piece move on another hand frequently inspires them to try it themselves.
+- **The Solution:** Never pressure, but use your own hand or a velvet display bust. *"I completely understand. Here, let me slip it onto my hand so you can see how the proportion looks in motion against skin."* Watching the piece move on another hand frequently inspires them to try it themselves.
 
 ### Edge Case 3: The Competing Trio (Indecision Between Two Favorites)
 - **The Situation:** Client is agonizing back and forth between two rings for 15 minutes.
@@ -256,6 +256,6 @@ Test your command of presentation choreography before progressing to Module 4:
 
 ## Media Credits & External Links
 
-- [GIA Retailer Support — 4Cs Presentation Tools](https://retailer.gia.edu/)
-- [INSTORE Magazine — Counter Presentation Best Practices](https://instoremag.com/)
-- [The Jewelers Playbook — Video Training on the Velvet Tray Ritual](https://www.youtube.com/@TheJewelersPlaybook)
+- [GIA Retailer Support: 4Cs Presentation Tools](https://retailer.gia.edu/)
+- [INSTORE Magazine: Counter Presentation Best Practices](https://instoremag.com/)
+- [The Jewelers Playbook: Video Training on the Velvet Tray Ritual](https://www.youtube.com/@TheJewelersPlaybook)

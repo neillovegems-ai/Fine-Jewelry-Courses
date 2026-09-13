@@ -1,9 +1,9 @@
-# Morning Huddle Card: Module 4 — Buying Signals & Silence Discipline
+# Morning Huddle Card: Module 4: Buying Signals & Silence Discipline
 
 ## 10-Minute Team Meeting Focus
 
 ### The Core Principle
-Stop talking past the close! When a customer decides to buy, extra words create doubt. The moment you see a buying signal, your presentation is finished—step back, shut up, and let them buy.
+Stop talking past the close! When a customer decides to buy, extra words create doubt. The moment you see a buying signal, your presentation is finished, step back, shut up, and let them buy.
 
 ### Top 3 Buying Signals to Watch Today
 1. **The Pronoun Shift:** They stop saying *"that ring"* and start saying *"my ring"* or *"how will this look with my watch?"*

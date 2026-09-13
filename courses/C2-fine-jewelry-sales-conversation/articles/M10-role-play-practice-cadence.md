@@ -98,7 +98,7 @@ To ensure role-playing creates genuine confidence rather than awkward embarrassm
 > *"Yeah... I'm planning to propose to my girlfriend in about six weeks. But honestly, I have no idea where to even begin."*
 >
 > **Associate:** *(Normalizes overwhelm).* 
-> *"Congratulations, David! That is an incredible milestone. And relax—nobody is born knowing diamond specifications. My job is simply to make you the most confident person in the room. Tell me—what's her name?"*
+> *"Congratulations, David! That is an incredible milestone. And relax, nobody is born knowing diamond specifications. My job is simply to make you the most confident person in the room. Tell me, what's her name?"*
 >
 > **David:** *"Her name is Jessica."*
 >
@@ -106,10 +106,10 @@ To ensure role-playing creates genuine confidence rather than awkward embarrassm
 > *"David, rather than having you guess diamond shapes, do you have two or three photos on your phone of Jessica dressed up for a wedding or a favorite dinner? Let's see what she naturally loves to wear."*
 >
 > **David:** *(Pulls out phone, shows photos).* 
-> *"Here she is at her sister's wedding. She usually wears pretty simple things—nothing too flashy."*
+> *"Here she is at her sister's wedding. She usually wears pretty simple things, nothing too flashy."*
 >
 > **Associate:** *(Aesthetic Discovery).* 
-> *"Look at that neckline—clean, elegant, classic. She has timeless taste. She would look magnificent in a classic solitaire, where the focus is 100% on the light of the center diamond. Let's look at two options on the tray."*
+> *"Look at that neckline, clean, elegant, classic. She has timeless taste. She would look magnificent in a classic solitaire, where the focus is 100% on the light of the center diamond. Let's look at two options on the tray."*
 >
 > **[Comparative Two-Tray Calibration]**
 > *(Associate brings out two rings on a black velvet pad: a 1.25ct solitaire at $4,200 and a 1.80ct solitaire at $7,800).*
@@ -141,12 +141,12 @@ To ensure role-playing creates genuine confidence rather than awkward embarrassm
 > **Richard:** *"Okay, so tell me why it's worth fourteen thousand."*
 >
 > **Associate:** *(AARE Step 2: Anchor on the Three Value Pillars).* 
-> *"Three reasons: First, the center diamond is a GIA Triple-Excellent cut with zero light leakage—less than five percent of rough diamonds mined worldwide are cut to this standard of optical fire.*
+> *"Three reasons: First, the center diamond is a GIA Triple-Excellent cut with zero light leakage, less than five percent of rough diamonds mined worldwide are cut to this standard of optical fire.*
 > *Second, this mounting is forged in solid 950 platinum with three times the molecular density of gold. It will never wear thin, never lose prongs, and never turn yellow.*
 > *And third, that fourteen thousand includes our lifetime custodial covenant: all sizing, annual prong re-tipping, ultrasonic cleaning, and updated insurance valuations for life are handled right here by our master bench jeweler."*
 >
 > **Associate:** *(AARE Step 3: Reframe with Cost-Per-Wear).* 
-> *"Let's look at this across the horizon of your marriage. Unlike a car that loses thirty percent of its value the second you drive it home, your wife will wear this on her hand every day for the next thirty years—and then pass it to your children.*
+> *"Let's look at this across the horizon of your marriage. Unlike a car that loses thirty percent of its value the second you drive it home, your wife will wear this on her hand every day for the next thirty years, and then pass it to your children.*
 > *Over thirty years, that fourteen-thousand-dollar investment comes out to approximately **one dollar and twenty-seven cents a day**.*
 > *You spend five times that on a morning espresso. For a dollar and a quarter a day, she wears an uncompromising heirloom that reminds her of your commitment every morning she looks in the mirror."*
 >
@@ -155,7 +155,7 @@ To ensure role-playing creates genuine confidence rather than awkward embarrassm
 >
 > **Associate:** *(AARE Step 4: Explore Value-Add Attachment).* 
 > *"Richard, we price our pieces transparently from day one so every client receives the absolute best value without negotiating games. I cannot change the fourteen thousand on this ring.*
-> *What I can do for you today, as a thank you for your partnership, is include our complete bespoke botanical care suite and our expedited master appraisal—a three-hundred-dollar value—with our compliments.*
+> *What I can do for you today, as a thank you for your partnership, is include our complete bespoke botanical care suite and our expedited master appraisal, a three-hundred-dollar value, with our compliments.*
 > *Shall we finalize the paperwork and size it for her?"*
 >
 > **Richard:** *(Nods).* 
@@ -213,7 +213,7 @@ To ensure role-playing creates genuine confidence rather than awkward embarrassm
 > **Michael:** *"It's our 25th anniversary on Friday. I've been so swamped at the office that I haven't had time to shop. I need something nice, but I'm completely blanking on what to get."*
 >
 > **Associate:** *(Emotional Milestone Discovery).* 
-> *"Twenty-five years! Michael, that is a silver-to-gold milestone. A quarter-century of shared life, raising a family, and weathering every storm together. You aren't just buying a piece of jewelry today—you're choosing the piece that honors twenty-five years of partnership.*
+> *"Twenty-five years! Michael, that is a silver-to-gold milestone. A quarter-century of shared life, raising a family, and weathering every storm together. You aren't just buying a piece of jewelry today, you're choosing the piece that honors twenty-five years of partnership.*
 > *Tell me: when she gets dressed up for an anniversary dinner, what jewelry does she wear most often?"*
 >
 > **Michael:** *"She wears her diamond engagement ring and a simple gold watch. She doesn't like big, heavy necklaces."*
@@ -233,7 +233,7 @@ To ensure role-playing creates genuine confidence rather than awkward embarrassm
 >
 > **Associate:** *(The Emotional Milestone Close).* 
 > *"Michael, twenty-five years of marriage only happens once in a lifetime. Think about everything she has given to your family over the last nine thousand days.*
-> *When you hand her this box on Friday evening, you aren't giving her a bracelet—you are telling her that after twenty-five years, she is still the most treasured person in your life.*
+> *When you hand her this box on Friday evening, you aren't giving her a bracelet, you are telling her that after twenty-five years, she is still the most treasured person in your life.*
 > *Let's make this anniversary unforgettable. I'll prepare your valuation and gift-wrap this in our signature handcrafted wooden box right now so it's completely off your mind."*
 >
 > **Michael:** *(Exhales, smiles broadly).* 
@@ -309,6 +309,6 @@ Test your thorough mastery of Course C2:
 
 ## Media Credits & External Links
 
-- [INSTORE Magazine — Sales Coaching & Roleplay Guide](https://instoremag.com/)
-- [JCK Online — Training Your Sales Floor for High Performance](https://www.jckonline.com/)
-- [The Jewelers Playbook — Complete Video Catalog of Luxury Counter Simulations](https://www.youtube.com/@TheJewelersPlaybook)
+- [INSTORE Magazine: Sales Coaching & Roleplay Guide](https://instoremag.com/)
+- [JCK Online: Training Your Sales Floor for High Performance](https://www.jckonline.com/)
+- [The Jewelers Playbook: Complete Video Catalog of Luxury Counter Simulations](https://www.youtube.com/@TheJewelersPlaybook)

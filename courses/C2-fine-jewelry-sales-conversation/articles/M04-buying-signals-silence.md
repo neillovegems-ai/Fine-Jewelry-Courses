@@ -39,7 +39,7 @@ A couple is seated at the private bridal counter. The fiancée has just slipped 
 
 The partner looks at her with clear affection, reaches out to touch the platinum band, and looks up at the sales associate with relaxed shoulders. The sale has been won. The emotional decision is complete. All that remains is to confirm the ring size, invite them to celebrate, and begin the paperwork.
 
-Instead, the sales associate—fueled by nervous adrenaline and eager to prove his gemological expertise—leans forward and announces:
+Instead, the sales associate, fueled by nervous adrenaline and eager to prove his gemological expertise, leans forward and announces:
 
 > *"And keep in mind, that diamond has a medium blue fluorescence under long-wave ultraviolet light! A lot of people online will tell you that fluorescence is a bad thing, but in an I-color stone like this, it actually can make the diamond appear up to one color grade whiter in natural daylight, although in rare cases with very strong fluorescence it can cause an oily or hazy look, but this one definitely isn't hazy at all!"*
 
@@ -53,7 +53,7 @@ Twenty minutes later, they leave the boutique empty-handed.
 
 This is the catastrophic tragedy known across the luxury trade as **Talking Past the Close**. 
 
-Nervous, untrained associates suffer from **horror vacui**—the fear of empty conversational space. They believe that if there is silence on the sales floor, they are failing. In reality, relentless talking is a sign of profound insecurity. When a client is ready to buy, additional sales chatter does not add value; **it introduces friction, manufactures doubts, and destroys certainty.**
+Nervous, untrained associates suffer from **horror vacui**, the fear of empty conversational space. They believe that if there is silence on the sales floor, they are failing. In reality, relentless talking is a sign of profound insecurity. When a client is ready to buy, additional sales chatter does not add value; **it introduces friction, manufactures doubts, and destroys certainty.**
 
 Selling fine jewelry is not an act of verbal persuasion. **It is the art of knowing when to stop talking and allow the client to buy.**
 
@@ -179,7 +179,7 @@ Instead, use a **Graceful Transition Bridge** that honors their cue and smoothly
 >
 > **The Wrong Move:** Launching into a twenty-minute lecture on Mohs hardness and chlorine chemical erosion.
 >
-> **The Master Bridge:** *"Corundum is an extraordinarily durable gemstone—second only to diamond—so it handles everyday life beautifully, though we always recommend slipping it off before swimming or weights to protect the prongs. It sounds like you are already imagining wearing this as your signature everyday piece. Shall we check your exact ring size so our master jeweler can prepare it for you?"*
+> **The Master Bridge:** *"Corundum is an extraordinarily durable gemstone, second only to diamond, so it handles everyday life beautifully, though we always recommend slipping it off before swimming or weights to protect the prongs. It sounds like you are already imagining wearing this as your signature everyday piece. Shall we check your exact ring size so our master jeweler can prepare it for you?"*
 
 ---
 
@@ -271,6 +271,6 @@ Test your mastery of buying signals and silence discipline before progressing to
 
 ## Media Credits & External Links
 
-- [INSTORE Magazine — Floor Sales & Buying Signals](https://instoremag.com/)
-- [JCK Online — The High-Ticket Closing Playbook](https://www.jckonline.com/)
-- [The Jewelers Playbook — Video Masterclass on Reading Buying Signals](https://www.youtube.com/@TheJewelersPlaybook)
+- [INSTORE Magazine: Floor Sales & Buying Signals](https://instoremag.com/)
+- [JCK Online: The High-Ticket Closing Playbook](https://www.jckonline.com/)
+- [The Jewelers Playbook: Video Masterclass on Reading Buying Signals](https://www.youtube.com/@TheJewelersPlaybook)

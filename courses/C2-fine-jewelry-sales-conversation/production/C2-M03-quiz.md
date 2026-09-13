@@ -27,7 +27,7 @@
 **5. How should an associate invite a customer to try on a ring?**
 - A) "Do you want to try this on, or should I leave it in the case?"
 - B) "You probably shouldn't put this on until we check your credit."
-- C) Extend the ring gently: "Slide this onto your ring finger—let's see how this proportion balances against your hand." (Correct)
+- C) Extend the ring gently: "Slide this onto your ring finger, let's see how this proportion balances against your hand." (Correct)
 - D) Tell them they must buy it before trying it on.
 
 **6. What does the "E" stand for in the FBES presentation framework?**

@@ -1,4 +1,4 @@
-# Morning Huddle Card: Module 10 — The Weekly Floor Sparring Drill
+# Morning Huddle Card: Module 10: The Weekly Floor Sparring Drill
 
 ## 10-Minute Team Meeting Focus
 

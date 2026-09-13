@@ -127,14 +127,14 @@ Never sell a cleaning kit like an impulse candy bar at the cash register. Integr
 #### Step 1: The Counter Demonstration
 While wrapping the jewelry, pull out a professional jewelry care suite (botanical cleaner, horsehair detail brush, and dual-layer polishing cloth):
 
-> **Associate:** *"Marcus, this diamond has been professionally steamed and polished to maximum fire. But diamonds are naturally lipophilic—they attract oils from hand creams and skin like a magnet. Within two weeks, normal daily wear will leave a microscopic haze underneath the table.*
+> **Associate:** *"Marcus, this diamond has been professionally steamed and polished to maximum fire. But diamonds are naturally lipophilic, they attract oils from hand creams and skin like a magnet. Within two weeks, normal daily wear will leave a microscopic haze underneath the table.*
 >
-> *Never use toothpaste or dish soap—toothpaste has abrasive pumice that dulls gold, and household soaps leave cloudy chemical residues.*
+> *Never use toothpaste or dish soap, toothpaste has abrasive pumice that dulls gold, and household soaps leave cloudy chemical residues.*
 >
 > *This is our organic botanical jewelry wash. It is completely non-toxic, safe for fine diamonds and platinum, and engineered to dissolve skin oils without damaging delicate prongs. You drop the ring in the basket for two minutes every Sunday morning, give it a light pass with this ultra-soft sable brush, rinse under warm water, and it sparkles with the exact same fire you see right now."*
 
 #### Step 2: The Bundled Recommendation
-> **Associate:** *"We have this complete salon care suite—the wash, the travel pen, and our micro-fiber finishing cloth—for thirty-five dollars. Let's tuck one into your bag today so you never have to see your ring lose its sparkle."*
+> **Associate:** *"We have this complete salon care suite, the wash, the travel pen, and our micro-fiber finishing cloth, for thirty-five dollars. Let's tuck one into your bag today so you never have to see your ring lose its sparkle."*
 
 Over 65% of clients will instantly say: *"Yes, absolutely, add that in."*
 
@@ -194,7 +194,7 @@ Use this floor reference guide to identify natural, high-conversion companions a
 
 ### Objection 2: "My Homeowners Insurance Covers Everything"
 - **The Wrong Move:** Disparaging their insurance agent.
-- **The Master Response:** *"Homeowners policies are wonderful for total house fires or burglary. But most carry a high deductible—often a thousand dollars or more—and if you file a claim for a single lost stone, your insurance company can raise your premium on your entire home. Our care plan has zero deductible, never impacts your home policy, and guarantees that our master jeweler handles your piece personally."*
+- **The Master Response:** *"Homeowners policies are wonderful for total house fires or burglary. But most carry a high deductible, often a thousand dollars or more, and if you file a claim for a single lost stone, your insurance company can raise your premium on your entire home. Our care plan has zero deductible, never impacts your home policy, and guarantees that our master jeweler handles your piece personally."*
 
 ### Objection 3: "I'll Buy the Wedding Band Next Year"
 - **The Wrong Move:** Letting them walk out without documentation.
@@ -254,6 +254,6 @@ Test your command of ethical add-on architecture before progressing to Module 9:
 
 ## Media Credits & External Links
 
-- [Jewelers Mutual — Protection & Care Insights](https://www.jewelersmutual.com/)
-- [INSTORE Magazine — Sales Floor UPT Tactics](https://instoremag.com/)
-- [The Jewelers Playbook — Video Masterclass on Multi-Unit Sales](https://www.youtube.com/@TheJewelersPlaybook)
+- [Jewelers Mutual: Protection & Care Insights](https://www.jewelersmutual.com/)
+- [INSTORE Magazine: Sales Floor UPT Tactics](https://instoremag.com/)
+- [The Jewelers Playbook: Video Masterclass on Multi-Unit Sales](https://www.youtube.com/@TheJewelersPlaybook)

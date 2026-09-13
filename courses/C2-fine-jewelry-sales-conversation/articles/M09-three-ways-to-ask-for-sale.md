@@ -5,7 +5,7 @@ title: "Three Ways to Ask for the Sale"
 persona: P1 The New Associate (secondary: P2 Maison Client Advisor, P3 Cruise/Travel Retail Specialist)
 career_stage: Stage 1, Entry / Individual Contributor
 kpi_link: Closing conversion rate; transaction velocity; pipeline velocity; sales revenue per customer
-terminal_outcome: Eradicate the fear of closing and master three non-pressured, elegant closing modalities—The Assumptive Close, The Alternative Choice Close, and The Emotional Milestone Close—to confidently guide luxury clients across the decision threshold.
+terminal_outcome: Eradicate the fear of closing and master three non-pressured, elegant closing modalities, The Assumptive Close, The Alternative Choice Close, and The Emotional Milestone Close, to confidently guide luxury clients across the decision threshold.
 word_count: 3600
 prerequisite: Course C2, Module 8 (Add-Ons, Protection Plans and Care Products Done Ethically)
 status: polished (Production Ready for Jewelswell LMS)
@@ -56,7 +56,7 @@ Why do intelligent, well-trained associates freeze when it comes time to close?
 2. **The "Used-Car Salesman" Phobia:** High-end advisors pride themselves on luxury hospitality. They mistakenly believe that asking for money is vulgar, aggressive, or manipulative.
 3. **The Myth of the Self-Closing Client:** Inexperienced associates believe that if a client truly loves an item, they will pull out their wallet and demand to pay.
 
-In reality, **luxury consumers want to be led.** High-ticket decisions generate cognitive fear and decision fatigue. When you refuse to ask for the sale, you do not look polite—**you look uncertain.** Your hesitancy signals to the client that you lack confidence in the piece, the price, or the decision.
+In reality, **luxury consumers want to be led.** High-ticket decisions generate cognitive fear and decision fatigue. When you refuse to ask for the sale, you do not look polite, **you look uncertain.** Your hesitancy signals to the client that you lack confidence in the piece, the price, or the decision.
 
 Closing is not an act of pressure. **Closing is an act of courageous leadership that helps the client cross the threshold into celebration.**
 
@@ -102,7 +102,7 @@ The moment you observe two or more buying signals (prolonged mirror gaze, posses
 > **Associate:** *"Marcus, looking at that cushion solitaire on your hand, the proportion and balance are absolute perfection. Why don't we do this: let's take Sarah's exact ring size right now so our master workshop can have the mounting sized and polished for your Saturday proposal plans. Follow me over to the design desk."*
 
 #### Scenario B: The Milestone Anniversary Pendant
-> **Associate:** *"This royal blue sapphire is truly one-of-a-kind—it will never be duplicated. While you admire that color, let's step over to my salon desk. I'll get your GIA documentation prepared and package this in our signature handcrafted wooden box with ribbon so it's ready for her birthday dinner."*
+> **Associate:** *"This royal blue sapphire is truly one-of-a-kind, it will never be duplicated. While you admire that color, let's step over to my salon desk. I'll get your GIA documentation prepared and package this in our signature handcrafted wooden box with ribbon so it's ready for her birthday dinner."*
 
 #### Scenario C: The Self-Purchase Gift
 > **Associate:** *"Elena, this diamond tennis bracelet was designed for your wrist. It complements your watch seamlessly. Let's adjust the safety clasp to your exact comfort right now so you can walk out of our boutique wearing it today."*
@@ -110,7 +110,7 @@ The moment you observe two or more buying signals (prolonged mirror gaze, posses
 ### Why the Assumptive Close Wins:
 - It eliminates the dramatic "yes/no" tension.
 - It feels like attentive, high-touch concierge service.
-- If the client is genuinely unready, they will gently pause you without feeling cornered: *"Wait, before we size it, can we talk about financing?"*—which immediately surfaces the real issue!
+- If the client is genuinely unready, they will gently pause you without feeling cornered: *"Wait, before we size it, can we talk about financing?"*, which immediately surfaces the real issue!
 
 ---
 
@@ -197,8 +197,8 @@ What happens when you deliver an Assumptive or Alternative close, and the client
 
 ### The 3 Golden Rules of De-Escalation
 1. **Never Show Disappointment:** Keep your eyes warm and your smile relaxed. Any sign of irritation destroys trust.
-2. **Agree Instantly:** *"Of course! Forgive me—I never want you moving faster than makes you 100% comfortable."*
-3. **Pivot to the Module 6 Hesitation Isolation:** *"Tell me—is it the style, the diamond, or the investment level giving you pause?"*
+2. **Agree Instantly:** *"Of course! Forgive me, I never want you moving faster than makes you 100% comfortable."*
+3. **Pivot to the Module 6 Hesitation Isolation:** *"Tell me, is it the style, the diamond, or the investment level giving you pause?"*
 
 By reacting with total grace, you prove that your care was genuine, not a tactical sales trap.
 
@@ -255,6 +255,6 @@ Test your command of closing psychology before progressing to Module 10:
 
 ## Media Credits & External Links
 
-- [NASP — High-Performance Sales Closing Principles](https://www.nasp.com/)
-- [INSTORE Magazine — The Art of the Close](https://instoremag.com/)
-- [The Jewelers Playbook — Video Masterclass on the Three Luxury Closes](https://www.youtube.com/@TheJewelersPlaybook)
+- [NASP: High-Performance Sales Closing Principles](https://www.nasp.com/)
+- [INSTORE Magazine: The Art of the Close](https://instoremag.com/)
+- [The Jewelers Playbook: Video Masterclass on the Three Luxury Closes](https://www.youtube.com/@TheJewelersPlaybook)

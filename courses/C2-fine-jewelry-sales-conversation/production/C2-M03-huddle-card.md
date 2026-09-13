@@ -1,4 +1,4 @@
-# Morning Huddle Card: Module 3 — Presenting with the FBES Framework
+# Morning Huddle Card: Module 3: Presenting with the FBES Framework
 
 ## 10-Minute Team Meeting Focus
 
@@ -7,7 +7,7 @@ Stop reciting grading reports! Customers don't wear certificates; they wear beau
 
 ### The 3 Floor Rules for Today
 1. **The 2-Piece Maximum:** Never have more than 2 pieces on your presentation pad. If you bring out a third, put the least favorite back in the case.
-2. **The Try-On Command:** Never ask *"Do you want to try this on?"* Hand it to them: *"Slide this on your ring finger—let's see how this balance looks on your hand."*
+2. **The Try-On Command:** Never ask *"Do you want to try this on?"* Hand it to them: *"Slide this on your ring finger, let's see how this balance looks on your hand."*
 3. **The Mirror Step-Back:** Have them look in the counter mirror from 3 steps back. Most people admire jewelry from across a table, not 2 inches from their face.
 
 ### The FBES Formula

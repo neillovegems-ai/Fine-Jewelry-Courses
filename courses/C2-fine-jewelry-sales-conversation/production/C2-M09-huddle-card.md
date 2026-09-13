@@ -1,9 +1,9 @@
-# Morning Huddle Card: Module 9 — The Three Luxury Closing Modalities
+# Morning Huddle Card: Module 9: The Three Luxury Closing Modalities
 
 ## 10-Minute Team Meeting Focus
 
 ### The Core Principle
-Stop waiting for customers to beg to buy! 60% of sales die because associates are afraid to ask. Asking for the sale isn't pushy—it's leadership. Help the customer cross the **Decision Threshold**.
+Stop waiting for customers to beg to buy! 60% of sales die because associates are afraid to ask. Asking for the sale isn't pushy, it's leadership. Help the customer cross the **Decision Threshold**.
 
 ### The 3 Ways to Close Today
 1. **The Assumptive Close:** Don't ask to buy; ask to size:

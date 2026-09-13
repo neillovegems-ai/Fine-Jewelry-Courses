@@ -1,9 +1,9 @@
-# Morning Huddle Card: Module 7 — Beating the Online Smartphone Comparison
+# Morning Huddle Card: Module 7: Beating the Online Smartphone Comparison
 
 ## 10-Minute Team Meeting Focus
 
 ### The Core Principle
-Never panic when a customer pulls out their phone! Online sites sell *certificates*; we sell *living light*. When they show you a cheaper stone online, don't trash the internet—explain the difference between a blueprint and a portrait.
+Never panic when a customer pulls out their phone! Online sites sell *certificates*; we sell *living light*. When they show you a cheaper stone online, don't trash the internet, explain the difference between a blueprint and a portrait.
 
 ### The 4 Value Pillars to Use Today
 1. **Optics:** GIA reports don't show milky clouds or brown undertones. Cutters dump dead stones online.

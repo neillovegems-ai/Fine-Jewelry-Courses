@@ -63,7 +63,7 @@ Every one of these metrics is determined by whether an associate establishes con
 
 ### The Mouwatt Study: Measurable Impact of Opening Strategy
 
-The difference in wording is not merely aesthetic—it is mathematically measurable. In a retail sales study highlighted by sales trainer Leonard Mouwatt in *JCK Magazine* (*"Approach With Care: Getting Help for 'May I Help You?'"*), greeting retail shoppers with:
+The difference in wording is not merely aesthetic, it is mathematically measurable. In a retail sales study highlighted by sales trainer Leonard Mouwatt in *JCK Magazine* (*"Approach With Care: Getting Help for 'May I Help You?'"*), greeting retail shoppers with:
 
 > **"Have you been here before?"**
 
@@ -117,7 +117,7 @@ In traditional retail, associates frequently stand pinned behind a high display 
 
 One of the most effective techniques taught by elite luxury sales coaches is the **Statement Opener**. 
 
-A statement is powerful because **it is impossible to answer with "no."** It bypasses the client's reflexive defense filter because it does not ask for anything—it simply makes an insightful, complimentary observation.
+A statement is powerful because **it is impossible to answer with "no."** It bypasses the client's reflexive defense filter because it does not ask for anything, it simply makes an insightful, complimentary observation.
 
 ### Statement Openers in Practice
 
@@ -125,7 +125,7 @@ A statement is powerful because **it is impossible to answer with "no."** It byp
 *Client is leaning over a case featuring platinum round brilliant solitaires.*
 * Associate (stepping up gently at a 45-degree angle): *"There must be a serious celebration on the horizon."*
 * Client: *"Ha, yeah... we've been talking about it for two years. I think it's finally time."*
-* Associate: *"Congratulations! That is such an incredible chapter. Tell me—has she given you any hints on shapes, or are you starting with a completely blank canvas?"*
+* Associate: *"Congratulations! That is such an incredible chapter. Tell me, has she given you any hints on shapes, or are you starting with a completely blank canvas?"*
 
 #### Scenario B: Admiring a Colored Gemstone Piece
 *Client is studying an intense blue Ceylon sapphire cocktail ring.*
@@ -148,7 +148,7 @@ The goal of the first ninety seconds is not to extract a budget; it is to establ
 | **Environmental / Situational** | *"Welcome in! Did you manage to dodge the afternoon rain out there?"* | Breaks the ice with universal small talk; completely neutral and safe. |
 | **Personal / Unhurried** | *"Welcome to [Maison Name]! What fun plans do you have going on with the rest of your afternoon?"* | Invites lifestyle context without sounding nosy. |
 | **Store Familiarity (Mouwatt Script)** | *"Good afternoon! Is this your first visit with us, or have you been in before?"* | Proven ~16% sales uplift; immediately separates brand devotees from new walk-ins. |
-| **Curated Curation** | *"Welcome in! Feel free to explore—we just received three new estate pieces in that rear case this morning that are breathtaking."* | Directs curiosity toward fresh inventory while explicitly giving permission to browse freely. |
+| **Curated Curation** | *"Welcome in! Feel free to explore, we just received three new estate pieces in that rear case this morning that are breathtaking."* | Directs curiosity toward fresh inventory while explicitly giving permission to browse freely. |
 
 *Crucial rule:* These questions only work when delivered with authentic presence. If recited mechanically like an airport boarding announcement, clients detect the manipulation instantly.
 
@@ -206,7 +206,7 @@ Most novice associates interpret this as a rejection. They say *"Okay, let me kn
 > **Associate:** *"That's wonderful! That's exactly what these showcases are for. Please, take all the time you like. What caught your eye first when you walked in today?"*
 
 #### Script B (The Curiosity Bridge):
-> **Associate:** *"Of course—take your time! We have hundreds of one-of-a-kind designs out today. Are you looking for inspiration for a special milestone, or just indulging a love for beautiful jewelry?"*
+> **Associate:** *"Of course, take your time! We have hundreds of one-of-a-kind designs out today. Are you looking for inspiration for a special milestone, or just indulging a love for beautiful jewelry?"*
 
 #### Script C (The Casual Hand-Off):
 > **Associate:** *"Absolutely, enjoy the cases! My name is Sarah. I'll be right here polishing these platinum pieces. If you'd like to try anything on your hand to see how it feels, just wave me over."*
@@ -219,7 +219,7 @@ Notice what happens in Script C: you honor their independence, establish your id
 
 In the fine jewelry industry, an associate holds an extraordinary conversational advantage that electronics or apparel salespeople do not have: **clients frequently walk through the door already wearing the product category.**
 
-If a client is wearing fine jewelry—especially a diamond engagement ring, a wedding band, or a gemstone pendant—offering a complimentary inspection and professional cleaning is the ultimate relationship accelerator.
+If a client is wearing fine jewelry, especially a diamond engagement ring, a wedding band, or a gemstone pendant, offering a complimentary inspection and professional cleaning is the ultimate relationship accelerator.
 
 ### The Tactical Mechanics
 1. **Notice with sincere admiration:** Observe what they are wearing. Do not comment on tarnish or dirt; praise the design or setting.
@@ -228,7 +228,7 @@ If a client is wearing fine jewelry—especially a diamond engagement ring, a we
 3. **The Psychological Payoff:**
    - **Removes the physical barrier:** The client entrusts you with their most cherished personal possession. This creates an immediate bond of trust.
    - **Extends showroom dwell time:** While the ring is in the back room or under the steamer, the client remains comfortably in your store for an extra five to ten minutes without feeling rushed.
-   - **Natural loupe inspection:** When you return the ring, you present it on a clean velvet pad with tweezers and hand them a 10x loupe. You can point out the pristine condition of their prongs or gently note if a prong requires tightening—establishing your technical authority as a trusted gemological advisor.
+   - **Natural loupe inspection:** When you return the ring, you present it on a clean velvet pad with tweezers and hand them a 10x loupe. You can point out the pristine condition of their prongs or gently note if a prong requires tightening, establishing your technical authority as a trusted gemological advisor.
 
 *Ethical caveat:* This must be delivered as genuine hospitality, not as a predatory pretext to manufacture repair invoices or trap the client into a forced presentation.
 
@@ -262,9 +262,9 @@ By calibrating your opener to the specific person in front of you, you project t
 | **Paces quickly straight to the bridal case** | *"Can I help you find an engagement ring?"* | *"There must be an exciting proposal in the works."* | Ask about her personal aesthetic and lifestyle. |
 | **Wanders slowly along fashion cases** | *"Looking for anything special today?"* | *"Welcome in! Take all the time you'd like. What caught your eye first?"* | Highlight a newly arrived one-of-a-kind piece. |
 | **Accompanied by a friend or partner** | Talking only to the person closest to the case | Acknowledge both: *"Welcome in! What brings you two downtown this afternoon?"* | Involve both in the narrative and discovery. |
-| **Arms crossed, defensive posture** | Approaching immediately head-on | Give 20 seconds decompression. Approach at 45°: *"Welcome to [Maison]. Feel free to browse—I'm David if you'd like to see anything on."* | Step back to a nearby case to give breathing room. |
+| **Arms crossed, defensive posture** | Approaching immediately head-on | Give 20 seconds decompression. Approach at 45°: *"Welcome to [Maison]. Feel free to browse, I'm David if you'd like to see anything on."* | Step back to a nearby case to give breathing room. |
 | **Wearing worn or dull diamond jewelry** | Ignoring their existing jewelry | *"That halo setting is stunning. Let me give that a quick ultrasonic bath while you look around."* | Inspect prongs under loupe; present on velvet pad. |
-| **States firmly: "I'm just looking"** | *"Okay, let me know if you need help."* | *"I love that! Take your time. What brought you in today—exploring for gifts or treating yourself?"* | Transition smoothly to open-ended lifestyle discovery. |
+| **States firmly: "I'm just looking"** | *"Okay, let me know if you need help."* | *"I love that! Take your time. What brought you in today, exploring for gifts or treating yourself?"* | Transition smoothly to open-ended lifestyle discovery. |
 
 ---
 
@@ -292,7 +292,7 @@ To turn these principles into permanent counter habits, complete this sequential
 ### Edge Case 2: Simultaneous Walk-Ins
 * **The Situation:** Two separate parties enter the showroom within ten seconds of each other, and you are the only associate currently on the floor.
 * **The Mistake:** Giving 100% of your focus to Party A while completely ignoring Party B.
-* **The Professional Move:** Give Party A a warm welcome: *"Welcome in, I'll be with you in just a moment."* Turn immediately to Party B, make eye contact, smile, and say: *"Welcome in! Please make yourselves comfortable—I'll be right with you both."* Verifying that both parties have been seen maintains security and prevents walk-outs.
+* **The Professional Move:** Give Party A a warm welcome: *"Welcome in, I'll be with you in just a moment."* Turn immediately to Party B, make eye contact, smile, and say: *"Welcome in! Please make yourselves comfortable, I'll be right with you both."* Verifying that both parties have been seen maintains security and prevents walk-outs.
 
 ### Edge Case 3: The Client Who Directly Asks for a Discount in the First 30 Seconds
 * **The Situation:** A client walks up to a showcase, points at an item, and asks: *"What's your bottom-dollar cash price on this?"*
@@ -330,7 +330,7 @@ Test your command of the first ninety seconds before moving to Module 2:
 
 ## Media Credits & External Links
 
-- [Approach With Care: Getting Help for 'May I Help You?' — JCK Magazine](https://www.jckonline.com/magazine-article/approach-with-care-getting-help-for-may-i-help-you/)
-- [100 Things Every Jewelry Salesperson Should Know — INSTORE Magazine](https://instoremag.com/100-things-every-jewelry-salesperson-should-know/)
-- [Shane Decker: This I Know — INSTORE Magazine](https://instoremag.com/shane-decker-this-i-know/)
-- [The Jewelers Playbook — Video Training on Luxury Floor Technique](https://www.youtube.com/@TheJewelersPlaybook)
+- [Approach With Care: Getting Help for 'May I Help You?': JCK Magazine](https://www.jckonline.com/magazine-article/approach-with-care-getting-help-for-may-i-help-you/)
+- [100 Things Every Jewelry Salesperson Should Know: INSTORE Magazine](https://instoremag.com/100-things-every-jewelry-salesperson-should-know/)
+- [Shane Decker: This I Know: INSTORE Magazine](https://instoremag.com/shane-decker-this-i-know/)
+- [The Jewelers Playbook: Video Training on Luxury Floor Technique](https://www.youtube.com/@TheJewelersPlaybook)

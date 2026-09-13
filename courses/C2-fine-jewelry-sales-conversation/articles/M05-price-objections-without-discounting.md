@@ -48,7 +48,7 @@ To an untrained salesperson, knocking $2,000 off the price feels like a victory.
 In reality, that single concession caused three catastrophic commercial and psychological disasters:
 
 1. **It Proves Your Original Price Was Dishonest:** The moment you drop a price by $2,000 within ten seconds of being asked, the client's subconscious does not think: *"What a great deal!"* The client thinks: *"They were trying to rip me off for two thousand dollars. If he gave me two grand that fast, how much more is he hiding? What is this ring really worth?"*
-2. **It Decimates Your Store's Net Profitability:** In retail jewelry economics, inventory carrying costs, rent, high-security insurance, bench labor, and skilled salaries are fixed overhead. A 15% discount off the top line does not reduce profit by 15%—**it often reduces net operating profit by 40% to 60%.**
+2. **It Decimates Your Store's Net Profitability:** In retail jewelry economics, inventory carrying costs, rent, high-security insurance, bench labor, and skilled salaries are fixed overhead. A 15% discount off the top line does not reduce profit by 15%, **it often reduces net operating profit by 40% to 60%.**
 3. **It Commoditizes Craftsmanship and Rarity:** Luxury fine jewelry is not an appliance or a gallon of gasoline. It is an enduring piece of art and geological rarity. When you haggle like a flea-market vendor, you strip the piece of its dignity, romance, and prestige.
 
 Master client advisors do not cave on price. **They defend value with calm pride, intellectual clarity, and unwavering confidence in their craft.**
@@ -137,7 +137,7 @@ To elevate perceived value above the price tag, articulate the **Three Pillars o
 > *"Notice the weight in your palm. This isn't hollow commercial casting. This mounting is solid 950 platinum, forged with three times the density of gold. Our master jeweler spent sixteen hours hand-setting each micro-pavé diamond under a microscope so the prongs never catch on your wardrobe."*
 
 ### Pillar C: The Lifetime Custodial Warranty
-> *"That investment includes our complete house custodial covenant: complimentary lifetime inspections, ultrasonic cleanings, prong tightening, rhodium servicing, and an annual written insurance valuation. We aren't just selling you a ring today—we are maintaining this heirloom for the next fifty years."*
+> *"That investment includes our complete house custodial covenant: complimentary lifetime inspections, ultrasonic cleanings, prong tightening, rhodium servicing, and an annual written insurance valuation. We aren't just selling you a ring today, we are maintaining this heirloom for the next fifty years."*
 
 ---
 
@@ -156,7 +156,7 @@ $$	ext{Daily Cost-Per-Wear} = rac{	ext{Total Investment}}{	ext{Years of Wear} 	
 
 ### Worked Floor Script: The Cost-Per-Wear Calculation
 
-> **Associate:** *"Let's look at this differently. Unlike an automobile that depreciates every mile you drive, or a handbag that wears down at the seams, this platinum ring will be worn on your hand every single day for the next thirty, forty, or fifty years—and then passed to your daughter.*
+> **Associate:** *"Let's look at this differently. Unlike an automobile that depreciates every mile you drive, or a handbag that wears down at the seams, this platinum ring will be worn on your hand every single day for the next thirty, forty, or fifty years, and then passed to your daughter.*
 >
 > *If you wear this ring over the next thirty years, that twelve-thousand-dollar investment comes out to approximately **one dollar and nine cents a day**. 
 >
@@ -225,7 +225,7 @@ Look the client directly in the eye, smile warmly, and deliver this word-for-wor
 
 | Customer Challenge | Fatal Mistake (Avoid) | Master Response (AARE Framework) |
 |---|---|---|
-| **"That's more than I wanted to spend."** | Quoting a discount immediately | *"I completely respect that—it is a substantial investment. Let's look at what is creating that value, and see how that balances against the lifetime cost-per-wear."* |
+| **"That's more than I wanted to spend."** | Quoting a discount immediately | *"I completely respect that, it is a substantial investment. Let's look at what is creating that value, and see how that balances against the lifetime cost-per-wear."* |
 | **"What's your best cash price?"** | Knocking 10% to 15% off | *"We price all of our pieces transparently from day one so every client receives the absolute fairest value, whether paying by card or cash."* |
 | **"I saw a similar ring online for 20% less."** | Disparaging the competitor | *"Online certificates only tell part of the story. Let's look at this stone under the loupe and see why optical cut quality and bench security matter."* |
 | **"Can you do better on price?"** | *"Let me ask my manager."* | *"Our pricing is strictly calculated to maintain our master jewelers and lifetime warranty. What I can do is include our bespoke care and appraisal suite."* |
@@ -236,7 +236,7 @@ Look the client directly in the eye, smile warmly, and deliver this word-for-wor
 ## 7-Day Floor Implementation Plan
 
 - **Day 1 (The Discount Freeze):** Commit to zero unprompted discounts for the entire day. Notice how many clients purchase at full retail when you simply hold the line.
-- **Day 2 (Mastering the Acknowledge Step):** When a client hesitates at price, practice saying: *"I completely respect that—it is a thoughtful investment."*
+- **Day 2 (Mastering the Acknowledge Step):** When a client hesitates at price, practice saying: *"I completely respect that, it is a thoughtful investment."*
 - **Day 3 (The Cost-Per-Wear Calculation):** Perform the 30-year cost-per-wear math with at least two clients. Watch how their perception of price shifts.
 - **Day 4 (The Three Value Pillars):** Present the trio of geological cut, platinum density, and lifetime custodial warranty before quoting any price above $5,000.
 - **Day 5 (Financing as Cash Flow):** Introduce preferred client financing as a wealth-preservation tool rather than a debt burden.
@@ -274,6 +274,6 @@ Test your command of gross margin defense before progressing to Module 6:
 
 ## Media Credits & External Links
 
-- [INSTORE Magazine — Profit & Margins Guide](https://instoremag.com/)
-- [JCK Online — The Art of Handling Price Objections](https://www.jckonline.com/)
-- [The Jewelers Playbook — Video Masterclass on Selling Without Discounting](https://www.youtube.com/@TheJewelersPlaybook)
+- [INSTORE Magazine: Profit & Margins Guide](https://instoremag.com/)
+- [JCK Online: The Art of Handling Price Objections](https://www.jckonline.com/)
+- [The Jewelers Playbook: Video Masterclass on Selling Without Discounting](https://www.youtube.com/@TheJewelersPlaybook)

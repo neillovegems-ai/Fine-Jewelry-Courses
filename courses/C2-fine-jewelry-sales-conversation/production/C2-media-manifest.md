@@ -1,4 +1,4 @@
-# Course C2: The Fine Jewelry Sales Conversation — Production Media Manifest
+# Course C2: The Fine Jewelry Sales Conversation: Production Media Manifest
 
 All visual assets verified live on jewelswell.com. Images utilize responsive luxury UI card architecture with verified academic, institutional, and trade fair-use citations.
 

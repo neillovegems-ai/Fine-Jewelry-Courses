@@ -1,9 +1,9 @@
-# Morning Huddle Card: Module 8 — Ethical Add-Ons & Protection Plans
+# Morning Huddle Card: Module 8: Ethical Add-Ons & Protection Plans
 
 ## 10-Minute Team Meeting Focus
 
 ### The Core Principle
-Never send an incomplete piece out the door! Selling a single ring with zero band, zero cleaner, and zero warranty isn't good service—it leaves the customer exposed. Lift your **UPT from 1.0 to 1.35+**.
+Never send an incomplete piece out the door! Selling a single ring with zero band, zero cleaner, and zero warranty isn't good service, it leaves the customer exposed. Lift your **UPT from 1.0 to 1.35+**.
 
 ### The 3 Floor Rules for Today
 1. **Show the Matching Band Now:** Put the companion band next to the engagement ring on the tray. Don't wait until two months before the wedding!

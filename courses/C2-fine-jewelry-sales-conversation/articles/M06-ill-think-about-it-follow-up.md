@@ -112,7 +112,7 @@ Once tension is neutralized, ask the master diagnostic question that isolates th
 > 2. *The diamond itself (wondering if you've seen the right balance of size and brilliance).*
 > 3. *The investment level (wanting to make sure the numbers feel totally comfortable).*
 >
-> *Just between us—which of those three is lingering in your mind the most right now?"*
+> *Just between us, which of those three is lingering in your mind the most right now?"*
 
 ### Why the Three-Category Choice Wins:
 - It provides a safe multiple-choice framework. The client does not have to invent words; they simply pick Category 1, 2, or 3.
@@ -175,7 +175,7 @@ Master the **2-2-2 Cadence**:
 Send a personalized text message or brief email two days after their visit. The tone must be warm, supportive, and completely free of sales pressure:
 
 ### Verbatim SMS Template (48-Hour Touchpoint):
-> *"Hi Marcus, this is Elena from [Boutique Name]. I just wanted to thank you again for spending time with me on Tuesday. That 2.10ct platinum oval looked breathtaking, and your thoughtfulness toward Sarah's proposal is truly inspiring. I know you're taking your time to think things through—please know I'm here whenever questions come up. Have a wonderful weekend!"*
+> *"Hi Marcus, this is Elena from [Boutique Name]. I just wanted to thank you again for spending time with me on Tuesday. That 2.10ct platinum oval looked breathtaking, and your thoughtfulness toward Sarah's proposal is truly inspiring. I know you're taking your time to think things through, please know I'm here whenever questions come up. Have a wonderful weekend!"*
 
 ### Why It Works:
 - Mentions his partner by name (*Sarah*).
@@ -187,12 +187,12 @@ Send a personalized text message or brief email two days after their visit. The 
 
 ## Touchpoint 2: 14 Days (The Fresh Value Bridge)
 
-If the client has not responded or returned after two weeks, reach out with a legitimate, exciting reason—never with the dreadful check-in phrase: *"Just checking in to see if you made a decision."*
+If the client has not responded or returned after two weeks, reach out with a legitimate, exciting reason, never with the dreadful check-in phrase: *"Just checking in to see if you made a decision."*
 
 Always anchor Touchpoint 2 on **new inventory or helpful insight**:
 
 ### Verbatim SMS / Phone Template (2-Week Touchpoint):
-> *"Hi Marcus, hope you're having a great week! I was inspecting a new estate parcel that arrived from our diamond cutter this morning and immediately thought of you—we just received a 2.25ct oval with extraordinary cut brilliance that falls right within the investment range we discussed.*
+> *"Hi Marcus, hope you're having a great week! I was inspecting a new estate parcel that arrived from our diamond cutter this morning and immediately thought of you, we just received a 2.25ct oval with extraordinary cut brilliance that falls right within the investment range we discussed.*
 >
 > *I set it aside in our private vault for forty-eight hours so you could have first look. Would you have twenty minutes Thursday afternoon or Saturday morning to pop in and see how it compares to the one you loved?"*
 
@@ -212,7 +212,7 @@ If sixty days have elapsed, the original proposal date or anniversary milestone 
 > *Whether you've already found the perfect ring or are still exploring options, I wanted to reach out and let you know our master workshop is always at your service. If you need any advice on sizing, proposal locations downtown, or diamond guidance, my door is always open.*
 >
 > *Warmest regards,*
-> *Elena — Senior Client Advisor, [Boutique Name]"*
+> *Elena: Senior Client Advisor, [Boutique Name]"*
 
 ---
 
@@ -231,7 +231,7 @@ If sixty days have elapsed, the original proposal date or anniversary milestone 
 
 ### Edge Case 1: "I Have to Ask My Wife / Partner First"
 - **The Mistake:** Trying to convince them to buy anyway as a surprise.
-- **The Solution:** Arm them to be a hero at home. *"I respect that completely—making major decisions as a team is the secret to a great marriage. Let's make sure you have everything you need to show her tonight. Let's take a 10-second video of the ring moving under the light, and I'll text it to you right now. When you show her tonight, notice if her eyes light up. If she loves it, we can bring her in for champagne on Saturday to confirm sizing."*
+- **The Solution:** Arm them to be a hero at home. *"I respect that completely, making major decisions as a team is the secret to a great marriage. Let's make sure you have everything you need to show her tonight. Let's take a 10-second video of the ring moving under the light, and I'll text it to you right now. When you show her tonight, notice if her eyes light up. If she loves it, we can bring her in for champagne on Saturday to confirm sizing."*
 
 ### Edge Case 2: The Ghosted Client (No Reply to Text #1)
 - **The Situation:** You sent the 48-hour text and received zero response.
@@ -288,6 +288,6 @@ Test your command of follow-up and objection isolation before progressing to Mod
 
 ## Media Credits & External Links
 
-- [Endear Clienteling — Omnichannel Best Practices](https://www.endearhq.com/)
-- [INSTORE Magazine — Clienteling & Follow-Up Guide](https://instoremag.com/)
-- [The Jewelers Playbook — Video Masterclass on the 2-2-2 Follow-Up System](https://www.youtube.com/@TheJewelersPlaybook)
+- [Endear Clienteling: Omnichannel Best Practices](https://www.endearhq.com/)
+- [INSTORE Magazine: Clienteling & Follow-Up Guide](https://instoremag.com/)
+- [The Jewelers Playbook: Video Masterclass on the 2-2-2 Follow-Up System](https://www.youtube.com/@TheJewelersPlaybook)
