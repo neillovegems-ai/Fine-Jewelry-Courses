@@ -43,9 +43,9 @@ Suddenly, the associate's demeanor shifts from a gracious host to an administrat
 Instantly, the warmth leaves the room. Your internal guard snaps shut. You think: *I just spent $3,800 with you, and now you want to put me on a digital spam list that will email me promotional flyers every Tuesday morning.*
 
 You respond with the universal retail reflex:
-*"Actually, I'm in a bit of a rush—let's just skip that today."*
+*"Actually, I'm in a bit of a rush, let's just skip that today."*
 
-Or worse, you provide a burner email: `john.smith992@gmail.com`—an inbox you check once every four months to clear 10,000 unread marketing blasts.
+Or worse, you provide a burner email: `john.smith992@gmail.com`, an inbox you check once every four months to clear 10,000 unread marketing blasts.
 
 ### The Mathematics of Refusal
 
@@ -214,7 +214,7 @@ To build an actionable client book that compounds in value year after year, you 
   <figure style="background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 12px rgba(11,15,23,0.05); margin: 0;">
     <img src="https://jewelswell.com/wp-content/uploads/2026/09/m03-argyle-pink-champagne-diamonds-suite.jpg" alt="Rare Natural Fancy Colored Diamonds Suite" style="width: 100%; height: auto; display: block;" loading="lazy" />
     <figcaption style="padding: 12px 16px; background: #fdfbf7; border-top: 1px solid #f1f5f9; font-size: 13px; color: #64748b; font-style: italic;">
-      <strong>Figure 3: High-Jewelry Diamond & Gemstone Suite Curation:</strong> Profiling a client's aesthetic DNA allows advisors to reserve rare pieces—such as this Argyle fancy colored diamond suite—specifically for collectors who cherish unique natural provenance. Source: GIA Gems & Gemology (Shigley et al., 2001).
+      <strong>Figure 3: High-Jewelry Diamond & Gemstone Suite Curation:</strong> Profiling a client's aesthetic DNA allows advisors to reserve rare pieces, such as this Argyle fancy colored diamond suite, specifically for collectors who cherish unique natural provenance. Source: GIA Gems & Gemology (Shigley et al., 2001).
     </figcaption>
   </figure>
   <figure style="background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 12px rgba(11,15,23,0.05); margin: 0;">
@@ -243,7 +243,7 @@ Whenever a client wearing jewelry browses your vitrines, offer to clean their pi
 >
 > **Associate (taking the ring to the service tray):** *"While I log this in for our workshop record, let me take a quick measurement of your finger size so our jeweler can verify the shank roundness... You're a classic 6.0 on your left hand! Does your right ring finger wear the same, or is it a touch larger?"*
 >
-> **Client:** *"My right hand is actually a 6.5—my fingers swell slightly in the summer."*
+> **Client:** *"My right hand is actually a 6.5, my fingers swell slightly in the summer."*
 
 In ninety seconds, without asking for marketing data, you have:
 1. Provided high-touch, custodial luxury service.
@@ -264,7 +264,7 @@ When helping a client select a piece for themselves or discussing upcoming trave
 >
 > **Client:** *"September 18th."*
 >
-> **Associate:** *"Splendid. You know, many of our clients find it helpful when we create a private 'Wish List Dossier.' That way, if your husband ever wants to surprise you for Christmas or a future milestone, he can simply message me, and I can guide him to pieces you have personally tried on and adored—in your exact size—without him having to guess or risk getting the wrong metal. May I note this pendant and your anniversary date in your personal vault file?"*
+> **Associate:** *"Splendid. You know, many of our clients find it helpful when we create a private 'Wish List Dossier.' That way, if your husband ever wants to surprise you for Christmas or a future milestone, he can simply message me, and I can guide him to pieces you have personally tried on and adored, in your exact size, without him having to guess or risk getting the wrong metal. May I note this pendant and your anniversary date in your personal vault file?"*
 >
 > **Client:** *"Good heavens, yes! Please do. He is terrible at guessing jewelry gifts."*
 
@@ -292,7 +292,7 @@ Even with elegant framing, some clients may hesitate. Here is how to handle relu
 
 ### Hesitation A: "I don't want to get marketing emails."
 
-> **Associate:** *"I completely agree with you—our salon never sends mass marketing emails or automated newsletters. The reason I ask is strictly for your **Certificate of Origin and Warranty File**. If you ever lose your appraisal paperwork or need your prongs checked, having your dossier on file means our master jeweler can look up your piece instantly. What is your preferred mobile number for private updates?"*
+> **Associate:** *"I completely agree with you, our salon never sends mass marketing emails or automated newsletters. The reason I ask is strictly for your **Certificate of Origin and Warranty File**. If you ever lose your appraisal paperwork or need your prongs checked, having your dossier on file means our master jeweler can look up your piece instantly. What is your preferred mobile number for private updates?"*
 
 ### Hesitation B: "I'm just browsing today, no need to take my info."
 
@@ -306,7 +306,7 @@ Even with elegant framing, some clients may hesitate. Here is how to handle relu
 
 ## 5. Ethical Stewardship and Data Privacy Compliance
 
-In luxury retail, discretion is not merely a courtesy—it is a legal and fiduciary responsibility.
+In luxury retail, discretion is not merely a courtesy, it is a legal and fiduciary responsibility.
 
 High-net-worth clients entrust you with intimate details of their personal lives: their relationship milestones, family disputes, home addresses, and travel schedules. Mismanaging this information destroys trust permanently.
 

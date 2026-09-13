@@ -5,7 +5,7 @@
 
 ## Key Focus Points (5-Minute Team Sync)
 1. **The LTV Shift:** Stop viewing a customer as a single $1,200 diamond pendant sale. See them as a $45,000 5-year milestone relationship spanning anniversaries, birthdays, promotions, and heirloom upgrades.
-2. **The Morning 30:** Dedicate the first 30 minutes of your shift—before opening cases or greeting walk-ins—to executing proactive clienteling touches.
+2. **The Morning 30:** Dedicate the first 30 minutes of your shift, before opening cases or greeting walk-ins, to executing proactive clienteling touches.
 3. **The Relationship Record:** If it is not logged in the clienteling CRM, the interaction did not happen. Record every detail: aesthetic preferences, partner milestones, and wear habits.
 
 ## Daily Floor Challenge

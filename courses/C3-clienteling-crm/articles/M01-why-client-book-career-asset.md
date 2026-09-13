@@ -34,7 +34,7 @@ published_url: https://jewelswell.com/clienteling-crm/module-1-why-client-book-i
 
 Every fine jewelry sales associate knows the quiet dread of the first morning of the month. 
 
-At 9:45 AM, the store manager prints the monthly performance report. The previous month's achievements—the hard-fought $8,000 diamond solitaire, the anniversary tennis bracelet, the weekend rush—have dissolved into corporate history. The sales tracker resets to exactly **$0.00**.
+At 9:45 AM, the store manager prints the monthly performance report. The previous month's achievements, the hard-fought $8,000 diamond solitaire, the anniversary tennis bracelet, the weekend rush, have dissolved into corporate history. The sales tracker resets to exactly **$0.00**.
 
 For associates trapped in transactional selling, this reset is an exhausting treadmill. Their entire livelihoods depend on forces completely outside their control:
 - The mall or boulevard foot traffic count.
@@ -46,7 +46,7 @@ When consumer foot traffic drops by 20%, an associate who relies strictly on wal
 
 ### The Relational Alternative: Compounding Career Equity
 
-Top-performing fine jewelry advisors—those earning six-figure incomes and commanding respect across luxury maisons and premier guild jewelers—operate on an entirely different commercial plane. 
+Top-performing fine jewelry advisors, those earning six-figure incomes and commanding respect across luxury maisons and premier guild jewelers, operate on an entirely different commercial plane. 
 
 When the calendar turns to the first of the month, a master client advisor already has **60% to 80% of their monthly sales quota scheduled in private appointments**. 
 
@@ -139,7 +139,7 @@ $$	ext{Average Sale Ticket} = \$3,500$$
 
 $$	ext{Annual Personal Volume} = 150 	imes 1.8 	imes \$3,500 = \mathbf{\$945,000.00}$$
 
-With an industry-standard commission and performance bonus structure (typically 2% to 5% of net volume depending on base salary and margins), that portfolio alone generates between **$28,000 and $47,000 in personal bonus income**, on top of a solid base salary—before counting a single walk-in customer who happens to wander through the doors.
+With an industry-standard commission and performance bonus structure (typically 2% to 5% of net volume depending on base salary and margins), that portfolio alone generates between **$28,000 and $47,000 in personal bonus income**, on top of a solid base salary, before counting a single walk-in customer who happens to wander through the doors.
 
 When you view a client who just bought a $950 pair of diamond stud earrings through this lens, your perspective changes. You do not see a minor commission check of $35. You see the first seed of a **$45,000 5-year relationship asset**.
 
@@ -165,10 +165,10 @@ The answer requires both legal clarity and professional nuance.
 ### The Legal Reality: The Database vs. The Relationship
 
 1. **The Proprietary Database Belongs to the Employer:**
-   Under standard trade secret law (including the Uniform Trade Secrets Act in the US and equivalent European commercial codes), the physical or digital database—the POS records, the store CRM export, customer home addresses, phone numbers, and transaction ledgers—is the legal property of the retail store. Exporting a customer database to a personal flash drive, taking screenshots of POS client files, or downloading CRM contacts to a personal smartphone before resigning is a direct violation of employment law and can trigger immediate legal injunctions and lawsuits.
+   Under standard trade secret law (including the Uniform Trade Secrets Act in the US and equivalent European commercial codes), the physical or digital database, the POS records, the store CRM export, customer home addresses, phone numbers, and transaction ledgers, is the legal property of the retail store. Exporting a customer database to a personal flash drive, taking screenshots of POS client files, or downloading CRM contacts to a personal smartphone before resigning is a direct violation of employment law and can trigger immediate legal injunctions and lawsuits.
 
 2. **Personal Professional Goodwill Belongs to You:**
-   What cannot be owned by any corporation is **your reputation, your gemological mastery, your genuine personal relationships, and your professional integrity**. If an advisor delivers extraordinary, empathetic service over five years, clients remember the advisor's name far more vividly than the retail marquee. When a master advisor moves to a new boutique across town, loyal collectors actively seek them out—often through LinkedIn, Instagram, or community word-of-mouth.
+   What cannot be owned by any corporation is **your reputation, your gemological mastery, your genuine personal relationships, and your professional integrity**. If an advisor delivers extraordinary, empathetic service over five years, clients remember the advisor's name far more vividly than the retail marquee. When a master advisor moves to a new boutique across town, loyal collectors actively seek them out, often through LinkedIn, Instagram, or community word-of-mouth.
 
 ```text
 ========================================================================================

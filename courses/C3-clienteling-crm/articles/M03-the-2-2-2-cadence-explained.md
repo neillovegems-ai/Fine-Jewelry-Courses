@@ -98,7 +98,7 @@ The **2-2-2 Cadence** is the luxury industry's proven antidote to emotional deca
 
 ---
 
-## 2. Step 1: Day 2 — The Pure Gratitude Touchpoint
+## 2. Step 1: Day 2: The Pure Gratitude Touchpoint
 
 The Day 2 touchpoint occurs exactly **48 hours post-purchase**. 
 
@@ -187,7 +187,7 @@ A client who receives a handwritten envelope with a real postage stamp in their 
 >
 > *It was an absolute pleasure assisting you on Tuesday as you prepared for your 15th wedding anniversary with Sarah.*
 >
-> *The Colombian emerald three-stone ring you selected is extraordinary—the vivid crystalline green and clean step-cut facets possess a regal elegance that suits her style beautifully. I know how much thought and love went into your decision, and I have no doubt that dinner at Le Cirque on Friday will be an unforgettable evening for both of you.*
+> *The Colombian emerald three-stone ring you selected is extraordinary, the vivid crystalline green and clean step-cut facets possess a regal elegance that suits her style beautifully. I know how much thought and love went into your decision, and I have no doubt that dinner at Le Cirque on Friday will be an unforgettable evening for both of you.*
 >
 > *Wishing you both a wonderful anniversary celebration.*
 >
@@ -200,7 +200,7 @@ A client who receives a handwritten envelope with a real postage stamp in their 
 >
 > *What a joyous milestone! Selecting the diamond solitaire for Julia yesterday was truly a privilege.*
 >
-> *The 2.05 ct Oval F/VS1 you chose has breathtaking fire and proportion—it was unquestionably the stone that spoke to you. As you finalize your proposal plans for the trip to Napa next weekend, I wish you every happiness. Please give Julia my warmest congratulations!*
+> *The 2.05 ct Oval F/VS1 you chose has breathtaking fire and proportion, it was unquestionably the stone that spoke to you. As you finalize your proposal plans for the trip to Napa next weekend, I wish you every happiness. Please give Julia my warmest congratulations!*
 >
 > *Sincerely,*  
 > **Marcus Sterling**
@@ -218,7 +218,7 @@ A client who receives a handwritten envelope with a real postage stamp in their 
 
 ---
 
-## 3. Step 2: Week 2 — The Custodial Care & Fit Check-In
+## 3. Step 2: Week 2: The Custodial Care & Fit Check-In
 
 Fourteen days post-purchase, the client has now worn the piece in daily life. 
 
@@ -257,11 +257,11 @@ When inviting clients for cleaning, remember your gemological training:
 
 ---
 
-## 4. Step 3: Month 2 — The Curated Horizon Touchpoint
+## 4. Step 3: Month 2: The Curated Horizon Touchpoint
 
 Approximately sixty days post-purchase, the initial transaction is fully digested. The client trusts your expertise, respects your discretion, and knows that you are not a predatory salesperson.
 
-Now—and only now—is the time to introduce **The Curated Horizon**.
+Now, and only now, is the time to introduce **The Curated Horizon**.
 
 ### The Principle of the Natural Companion
 You never reach out at Month 2 with a generic *"Hey, do you want to buy anything else?"* 
@@ -291,7 +291,7 @@ Instead, you curate a specific piece that acts as the **natural stylistic compan
 ### Verbatim Month 2 Outreach Scripts
 
 #### Script A: The Private Atelier Hold (Photo/Video Text)
-> *"Hello David! Elena here. I was inspecting a new memo arrival from our Paris workshop this morning and immediately thought of you and Sarah. It is an 18K white gold bezel-set tennis bracelet with 4.50 carats of matching F/VS diamonds that shares the exact clean, low-profile architecture of her ring. I took a 10-second video of it in natural morning daylight [attached]. I have it reserved in our private vault through Thursday—would you like to drop by tomorrow afternoon to view it over coffee?"*
+> *"Hello David! Elena here. I was inspecting a new memo arrival from our Paris workshop this morning and immediately thought of you and Sarah. It is an 18K white gold bezel-set tennis bracelet with 4.50 carats of matching F/VS diamonds that shares the exact clean, low-profile architecture of her ring. I took a 10-second video of it in natural morning daylight [attached]. I have it reserved in our private vault through Thursday, would you like to drop by tomorrow afternoon to view it over coffee?"*
 
 #### Script B: Bridal Band Planning (4-6 Months Out)
 > *"Hi Michael! Hope Napa was magical and that Julia is still staring at her hand! When you two are ready, I would love to invite both of you into the salon to try on band profiles next to her oval solitaire. Most couples prefer to finalize bands three to four months before the ceremony so the ring can be custom-curved to sit perfectly flush. Let me know what Saturday works for a private champagne fitting!"*

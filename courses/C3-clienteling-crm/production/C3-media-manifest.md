@@ -1,4 +1,4 @@
-# Course C3: Clienteling & CRM — Building a Client Book That Compounds — Production Media Manifest
+# Course C3: Clienteling & CRM: Building a Client Book That Compounds: Production Media Manifest
 
 All visual assets verified live on jewelswell.com. Images and analytical frameworks utilize responsive luxury UI card architecture with verified academic, institutional, and historic fair-use citations.
 

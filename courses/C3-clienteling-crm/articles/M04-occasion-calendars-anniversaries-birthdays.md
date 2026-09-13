@@ -41,7 +41,7 @@ According to decades of consumer research from De Beers, the World Gold Council,
 - The birth of a child ("push present" or family birthstone addition).
 - A major career achievement (partner promotion, medical graduation, company sale).
 
-In transactional retail, associates treat these milestones as happy accidents. They wait for a flustered customer to rush into the showroom at 5:30 PM on a Friday afternoon saying: *"My 10th anniversary is tomorrow night, and I don't have anything—what do you have in stock?"*
+In transactional retail, associates treat these milestones as happy accidents. They wait for a flustered customer to rush into the showroom at 5:30 PM on a Friday afternoon saying: *"My 10th anniversary is tomorrow night, and I don't have anything, what do you have in stock?"*
 
 In luxury clienteling, **accidents do not exist**. 
 
@@ -236,7 +236,7 @@ When an associate masters this calendar, they never wonder *"What should I say t
   <figure style="background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 12px rgba(11,15,23,0.05); margin: 0;">
     <img src="https://jewelswell.com/wp-content/uploads/2026/09/m12-cartier-65ct-kashmir-sapphire-bracelet.jpg" alt="Cartier 65 ct Kashmir Sapphire and Diamond Bracelet" style="width: 100%; height: auto; display: block;" loading="lazy" />
     <figcaption style="padding: 12px 16px; background: #fdfbf7; border-top: 1px solid #f1f5f9; font-size: 13px; color: #64748b; font-style: italic;">
-      <strong>Figure 3: Historic Milestone Masterwork:</strong> Cartier's 65-carat Kashmir sapphire and diamond Art Deco bracelet. Elite client advisors deploy anniversary gemstone milestones—such as the 5th (Sapphire) or 10th (Diamond)—to curate multi-piece suites over decades. Source: GIA Gems & Gemology.
+      <strong>Figure 3: Historic Milestone Masterwork:</strong> Cartier's 65-carat Kashmir sapphire and diamond Art Deco bracelet. Elite client advisors deploy anniversary gemstone milestones, such as the 5th (Sapphire) or 10th (Diamond), to curate multi-piece suites over decades. Source: GIA Gems & Gemology.
     </figcaption>
   </figure>
   <figure style="background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 12px rgba(11,15,23,0.05); margin: 0;">
@@ -293,7 +293,7 @@ Reaching out to a spouse requires absolute discretion. You must never spoil a su
 > *I have the matching bracelet reserved in our vault through next Friday. I'd love to welcome you into our private salon for 15 minutes to inspect it over an espresso so you have her gift completely arranged without any last-minute stress. Would Thursday at 11:30 AM or Friday at 2:00 PM suit your schedule?"*
 
 ### Script 2: Handling the "I Haven't Thought About It Yet" Response
-> **Spouse:** *"Thanks for reaching out Marcus, but November is still a month away—I haven't even thought about what to do yet."*
+> **Spouse:** *"Thanks for reaching out Marcus, but November is still a month away, I haven't even thought about what to do yet."*
 >
 > **Associate:** *"Completely understand, Robert! That is precisely why I reached out early. Most gentlemen tell me that having Claire's exact wish list on file saves them hours of searching and eliminates the risk of guessing the wrong size or style. There is zero pressure to buy today; let's simply look at two curated options so when you are ready to make a decision, everything is effortless. Shall I hold the piece for you until Friday?"*
 

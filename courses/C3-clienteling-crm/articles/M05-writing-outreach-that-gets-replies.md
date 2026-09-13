@@ -37,9 +37,9 @@ Every luxury consumer's smartphone is a fortress.
 Every day, high-net-worth clients receive dozens of marketing emails and automated SMS broadcasts:
 - *"SUMMER BLOWOUT: SAVE 25% THIS WEEKEND ONLY!"*
 - *"We miss you! Come in today for special financing."*
-- *"New arrivals just landed—click here to shop now."*
+- *"New arrivals just landed, click here to shop now."*
 
-To a discerning fine jewelry collector, these messages are worse than spam—they are an aesthetic insult. They scream that the retailer views them as an anonymous entry in an email marketing software database. 
+To a discerning fine jewelry collector, these messages are worse than spam, they are an aesthetic insult. They scream that the retailer views them as an anonymous entry in an email marketing software database. 
 
 When you send a mass marketing blast, you train your clients to ignore your name. 
 
@@ -269,7 +269,7 @@ When sending photos or videos via WhatsApp, SMS, or email, your smartphone camer
 Follow these **Five Golden Rules of Mobile Jewelry Staging**:
 
 1. **Light with Indirect Natural Light:**  
-   Never shoot under direct halogen spotlights—they create blown-out white flares and obscure facet details. Step near a large window with soft, indirect morning daylight (approx. 5000K–5500K equivalent).
+   Never shoot under direct halogen spotlights, they create blown-out white flares and obscure facet details. Step near a large window with soft, indirect morning daylight (approx. 5000K–5500K equivalent).
 2. **Use Neutral, Matte Backgrounds:**  
    Rest pieces on matte black velvet, textured grey linen, or natural travertine stone. Avoid reflective polished surfaces that double-reflect glare into the lens.
 3. **Show Scale and Human Touch:**  

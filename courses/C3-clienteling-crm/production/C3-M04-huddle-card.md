@@ -5,7 +5,7 @@
 
 ## Key Focus Points (5-Minute Team Sync)
 1. **The 30-Day Trigger:** Today, look exactly 30 days ahead in your CRM calendar. Identify any client whose anniversary falls in four weeks.
-2. **Contact the Gifting Partner:** Reach out to the purchasing partner with a curated idea from their spouse's wish list: "Sarah loved our platinum emerald eternity band—I've set it aside for your anniversary on the 24th."
+2. **Contact the Gifting Partner:** Reach out to the purchasing partner with a curated idea from their spouse's wish list: "Sarah loved our platinum emerald eternity band, I've set it aside for your anniversary on the 24th."
 3. **The Anniversary Gemstone Guide:** Know the milestones: 1st Gold, 5th Sapphire, 10th Diamond, 15th Ruby, 20th Emerald.
 
 ## Daily Floor Challenge

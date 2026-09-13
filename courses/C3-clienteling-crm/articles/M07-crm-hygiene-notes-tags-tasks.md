@@ -32,7 +32,7 @@ published_url: https://jewelswell.com/clienteling-crm/module-7-crm-hygiene-notes
 
 ## 1. The Garbage-In, Garbage-Out Trap
 
-A luxury Customer Relationship Management (CRM) system—whether **The Edge**, **Clientbook**, **Salesforce Luxury Cloud**, or **Endear**—is either a **compounding revenue engine** or a **digital graveyard**. 
+A luxury Customer Relationship Management (CRM) system, whether **The Edge**, **Clientbook**, **Salesforce Luxury Cloud**, or **Endear**, is either a **compounding revenue engine** or a **digital graveyard**. 
 
 The difference is determined entirely by **data hygiene**.
 
@@ -44,7 +44,7 @@ However, in fine jewelry, the far greater threat is **internal data pollution ca
 - Missing contact permissions: zero phone numbers, burner emails, or unrecorded communication preferences.
 - Piles of overdue tasks: dozens of red notification badges from three months ago that no one ever clears.
 
-When a client book becomes polluted with dead data, the entire clienteling mechanism grinds to a halt. Associates stop trusting the system. They revert to unorganized sticky notes, paper scraps, or mental guesses—and the salon returns to the fragile, stressful trap of relying entirely on walk-in door swings.
+When a client book becomes polluted with dead data, the entire clienteling mechanism grinds to a halt. Associates stop trusting the system. They revert to unorganized sticky notes, paper scraps, or mental guesses, and the salon returns to the fragile, stressful trap of relying entirely on walk-in door swings.
 
 ---
 
