@@ -26,9 +26,9 @@ The learner can:
 | 2 | Discovery: The Questions That Reveal the Real Purchase | P1 | Polished with Antigravity (Fact-check verified, Step 2-5 complete, Published to Jewelswell LMS) |
 | 3 | Presenting a Piece: Feature, Benefit, Emotion, Story | P1 | Polished with Antigravity (Fact-check verified, Step 2-5 complete, Published to Jewelswell LMS) |
 | 4 | Buying Signals and When to Stop Talking | P1 | Polished with Antigravity (Fact-check verified, Step 2-5 complete, Published to Jewelswell LMS) |
-| 5 | Price Objections Without Discounting | P1 | Not started |
-| 6 | "I'll Think About It" and the Follow-Up That Wins | P1 | Not started |
-| 7 | Online Comparison and the Showrooming Client | P1 | Not started |
+| 5 | Price Objections Without Discounting | P1 | Polished with Antigravity (Fact-check verified, Step 2-5 complete, Published to Jewelswell LMS) |
+| 6 | "I'll Think About It" and the Follow-Up That Wins | P1 | Polished with Antigravity (Fact-check verified, Step 2-5 complete, Published to Jewelswell LMS) |
+| 7 | Online Comparison and the Showrooming Client | P1 | Polished with Antigravity (Fact-check verified, Step 2-5 complete, Published to Jewelswell LMS) |
 | 8 | Add-Ons, Protection Plans and Care Products Done Ethically | P1 | Not started |
 | 9 | Three Ways to Ask for the Sale | P1 | Not started |
 | 10 | Role-Play Scripts and a Weekly Practice Cadence | P1 | Not started |
