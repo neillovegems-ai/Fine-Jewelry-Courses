@@ -29,9 +29,9 @@ The learner can:
 | 5 | Price Objections Without Discounting | P1 | Polished with Antigravity (Fact-check verified, Step 2-5 complete, Published to Jewelswell LMS) |
 | 6 | "I'll Think About It" and the Follow-Up That Wins | P1 | Polished with Antigravity (Fact-check verified, Step 2-5 complete, Published to Jewelswell LMS) |
 | 7 | Online Comparison and the Showrooming Client | P1 | Polished with Antigravity (Fact-check verified, Step 2-5 complete, Published to Jewelswell LMS) |
-| 8 | Add-Ons, Protection Plans and Care Products Done Ethically | P1 | Not started |
-| 9 | Three Ways to Ask for the Sale | P1 | Not started |
-| 10 | Role-Play Scripts and a Weekly Practice Cadence | P1 | Not started |
+| 8 | Add-Ons, Protection Plans and Care Products Done Ethically | P1 | Polished with Antigravity (Fact-check verified, Step 2-5 complete, Published to Jewelswell LMS) |
+| 9 | Three Ways to Ask for the Sale | P1 | Polished with Antigravity (Fact-check verified, Step 2-5 complete, Published to Jewelswell LMS) |
+| 10 | Role-Play Scripts and a Weekly Practice Cadence | P1 | Polished with Antigravity (Fact-check verified, Step 2-5 complete, Published to Jewelswell LMS) |
 
 ## Production artifacts
 
