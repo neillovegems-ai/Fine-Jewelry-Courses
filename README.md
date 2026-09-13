@@ -19,7 +19,7 @@ A catalog of fine jewelry retail training courses built from the *Fine Jewelry R
 | Course | Track | Articles | Done |
 |---|---|---|---|
 | C1 Diamond & Gemstone Fluency for the Sales Floor | Foundations | 10 | 10 (complete, retroactive cleanup complete) |
-| C2 The Fine Jewelry Sales Conversation | Foundations | 10 | 1 |
+| C2 The Fine Jewelry Sales Conversation | Foundations | 10 | 4 (Modules 1-4 complete, published to Jewelswell LMS) |
 | C3 Clienteling & CRM | Foundations | 8 | 0 |
 | C4 Store Security & Loss Prevention | Foundations | 8 | 0 |
 | C5 Financing, Credit & Compliance | Foundations | 6 | 0 |

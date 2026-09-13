@@ -23,9 +23,9 @@ The learner can:
 | # | Article | Persona | Status |
 |---|---|---|---|
 | 1 | The First 90 Seconds: Openers That Start Conversations | P1 | Polished with Antigravity (Fact-check verified, Step 2-5 complete, Published to Jewelswell LMS) |
-| 2 | Discovery: The Questions That Reveal the Real Purchase | P1 | Not started |
-| 3 | Presenting a Piece: Feature, Benefit, Emotion, Story | P1 | Not started |
-| 4 | Buying Signals and When to Stop Talking | P1 | Not started |
+| 2 | Discovery: The Questions That Reveal the Real Purchase | P1 | Polished with Antigravity (Fact-check verified, Step 2-5 complete, Published to Jewelswell LMS) |
+| 3 | Presenting a Piece: Feature, Benefit, Emotion, Story | P1 | Polished with Antigravity (Fact-check verified, Step 2-5 complete, Published to Jewelswell LMS) |
+| 4 | Buying Signals and When to Stop Talking | P1 | Polished with Antigravity (Fact-check verified, Step 2-5 complete, Published to Jewelswell LMS) |
 | 5 | Price Objections Without Discounting | P1 | Not started |
 | 6 | "I'll Think About It" and the Follow-Up That Wins | P1 | Not started |
 | 7 | Online Comparison and the Showrooming Client | P1 | Not started |
