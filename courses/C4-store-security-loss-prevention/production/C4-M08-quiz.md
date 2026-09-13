@@ -1,4 +1,4 @@
-# Course C4: Module 8 — Knowledge Check Quiz
+# Course C4: Module 8: Knowledge Check Quiz
 ## During and After an Incident: Armed Robbery Protocols
 
 ### 10-Question Comprehensive Assessment

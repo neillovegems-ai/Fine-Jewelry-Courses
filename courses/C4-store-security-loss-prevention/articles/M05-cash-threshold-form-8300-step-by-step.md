@@ -2,7 +2,7 @@
 
 In high-ticket luxury retail, cash transactions are a commercial reality. Clients celebrating major windfalls, international travelers visiting metropolitan flagships, and collectors acquiring investment-grade loose diamonds occasionally present physical paper currency to settle purchases. While receiving $15,000 or $30,000 in crisp hundred-dollar bills represents a triumphant moment of retail conversion, it immediately triggers the most rigid statutory compliance mandate in federal commercial law: **IRS/FinCEN Form 8300**.
 
-Under the **Bank Secrecy Act (BSA)** and the **USA PATRIOT Act**, dealers in precious metals, precious stones, and fine jewelry are classified as covered financial entities. The federal government recognizes that the jewelry trade—due to its extreme value density, global fungibility, and immediate divisibility—presents an attractive channel for organized crime syndicates, drug cartels, and corrupt actors attempting to launder illicit cash.
+Under the **Bank Secrecy Act (BSA)** and the **USA PATRIOT Act**, dealers in precious metals, precious stones, and fine jewelry are classified as covered financial entities. The federal government recognizes that the jewelry trade, due to its extreme value density, global fungibility, and immediate divisibility, presents an attractive channel for organized crime syndicates, drug cartels, and corrupt actors attempting to launder illicit cash.
 
 To prevent luxury jewelry from serving as an anonymous money laundering vehicle, federal law (Title 26 U.S. Code § 6050I and Title 31 U.S. Code § 5331) mandates that any business receiving **more than $10,000 in cash** in a single transaction or related transactions must file Form 8300 within 15 calendar days.
 
@@ -19,7 +19,7 @@ A frequent point of confusion on the retail sales floor is the statutory definit
 - Foreign currency notes and coins (converted to U.S. dollars at the official exchange rate on the date of transaction).
 
 ### Tier 2: Monetary Instruments (Cash Equivalents)
-In the retail sale of consumer durables—which explicitly includes jewelry, diamonds, precious gemstones, luxury watches, and mobile physical goods—monetary instruments with a face amount of **$10,000 or less** are legally defined as cash if received in a "designated reporting transaction":
+In the retail sale of consumer durables, which explicitly includes jewelry, diamonds, precious gemstones, luxury watches, and mobile physical goods, monetary instruments with a face amount of **$10,000 or less** are legally defined as cash if received in a "designated reporting transaction":
 - **Cashier's Checks** (with a face value of $10,000 or less).
 - **Bank Drafts** (with a face value of $10,000 or less).
 - **Money Orders** (with a face value of $10,000 or less).

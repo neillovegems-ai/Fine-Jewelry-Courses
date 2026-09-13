@@ -1,4 +1,4 @@
-# Daily Huddle Card: Course C4 — Module 2
+# Daily Huddle Card: Course C4: Module 2
 ## Opening and Closing: The Two-Person Rule
 
 ### ⏱️ 5-Minute Morning Briefing for the Sales Floor

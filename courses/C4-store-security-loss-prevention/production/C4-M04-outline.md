@@ -27,6 +27,6 @@
 ### Option B Visual Architecture (5 Assets)
 - **Figure 1 (SVG):** Distraction Team Role Architecture & Attack Vector Matrix.
 - **Figure 2 (SVG):** Grab-and-Run Spatial Geometry & Mirror/Door Placement Architecture.
-- **Figure 3 (Photo):** Diamond vs Moissanite vs CZ Diagnostic Trio — Physical and optical comparison.
-- **Figure 4 (Photo):** Joseph Asscher Historic Cullinan Cleaving Archive — Masterful focus under pressure.
-- **Figure 5 (Photo):** Argyle Fancy Colored Diamonds Suite — Microscopic verification and custody.
+- **Figure 3 (Photo):** Diamond vs Moissanite vs CZ Diagnostic Trio: Physical and optical comparison.
+- **Figure 4 (Photo):** Joseph Asscher Historic Cullinan Cleaving Archive: Masterful focus under pressure.
+- **Figure 5 (Photo):** Argyle Fancy Colored Diamonds Suite: Microscopic verification and custody.

@@ -27,6 +27,6 @@
 ### Option B Visual Architecture (5 Assets)
 - **Figure 1 (SVG):** Two-Person Opening & Closing Operational Sequence Flowchart.
 - **Figure 2 (SVG):** Visual All-Clear Signal Placement & Ambush Counter-Protocol.
-- **Figure 3 (Photo):** Bank and Vault Dual-Lock Time Mechanism — High-security mechanical dual custody.
-- **Figure 4 (Photo):** Historic Vault Heavy Door Architecture — Heavy steel physical barrier standards.
-- **Figure 5 (Photo):** Jwaneng Diamond Security Checkpoint — Rigorous multi-stage access control.
+- **Figure 3 (Photo):** Bank and Vault Dual-Lock Time Mechanism: High-security mechanical dual custody.
+- **Figure 4 (Photo):** Historic Vault Heavy Door Architecture: Heavy steel physical barrier standards.
+- **Figure 5 (Photo):** Jwaneng Diamond Security Checkpoint: Rigorous multi-stage access control.

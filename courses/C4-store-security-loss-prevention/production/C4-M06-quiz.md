@@ -1,4 +1,4 @@
-# Course C4: Module 6 — Knowledge Check Quiz
+# Course C4: Module 6: Knowledge Check Quiz
 ## Cards, Checks, Wires and Remote-Order Fraud
 
 ### 10-Question Comprehensive Assessment

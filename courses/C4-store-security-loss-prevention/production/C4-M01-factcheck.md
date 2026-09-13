@@ -1,4 +1,4 @@
-# Course C4: Module 1 — Fact-Check & Verification Table
+# Course C4: Module 1: Fact-Check & Verification Table
 
 | Claim / Benchmark | Category | Primary Source Citation | Verification Status | Risk Level |
 |---|---|---|---|---|

@@ -1,4 +1,4 @@
-# Daily Huddle Card: Course C4 — Module 8
+# Daily Huddle Card: Course C4: Module 8
 ## During and After an Incident: Armed Robbery Protocols
 
 ### ⏱️ 5-Minute Morning Briefing for the Sales Floor

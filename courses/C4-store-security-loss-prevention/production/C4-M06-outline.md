@@ -25,6 +25,6 @@
 ### Option B Visual Architecture (5 Assets)
 - **Figure 1 (SVG):** Layered Payment Verification Funnel Architecture.
 - **Figure 2 (SVG):** Remote-Order Red Flag Anatomy & Interception Checklist.
-- **Figure 3 (Photo):** EMV Chip Contact vs Magnetic Stripe Interface — Technical liability shift architecture.
-- **Figure 4 (Photo):** Precious Metal Assay Hallmarks Reference Guide — Detecting counterfeit returns.
-- **Figure 5 (Photo):** Cartier Platinum & Diamond Suite Custody — High-ticket transaction settlement.
+- **Figure 3 (Photo):** EMV Chip Contact vs Magnetic Stripe Interface: Technical liability shift architecture.
+- **Figure 4 (Photo):** Precious Metal Assay Hallmarks Reference Guide: Detecting counterfeit returns.
+- **Figure 5 (Photo):** Cartier Platinum & Diamond Suite Custody: High-ticket transaction settlement.

@@ -1,4 +1,4 @@
-# Course C4: Module 5 — Knowledge Check Quiz
+# Course C4: Module 5: Knowledge Check Quiz
 ## Cash Over the Threshold: Form 8300 Step by Step
 
 ### 10-Question Comprehensive Assessment

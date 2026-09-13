@@ -1,10 +1,10 @@
 # Module 6: Cards, Checks, Wires and Remote-Order Fraud
 
-In the collective imagination of the public, retail jewelry loss is synonymous with shattered showcases, masked assailants, and dramatic vault intrusions. Yet, seasoned retail operators and loss-prevention executives know that the most catastrophic financial losses sustained by fine jewelry businesses involve zero shattered glass and zero physical violence. They arrive silently in the form of a clean electronic card swipe, a smooth telephone order, or a crisp cashier's check that deposits smoothly into the bank account—only to be violently reversed weeks later as an unappealable fraud chargeback.
+In the collective imagination of the public, retail jewelry loss is synonymous with shattered showcases, masked assailants, and dramatic vault intrusions. Yet, seasoned retail operators and loss-prevention executives know that the most catastrophic financial losses sustained by fine jewelry businesses involve zero shattered glass and zero physical violence. They arrive silently in the form of a clean electronic card swipe, a smooth telephone order, or a crisp cashier's check that deposits smoothly into the bank account, only to be violently reversed weeks later as an unappealable fraud chargeback.
 
-The jewelry industry occupies a uniquely perilous position in the payments landscape. Because jewelry pieces combine extraordinary value with immediate, anonymous liquidity, organized financial fraud syndicates target fine jewelers with sophisticated payment attacks. A single fraudulent transaction involving a 3.00-carat diamond solitaire or a luxury Swiss chronograph can wipe out months of store net profitability.
+The jewelry industry occupies a uniquely perilous position in the payment processing ecosystem. Because jewelry pieces combine extraordinary value with immediate, anonymous liquidity, organized financial fraud syndicates target fine jewelers with sophisticated payment attacks. A single fraudulent transaction involving a 3.00-carat diamond solitaire or a luxury Swiss chronograph can wipe out months of store net profitability.
 
-Crucially, **commercial insurance policies—including standard Jewelers Block policies from Jewelers Mutual—explicitly exclude losses resulting from credit card fraud, bad checks, or unauthorized chargebacks**. Insurers classify fraudulent payments as commercial credit risks rather than casualty losses. If a store accepts a fraudulent card or an uncleared check, the business bears 100% of the financial loss.
+Crucially, **commercial insurance policies, including standard Jewelers Block policies from Jewelers Mutual, explicitly exclude losses resulting from credit card fraud, bad checks, or unauthorized chargebacks**. Insurers classify fraudulent payments as commercial credit risks rather than casualty losses. If a store accepts a fraudulent card or an uncleared check, the business bears 100% of the financial loss.
 
 This operational masterclass provides sales associates, luxury advisors, and store directors with the technical disciplines, legal rules, and payment verification protocols required to achieve total financial immunity across cards, checks, bank wires, and remote orders.
 
@@ -117,7 +117,7 @@ The only protection against check fraud is **The Cleared-Funds Rule**:
 - **Professional Client Scripting:**
   > *"We are delighted to accept your cashier's check for this magnificent anniversary piece, Mrs. Kensington! Under our store's standard financial custodial policy, high-value jewelry is released upon final clearing and bank settlement, which takes approximately three business days. We will have the piece freshly cleaned, polished, and beautifully gift-wrapped for your pickup on Thursday at 2:00 PM."*
 
-Honest clients understand and respect institutional financial safeguards. Fraudsters—who need to take possession of the merchandise immediately before the check is exposed as counterfeit—will immediately push back, demand immediate delivery, or cancel the sale.
+Honest clients understand and respect institutional financial safeguards. Fraudsters, who need to take possession of the merchandise immediately before the check is exposed as counterfeit, will immediately push back, demand immediate delivery, or cancel the sale.
 
 ---
 
@@ -173,7 +173,7 @@ Honest clients understand and respect institutional financial safeguards. Frauds
 
 ## 3. Remote Orders, Phone Sales & eCommerce Interception
 
-Remote transactions—orders placed via telephone, text message, email, or online web portals—represent the single highest-risk sales channel in the fine jewelry industry. According to the Jewelers' Security Alliance, remote-order scams account for millions of dollars in catastrophic chargebacks each year.
+Remote transactions, orders placed via telephone, text message, email, or online web portals, represent the single highest-risk sales channel in the fine jewelry industry. According to the Jewelers' Security Alliance, remote-order scams account for millions of dollars in catastrophic chargebacks each year.
 
 ### The Anatomy of a Remote Jewelry Scam
 A fraudulent remote order almost always displays a cluster of distinct behavioral and logistical red flags:
@@ -252,7 +252,7 @@ To eliminate remote-order fraud, boutiques enforce a four-layer verification pro
 
 ## 4. Bank Wire Transfers: The High-Ticket Settlement Standard
 
-For transactions exceeding **$25,000**—including significant bridal acquisitions, private client custom commissions, and rare colored gemstones—the **Federal Reserve Wire Network (Fedwire)** is the premier commercial payment channel.
+For transactions exceeding **$25,000**, including significant bridal acquisitions, private client custom commissions, and rare colored gemstones, the **Federal Reserve Wire Network (Fedwire)** is the premier commercial payment channel.
 
 ### Why Wires Are Immune to Fraud
 Unlike credit cards (which can be disputed up to 120 days later) and ACH electronic transfers (which can be recalled by the originating bank up to 60 days later under NACHA rules), a **domestic wire transfer is an irrevocable transfer of settled central bank funds**. Once the receiving bank confirms the wire has posted to the merchant's account, the sender cannot cancel, dispute, or reverse the payment.

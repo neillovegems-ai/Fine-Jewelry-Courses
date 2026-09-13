@@ -28,6 +28,6 @@
 ### Option B Visual Architecture (5 Assets)
 - **Figure 1 (SVG):** Counter Topography & Presentation Custody Geometry.
 - **Figure 2 (SVG):** The 5-Point Anti-Switch Loupe Examination Sequence.
-- **Figure 3 (Photo):** GIA Common Viewing Environment (CVE) Lighting Booth — Controlled inspection standards.
-- **Figure 4 (Photo):** Cartier 152.88 ct Sapphire Panther Brooch — Exceptional high-jewelry physical custody.
-- **Figure 5 (Photo):** 30 ct Padparadscha Ring Presentation Architecture — Heavy mount inspection & secure hand-off geometry.
+- **Figure 3 (Photo):** GIA Common Viewing Environment (CVE) Lighting Booth: Controlled inspection standards.
+- **Figure 4 (Photo):** Cartier 152.88 ct Sapphire Panther Brooch: Exceptional high-jewelry physical custody.
+- **Figure 5 (Photo):** 30 ct Padparadscha Ring Presentation Architecture: Heavy mount inspection & secure hand-off geometry.

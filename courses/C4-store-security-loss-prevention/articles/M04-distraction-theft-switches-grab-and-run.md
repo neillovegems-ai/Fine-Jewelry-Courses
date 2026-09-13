@@ -15,7 +15,7 @@ This module deconstructs the operational mechanics of distraction teams, switch 
 
 ## 1. The Anatomy of a Professional Distraction Ring
 
-A professional distraction theft is not a casual, spur-of-the-moment crime. It is a highly coordinated theatrical performance executed by organized traveling criminal syndicates—frequently with origins in South America or Eastern Europe—who travel between metropolitan jewelry centers targeting independent retail salons, luxury hotel boutiques, and diamond district exchanges.
+A professional distraction theft is not a casual, spur-of-the-moment crime. It is a highly coordinated theatrical performance executed by organized traveling criminal syndicates, frequently with origins in South America or Eastern Europe, who travel between metropolitan jewelry centers targeting independent retail salons, luxury hotel boutiques, and diamond district exchanges.
 
 A standard distraction team operates with three to five members, each assigned a rigid tactical role designed to dismantle the store's defensive perimeter:
 
@@ -270,7 +270,7 @@ According to Jewelers Mutual claims data, over 50% of grab-and-run thefts occur 
 ---
 
 ### The Four Environmental Traps That Invite Grab-and-Runs
-1. **The Entrance Mirror Trap:** Placing a full-length mirror within 10 feet of the front entrance door is an invitation to theft. A customer modeling a diamond necklace naturally walks over to the mirror. The moment they reach the glass, they are one step from the sidewalk. The associate—standing 15 feet behind the counter—has zero physical deploy to intervene.
+1. **The Entrance Mirror Trap:** Placing a full-length mirror within 10 feet of the front entrance door is an invitation to theft. A customer modeling a diamond necklace naturally walks over to the mirror. The moment they reach the glass, they are one step from the sidewalk. The associate, standing 15 feet behind the counter, has zero physical deploy to intervene.
    - *The Countermeasure:* All mirrors must be mounted on **interior structural walls located deep within the showroom**, forcing the client to face inward, toward the back salon, while admiring the piece.
 2. **The Front-Door Showcase:** Placing your most expensive diamond solitaires or luxury Swiss watches in the showcases closest to the street entrance minimizes the runner's sprint time to under 3 seconds. High-ticket cases must be positioned at least 25 feet from the door.
 3. **The "Natural Sunlight" Request:** A customer trying on a diamond ring says: *"The spotlights in here are so bright. Can I just step over by the front door to see how this diamond looks in natural daylight?"*

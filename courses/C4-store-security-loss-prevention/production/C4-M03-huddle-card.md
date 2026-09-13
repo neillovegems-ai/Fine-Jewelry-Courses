@@ -1,4 +1,4 @@
-# Daily Huddle Card: Course C4 — Module 3
+# Daily Huddle Card: Course C4: Module 3
 ## Showing High-Value Goods: Floor Discipline
 
 ### ⏱️ 5-Minute Morning Briefing for the Sales Floor
@@ -10,7 +10,7 @@
 ### 1. The Three Non-Negotiable Showcase Rules
 1. **Keys on Your Wrist, Never in the Lock:** Your showcase key must be secured to a wrist coil or lanyard attached to your person at all times. If you let go of the key, it retracts to your wrist. Never leave a key sitting in a glass sliding door cylinder.
 2. **Close and Lock Immediately:** Slide the door shut and engage the plunger lock the instant your hand clears the case. Never turn around to present an item while the showcase behind you remains open.
-3. **The One-Item Rule:** Only one high-value piece out at a time. If the client asks to compare two rings, you may bring out a second ring on a velvet show tray—**never three**. Before bringing out a third, one must return to the locked case.
+3. **The One-Item Rule:** Only one high-value piece out at a time. If the client asks to compare two rings, you may bring out a second ring on a velvet show tray, **never three**. Before bringing out a third, one must return to the locked case.
 
 ---
 

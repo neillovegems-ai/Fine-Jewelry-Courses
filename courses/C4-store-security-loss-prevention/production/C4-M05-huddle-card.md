@@ -1,4 +1,4 @@
-# Daily Huddle Card: Course C4 — Module 5
+# Daily Huddle Card: Course C4: Module 5
 ## Cash Over the Threshold: Form 8300 Step by Step
 
 ### ⏱️ 5-Minute Morning Briefing for the Sales Floor

@@ -1,4 +1,4 @@
-# Daily Huddle Card: Course C4 — Module 7
+# Daily Huddle Card: Course C4: Module 7
 ## Cycle Counts, Case Counts and Shrink
 
 ### ⏱️ 5-Minute Morning Briefing for the Sales Floor

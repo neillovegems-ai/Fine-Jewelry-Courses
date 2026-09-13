@@ -30,6 +30,6 @@
 ### Option B Visual Architecture (5 Assets)
 - **Figure 1 (SVG):** 3-Tier Inventory Auditing Hierarchy Flowchart.
 - **Figure 2 (SVG):** Discrepancy Investigation Decision Tree.
-- **Figure 3 (Photo):** GIA Master Color Comparison Stones Set — High-security calibration standards.
-- **Figure 4 (Photo):** DTC Debswana Sorting Lines Archive — Industrial diamond reconciliation standards.
-- **Figure 5 (Photo):** Kimberlite Heavy Mineral Sorting Suite — Granular physical asset accountability.
+- **Figure 3 (Photo):** GIA Master Color Comparison Stones Set: High-security calibration standards.
+- **Figure 4 (Photo):** DTC Debswana Sorting Lines Archive: Industrial diamond reconciliation standards.
+- **Figure 5 (Photo):** Kimberlite Heavy Mineral Sorting Suite: Granular physical asset accountability.

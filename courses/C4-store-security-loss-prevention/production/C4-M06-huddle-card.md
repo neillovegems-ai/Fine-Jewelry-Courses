@@ -1,4 +1,4 @@
-# Daily Huddle Card: Course C4 — Module 6
+# Daily Huddle Card: Course C4: Module 6
 ## Cards, Checks, Wires and Remote-Order Fraud
 
 ### ⏱️ 5-Minute Morning Briefing for the Sales Floor

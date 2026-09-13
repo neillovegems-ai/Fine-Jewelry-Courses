@@ -1,4 +1,4 @@
-# Course C4: Module 3 — Knowledge Check Quiz
+# Course C4: Module 3: Knowledge Check Quiz
 ## Showing High-Value Goods: Floor Discipline
 
 ### 10-Question Comprehensive Assessment

@@ -8,7 +8,7 @@ Loss-prevention investigations conducted by **Jewelers Mutual** and the **Jewele
 - An associate leaves a sliding glass case door cracked open by two inches while answering a phone call.
 - An associate fails to loupe a returned diamond ring, discovering hours later that the genuine natural diamond was substituted with a $50 cubic zirconia.
 
-Professional jewelers understand that **white-glove luxury presentation and rigorous loss prevention are not opposing forces**. In fact, they are identical disciplines. The precise physical behaviors that protect high-value merchandise—handling pieces exclusively with lint-free cloths, presenting items on weighted velvet trays, verifying facet integrity under 10x magnification, and maintaining focused custody—are the exact behaviors that signal prestige, connoisseurship, and reverence to high-net-worth buyers.
+Professional jewelers understand that **white-glove luxury presentation and rigorous loss prevention are not opposing forces**. In fact, they are identical disciplines. The precise physical behaviors that protect high-value merchandise, handling pieces exclusively with lint-free cloths, presenting items on weighted velvet trays, verifying facet integrity under 10x magnification, and maintaining focused custody, are the exact behaviors that signal prestige, connoisseurship, and reverence to high-net-worth buyers.
 
 This module details the foundational counter disciplines required to present high-value fine jewelry with absolute security and supreme luxury polish.
 
@@ -19,7 +19,7 @@ This module details the foundational counter disciplines required to present hig
 Every fine jewelry showroom operates under three non-negotiable physical rules governing showcase access. Violating any of these three rules compromises the entire security perimeter of the boutique.
 
 ### 1. The Wrist Keyholder Mandate
-The physical key to a jewelry showcase is the master gateway to hundreds of thousands of dollars in inventory. Leaving a showcase key in a lock cylinder—even for five seconds—is the single most common procedural failure cited in retail distraction theft insurance claims.
+The physical key to a jewelry showcase is the master gateway to hundreds of thousands of dollars in inventory. Leaving a showcase key in a lock cylinder, even for five seconds, is the single most common procedural failure cited in retail distraction theft insurance claims.
 
 - **The Mechanism:** Every associate must wear their showcase keys secured to a durable **elastic wrist coil**, a leather wrist strap, or a reinforced retractable belt lanyard.
 - **The Rule:** If the associate lets go of the key, it must automatically retract to their wrist or hip. 
@@ -196,7 +196,7 @@ All merchandise must be presented on a weighted, non-slip velvet presentation tr
 
 ## 3. The 5-Point Anti-Switch Loupe Protocol
 
-Diamond switching is one of the most lucrative and undetectable crimes facing fine jewelry retailers. In a switch operation, a professional thief poses as an affluent client interested in a 2.00 to 5.00-carat certified loose diamond or diamond engagement ring. The suspect carries a counterfeit replica—typically a cubic zirconia (CZ) or synthetic moissanite stone mounted in a matching silver or brass setting. The replica has been pre-selected to match the millimeter dimensions, carat weight, and head design of genuine inventory.
+Diamond switching is one of the most lucrative and undetectable crimes facing fine jewelry retailers. In a switch operation, a professional thief poses as an affluent client interested in a 2.00 to 5.00-carat certified loose diamond or diamond engagement ring. The suspect carries a counterfeit replica, typically a cubic zirconia (CZ) or synthetic moissanite stone mounted in a matching silver or brass setting. The replica has been pre-selected to match the millimeter dimensions, carat weight, and head design of genuine inventory.
 
 Through sleight-of-hand (often using a palmed stone, a fake cough, dropping an item, or a double-ring palm), the thief substitutes the counterfeit for the genuine article, returning the fake to the associate while slipping the real diamond into their pocket. If the associate simply glances at the stone with the naked eye and returns it to the showcase, the theft will not be discovered until the piece is sold to another client weeks later, creating catastrophic financial and reputational damage.
 
@@ -222,7 +222,7 @@ Many new associates feel awkward louping an item in front of a client, fearing t
 - **When Louping BEFORE Hand-Off:**
   > *"Allow me to clean the table facet with our microfiber cloth and check the prong tension under our 10x loupe before you try this on. We ensure every mounting is in immaculate, secure condition for our clients."*
 - **When Louping AFTER Return:**
-  > *"Thank you so much! Let me just wipe away any natural skin oils and verify the GIA laser inscription on the girdle for you. It's such a magnificent stone—that VS1 feather right near the upper girdle is its authentic natural birthmark."*
+  > *"Thank you so much! Let me just wipe away any natural skin oils and verify the GIA laser inscription on the girdle for you. It's such a magnificent stone, that VS1 feather right near the upper girdle is its authentic natural birthmark."*
 
 When executed with warmth and poise, this ritual does not insult the client; it elevates their perception of the diamond's extraordinary value while sending an unambiguous signal to any potential thief that this boutique cannot be deceived.
 
@@ -255,7 +255,7 @@ When executed with warmth and poise, this ritual does not insult the client; it 
 
 ## 4. Private Salon Protocols for Exceptional High Jewelry
 
-When merchandise values exceed standard retail thresholds—typically **$25,000 to $50,000+**—sales floor display cases are no longer the appropriate presentation environment. High-ticket diamond suites, museum-grade colored gemstones, and rare horological grand complications must be presented exclusively within a **Private Viewing Salon**.
+When merchandise values exceed standard retail thresholds, typically **$25,000 to $50,000+**, sales floor display cases are no longer the appropriate presentation environment. High-ticket diamond suites, museum-grade colored gemstones, and rare horological grand complications must be presented exclusively within a **Private Viewing Salon**.
 
 ### The Private Salon Security Envelope
 1. **Physical Isolation:** Private salons are enclosed architectural spaces separated from the main showroom floor. They feature solid-core lockable doors, acoustic dampening, and reinforced glass. Showing high-value goods inside an enclosed salon eliminates the risk of an opportunistic grab-and-run runner darting out the front door.

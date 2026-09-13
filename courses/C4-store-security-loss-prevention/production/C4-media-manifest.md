@@ -1,4 +1,4 @@
-# Course C4: Store Security, Loss Prevention & High-Value Transaction Protocols — Production Media Manifest
+# Course C4: Store Security, Loss Prevention & High-Value Transaction Protocols: Production Media Manifest
 
 All visual assets verified live on jewelswell.com. Images and operational frameworks utilize responsive luxury UI card architecture with verified academic, institutional, and trade fair-use citations.
 

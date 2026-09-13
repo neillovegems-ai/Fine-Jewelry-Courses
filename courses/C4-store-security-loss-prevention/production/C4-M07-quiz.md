@@ -1,4 +1,4 @@
-# Course C4: Module 7 — Knowledge Check Quiz
+# Course C4: Module 7: Knowledge Check Quiz
 ## Cycle Counts, Case Counts and Shrink
 
 ### 10-Question Comprehensive Assessment

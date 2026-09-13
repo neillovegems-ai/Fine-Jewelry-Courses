@@ -1,5 +1,5 @@
 # Course C4: Store Security, Loss Prevention & High-Value Transaction Protocols
-## Module 1: Why Jewelry Is Targeted — The Threat Landscape (Pedagogical Blueprint)
+## Module 1: Why Jewelry Is Targeted: The Threat Landscape (Pedagogical Blueprint)
 
 - **Track:** Core Foundations &bull; Operations & Compliance Track
 - **Personas:** P1 (New Sales Associate), P3 (Cruise/Travel Specialist), P7 (Store Leader / Boutique Director)
@@ -20,6 +20,6 @@
 ### Option B Visual Architecture (5 Assets)
 - **Figure 1 (SVG):** JSA Empirical Crime Distribution & Modus Operandi Matrix.
 - **Figure 2 (SVG):** Retail Salon Vulnerability Scoring & Physical Security Architecture.
-- **Figure 3 (Photo):** GIA DiamondDock Private Salon Chamber — Controlled private viewing geometry.
-- **Figure 4 (Photo):** Christie's Historic High-Security Salesroom — Physical asset barriers and salon custody.
-- **Figure 5 (Photo):** Diacore Master Cleaving Chamber & Sorting Vault — High-security physical custody standards.
+- **Figure 3 (Photo):** GIA DiamondDock Private Salon Chamber: Controlled private viewing geometry.
+- **Figure 4 (Photo):** Christie's Historic High-Security Salesroom: Physical asset barriers and salon custody.
+- **Figure 5 (Photo):** Diacore Master Cleaving Chamber & Sorting Vault: High-security physical custody standards.

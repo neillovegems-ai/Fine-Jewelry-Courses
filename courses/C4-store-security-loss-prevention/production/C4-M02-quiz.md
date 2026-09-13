@@ -1,4 +1,4 @@
-# Course C4: Module 2 — Knowledge Check Quiz
+# Course C4: Module 2: Knowledge Check Quiz
 ## Opening and Closing: The Two-Person Rule
 
 ### 10-Question Comprehensive Assessment

@@ -1,9 +1,9 @@
-# Daily Huddle Card: Course C4 — Module 1
+# Daily Huddle Card: Course C4: Module 1
 ## Why Jewelry Is Targeted: The Threat Landscape
 
 ### ⏱️ 5-Minute Morning Briefing for the Sales Floor
 
-**Core Principle:** *Fine jewelry is the most concentrated, liquid, and untraceable portable wealth on earth. Criminals do not see art or romance—they see instant cash with low recovery odds.*
+**Core Principle:** *Fine jewelry is the most concentrated, liquid, and untraceable portable wealth on earth. Criminals do not see art or romance, they see instant cash with low recovery odds.*
 
 ---
 

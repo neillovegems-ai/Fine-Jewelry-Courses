@@ -1,10 +1,10 @@
-# Module 1: Why Jewelry Is Targeted — The Threat Landscape
+# Module 1: Why Jewelry Is Targeted: The Threat Profile
 
 In the global luxury retail ecosystem, fine jewelry occupies an entirely distinct commercial category. Unlike high-end fashion garments, designer handbags, bespoke footwear, or fine wines, jewelry represents an unparalleled concentration of physical wealth. A velvet jewelry presentation tray holding six 3.00-carat D-Flawless round brilliant diamonds represents more than $600,000 in market value yet weighs less than 15 grams combined. It can be concealed inside a clenched fist, slipped into a jacket lining in a fraction of a second, or transported through an international airport terminal without triggering metallic density alarms.
 
 For sales associates, private client advisors, and showroom directors, understanding this reality is the fundamental baseline of professional retail operations. Criminals do not view a fine jewelry showroom through the romantic lens of emotional milestones, bridal engagements, or artistic craftsmanship. They view a jewelry salon as an accessible repository of hyper-liquid, untraceable currency. 
 
-According to annual intelligence reports published by the **Jewelers' Security Alliance (JSA)**—the non-profit crime-prevention trade association that has tracked jewelry crimes across the United States since 1883—total losses from crimes against jewelry businesses consistently exceed $100 million to $130 million annually. The vast majority of these losses are not the result of Hollywood-style vault heists; they stem from rapid-blitz daytime smash-and-grabs, sophisticated multi-person distraction syndicates, opportunistic grab-and-runs, and armed confrontations. 
+According to annual intelligence reports published by the **Jewelers' Security Alliance (JSA)**, the non-profit crime-prevention trade association that has tracked jewelry crimes across the United States since 1883, total losses from crimes against jewelry businesses consistently exceed $100 million to $130 million annually. The vast majority of these losses are not the result of Hollywood-style vault heists; they stem from rapid-blitz daytime smash-and-grabs, sophisticated multi-person distraction syndicates, opportunistic grab-and-runs, and armed confrontations. 
 
 This foundational module deconstructs the physical, economic, and behavioral drivers that make jewelry stores prime targets. By mastering the anatomy of modern jewelry crime, luxury advisors transition from passive retail clerks to vigilant asset protectors whose daily operational discipline safeguards human life, inventory integrity, and enterprise equity.
 
@@ -18,7 +18,7 @@ To defend a luxury salon, one must understand why criminals target jewelry over 
 No legal retail commodity matches the value density of diamonds and precious gemstones. A $100,000 luxury automobile weighs 4,000 pounds; $100,000 in high-end consumer electronics fills an entire commercial delivery pallet; but $100,000 in certified diamonds fits into a micro-zip pouch smaller than a postage stamp. This extreme value density allows criminals to execute high-dollar thefts with zero specialized logistics, freight handling, or commercial transport infrastructure.
 
 ### 2. Immediate Liquid Divisibility
-Unlike automobiles, art, or luxury watches—which possess registered Vehicle Identification Numbers (VINs), provenance records, or movement serial numbers that can be flagged on international stolen-goods registries—fine jewelry can be dismantled within minutes. A multi-stone diamond necklace stolen in an afternoon raid can be broken down that evening:
+Unlike automobiles, art, or luxury watches, which possess registered Vehicle Identification Numbers (VINs), provenance records, or movement serial numbers that can be flagged on international stolen-goods registries, fine jewelry can be dismantled within minutes. A multi-stone diamond necklace stolen in an afternoon raid can be broken down that evening:
 - The platinum or 18K gold mounting is melted down into anonymous scrap metal bars, permanently erasing all maker's marks, assay stamps, and design hallmarks.
 - The diamonds are unseated and examined. GIA laser inscriptions on stone girdles can be polished away by an illicit diamond cutter for less than $50 per stone, completely stripping the gemstone of its laboratory identity and leaving an anonymous, pristine crystal ready for resale.
 
@@ -26,7 +26,7 @@ Unlike automobiles, art, or luxury watches—which possess registered Vehicle Id
 Gold, platinum, and diamonds are universal alternative currencies. Stolen precious metals can be sold to unscrupulous refiners or pawnbrokers at spot commodity prices anywhere in the world with zero questions asked. Diamonds can be reintroduced into legitimate wholesale pipelines or traded in illicit international trading hubs across Antwerp, Dubai, Mumbai, and New York with minimal friction.
 
 ### 4. Low Recovery Rates
-Because fine jewelry can be melted and dismounted within hours, law enforcement recovery rates for stolen jewelry remain among the lowest of any stolen property category—typically under 5% to 8% nationwide. Once merchandise exits the front doors of the showroom, the mathematical probability of insurance recovery or physical return collapses. Prevention on the sales floor is the only viable defense.
+Because fine jewelry can be melted and dismounted within hours, law enforcement recovery rates for stolen jewelry remain among the lowest of any stolen property category, typically under 5% to 8% nationwide. Once merchandise exits the front doors of the showroom, the mathematical probability of insurance recovery or physical return collapses. Prevention on the sales floor is the only viable defense.
 
 ---
 
@@ -91,7 +91,7 @@ Smash-and-grab robberies represent one of the fastest-growing and most violent t
 - **Vulnerability Factors:** Showcases positioned within 15 feet of the entrance; standard annealed or tempered glass lacking Underwriters Laboratories (UL 972) burglary-resistant laminate; and concentrated high-ticket inventory.
 
 ### B. Distraction Theft & Sleight-of-Hand (27% of Incidents)
-Unlike smash-and-grabs, distraction theft involves zero overt violence. It is executed by sophisticated, highly coordinated criminal syndicates—often international traveling rings—who rely on psychological manipulation.
+Unlike smash-and-grabs, distraction theft involves zero overt violence. It is executed by sophisticated, highly coordinated criminal syndicates, often international traveling rings, who rely on psychological manipulation.
 - **The Execution:** A team of 3 to 5 confederates enters the store in staggered intervals, posing as wealthy extended family members, foreign tourists, or corporate executives.
 - **The Tactic:** One group creates a complex inquiry (demanding to compare multiple loose diamonds under daylight), while another creates a mild commotion (spilling a beverage, dropping an item, or asking urgent questions about watch repairs). The goal is to induce the sales associate to violate the **one-item-out rule** or leave showcase sliding doors unlocked. While the associate's attention is diverted for three seconds, an accomplice reaches behind the counter, sweeps an entire display tray into an open coat lining or baby stroller, and departs unnoticed. The theft is often not discovered until evening closing counts.
 
@@ -102,7 +102,7 @@ The most common daytime crime facing solo associates.
 
 ### D. Off-Hours Burglaries (10% of Incidents)
 Off-hours attacks bypass sales floor staff entirely, striking during overnight closures or holiday weekends.
-- **The Tactics:** Sophisticated burglary crews attack weak structural perimeters—cutting through roof decks, tunneling through adjoining vacant retail walls, or disabling telephone alarm transmission lines before burning through safes with thermal cutting lances or high-speed diamond drills.
+- **The Tactics:** Sophisticated burglary crews attack weak structural perimeters, cutting through roof decks, tunneling through adjoining vacant retail walls, or disabling telephone alarm transmission lines before burning through safes with thermal cutting lances or high-speed diamond drills.
 
 ### E. Armed Robbery (7% of Incidents)
 The most lethal scenario facing fine jewelry professionals.
@@ -178,7 +178,7 @@ Asset protection begins with spatial layout. A sales floor designed solely for v
 
 ### Zone 1: Entry Sightlines & Threshold Control
 - **Drive-By Visibility:** Can pedestrians or motorists on the street look directly through your front windows and observe the exact location of your high-ticket diamond showcases? If high-value cases are visible from the curb, criminal scouts can map your floor without ever stepping inside.
-- **The 25-Foot Buffer:** The highest-value inventory—engagement rings above 2.00 carats, fancy colored diamonds, and six-figure high jewelry—must never be displayed within 20 to 25 feet of the primary entrance. Positioning high-ticket merchandise deep within the salon forces any potential attacker to traverse the full length of the store, significantly increasing their exposure and escape time.
+- **The 25-Foot Buffer:** The highest-value inventory, engagement rings above 2.00 carats, fancy colored diamonds, and six-figure high jewelry, must never be displayed within 20 to 25 feet of the primary entrance. Positioning high-ticket merchandise deep within the salon forces any potential attacker to traverse the full length of the store, significantly increasing their exposure and escape time.
 - **Audible Access Annunciation:** Every entry door must be equipped with an audible chime or access-control interlock (buzz-in vestibule/mantrap). An associate should never be surprised by a customer standing at their counter.
 
 ### Zone 2: Showcase Line Defense
@@ -232,7 +232,7 @@ Retail associates are the frontline counter-intelligence sensors of the enterpri
 | **Response to Eye Contact** | Returns eye contact naturally; smiles, engages in conversation, or explains they are browsing. | Immediately turns head away; appears startled when directly addressed; adjusts sunglasses, hat, or face covering. |
 
 ### Red-Flag Counter Tactics: The "Cash Flasher"
-A classic tactic documented by JSA involves a visitor who walks in, asks to see the largest diamond solitaire in the store, and immediately pulls out a thick roll or envelope of physical currency—often $10,000 to $20,000 in hundred-dollar bills.
+A classic tactic documented by JSA involves a visitor who walks in, asks to see the largest diamond solitaire in the store, and immediately pulls out a thick roll or envelope of physical currency, often $10,000 to $20,000 in hundred-dollar bills.
 - **The Trap:** The sight of immediate cash triggers retail excitement and greed. An inexperienced associate instantly lets their guard down, eager to close a massive commission. While the associate is mentally spending their commission check, the "client" begins requesting multiple pieces to compare side-by-side, setting up a catastrophic distraction theft or grab-and-run.
 - **The Countermeasure:** Treat the display of large physical cash as a security alert, not a buying signal. Never deviate from standard operating procedures. Enforce the one-item-out rule with zero exceptions.
 
@@ -240,7 +240,7 @@ A classic tactic documented by JSA involves a visitor who walks in, asks to see 
 
 ## 5. Floor Readiness: The Daily Defensive Posture
 
-A secure retail environment does not require a fortress atmosphere that alienates luxury clients. High-end clienteling and vigilant loss prevention reinforce one another. The exact behaviors that convey premier white-glove service—attentive greetings, sharp eye contact, active listening, and meticulous presentation custody—are the exact behaviors that deter criminal activity.
+A secure retail environment does not require a fortress atmosphere that alienates luxury clients. High-end clienteling and vigilant loss prevention reinforce one another. The exact behaviors that convey premier white-glove service, attentive greetings, sharp eye contact, active listening, and meticulous presentation custody, are the exact behaviors that deter criminal activity.
 
 ### The Three Cardinal Floor Rules
 1. **The 5-Second Threshold Greeting:** Every individual who crosses the store entrance must receive direct eye contact and a warm, clear verbal greeting within five seconds: *"Good afternoon, welcome to [Boutique Name]."* This simple act strips away criminal anonymity and signals that the store operates with total situational awareness.

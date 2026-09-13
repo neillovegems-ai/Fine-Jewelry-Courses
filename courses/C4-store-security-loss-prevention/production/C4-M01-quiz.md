@@ -1,4 +1,4 @@
-# Course C4: Module 1 — Knowledge Check Quiz
+# Course C4: Module 1: Knowledge Check Quiz
 ## Why Jewelry Is Targeted: The Threat Landscape
 
 ### 10-Question Comprehensive Assessment

@@ -6,7 +6,7 @@ Electronic perimeter intrusion alarms are disarmed; motion sensors are bypassed;
 
 According to long-term crime analysis by the **Jewelers' Security Alliance (JSA)**, more than 60% of all violent hostage, kidnapping, and ambush encounters in the jewelry trade occur while employees are entering or leaving the premises. In an ambush robbery, criminals do not attempt to crack a TL-30x6 safe or defeat electronic vibration sensors in the dark. Instead, they wait in shadows, vehicles, or adjacent corridors to intercept an arriving manager, forcing them at gunpoint to unlock the doors, enter keypad codes under duress, and empty the vault before a single sales consultation has begun.
 
-To eliminate this vulnerability, the international fine jewelry industry—governed by underwriting mandates from insurers such as **Jewelers Mutual**—enforces a non-negotiable operational doctrine: **The Two-Person Rule**. Opening or closing a fine jewelry salon alone is not merely a breach of company policy; it is an invitation to catastrophe.
+To eliminate this vulnerability, the international fine jewelry industry, governed by underwriting mandates from insurers such as **Jewelers Mutual**, enforces a non-negotiable operational doctrine: **The Two-Person Rule**. Opening or closing a fine jewelry salon alone is not merely a breach of company policy; it is an invitation to catastrophe.
 
 ---
 
@@ -196,7 +196,7 @@ An All-Clear Signal is an inconspicuous physical visual marker placed by Employe
 ### The Negative Operational Rule: The Core Ambush Protocol
 The fundamental security doctrine governing the Two-Person Rule is **The Negative Rule**:
 
-> **The absence of an all-clear signal—or the display of an incorrect signal—must ALWAYS be treated as an active, armed hostage ambush in progress.**
+> **The absence of an all-clear signal, or the display of an incorrect signal, must ALWAYS be treated as an active, armed hostage ambush in progress.**
 
 If Employee A enters the boutique and any of the following occur:
 - **Condition 1 (Timeout):** Three minutes elapse and no all-clear signal appears in the window.
@@ -242,7 +242,7 @@ If Employee A enters the boutique and any of the following occur:
 Once Employee B verifies the all-clear signal and enters the store (relocking the door immediately behind them), the morning safe-opening process begins.
 
 Underwriting standards from Jewelers Mutual and corporate compliance standards established by major luxury houses mandate **Dual Custody** for safe and vault operations:
-- **No Single Point of Failure:** No single retail employee—regardless of title, tenure, or ownership status—should possess the complete credentials required to open the primary overnight safe.
+- **No Single Point of Failure:** No single retail employee, regardless of title, tenure, or ownership status, should possess the complete credentials required to open the primary overnight safe.
 - **The Split Credential Architecture:** Commercial jewelry safes (typically UL-rated **TL-15**, **TL-30**, or **TRTL-30x6**) feature two distinct mechanical combination locks or a dual-user digital electronic lock.
   - Employee A holds Combination 1 (or Key 1).
   - Employee B holds Combination 2 (or Key 2).

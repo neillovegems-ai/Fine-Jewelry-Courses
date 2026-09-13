@@ -1,4 +1,4 @@
-# Course C4: Module 4 — Knowledge Check Quiz
+# Course C4: Module 4: Knowledge Check Quiz
 ## Distraction Theft, Switches and Grab-and-Run
 
 ### 10-Question Comprehensive Assessment

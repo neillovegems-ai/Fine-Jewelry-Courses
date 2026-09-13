@@ -31,5 +31,5 @@
 - **Figure 1 (SVG):** Form 8300 Regulatory Decision Architecture & Reporting Flowchart.
 - **Figure 2 (SVG):** Structuring vs Legitimate Cash Transaction Matrix & Red-Flag Audit Guide.
 - **Figure 3 (Photo):** US Treasury & FinCEN Currency Verification Standards.
-- **Figure 4 (Photo):** Historic Bank Bullion Vault Archive — Strict institutional custody.
-- **Figure 5 (Photo):** Sotheby's High-Value Auction Invoice Archive — Mandatory KYC disclosures.
+- **Figure 4 (Photo):** Historic Bank Bullion Vault Archive: Strict institutional custody.
+- **Figure 5 (Photo):** Sotheby's High-Value Auction Invoice Archive: Mandatory KYC disclosures.

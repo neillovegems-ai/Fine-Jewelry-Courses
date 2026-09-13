@@ -26,5 +26,5 @@
 - **Figure 1 (SVG):** Robbery Survival Behavioral Protocol Architecture.
 - **Figure 2 (SVG):** Post-Incident 15-Minute Critical Timeline Checklist.
 - **Figure 3 (Photo):** Police Suspect Identification Grid & In-Store Height Marker Standards.
-- **Figure 4 (Photo):** Elizabeth Taylor Bulgari 23.46 ct Emerald Brooch — Asset provenance & insurance protection.
-- **Figure 5 (Photo):** Christie's Historic Salesroom Archive — Crisis security management & crowd safety.
+- **Figure 4 (Photo):** Elizabeth Taylor Bulgari 23.46 ct Emerald Brooch: Asset provenance & insurance protection.
+- **Figure 5 (Photo):** Christie's Historic Salesroom Archive: Crisis security management & crowd safety.

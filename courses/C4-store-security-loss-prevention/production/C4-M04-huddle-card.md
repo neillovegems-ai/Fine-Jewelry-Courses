@@ -1,4 +1,4 @@
-# Daily Huddle Card: Course C4 — Module 4
+# Daily Huddle Card: Course C4: Module 4
 ## Distraction Theft, Switches and Grab-and-Run
 
 ### ⏱️ 5-Minute Morning Briefing for the Sales Floor
@@ -17,6 +17,6 @@ Watch for these three synchronized moves:
 ---
 
 ### 2. Defeating the Grab-and-Run
-- **Never Position Mirrors Near the Exit:** If a client asks to see a necklace or ring in a mirror, direct them to an **interior mirror** positioned toward the back of the store—never toward the front glass.
+- **Never Position Mirrors Near the Exit:** If a client asks to see a necklace or ring in a mirror, direct them to an **interior mirror** positioned toward the back of the store, never toward the front glass.
 - **Maintain Physical Proximity:** When a client models a bracelet or ring, stand between the client and the front door path.
 - **The Golden Rule:** If a grab-and-run occurs, **DO NOT RUN AFTER THEM**. Chasing a suspect outside leads to vehicular hit-and-runs, armed ambushes around the corner, and fatal violence. Stay inside, lock the door, and call 911.
