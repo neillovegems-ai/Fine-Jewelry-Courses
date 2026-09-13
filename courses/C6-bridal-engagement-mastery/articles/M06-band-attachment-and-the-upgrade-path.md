@@ -1,45 +1,37 @@
 # Module 6: Band Attachment and the Upgrade Path
 
-In fine jewelry retail, the single greatest missed revenue opportunity occurs at the exact moment of peak emotional excitement: **the engagement ring selection**.
+An engagement ring is only worn alone for a few months. For the next fifty years, it shares the fourth finger with a wedding band.
 
-In standard jewelry operations, sales associates treat the engagement ring and the wedding band as two completely separate, chronologically disconnected transactions. The associate works tirelessly to close the engagement ring, hands the ring box to the client, and bids them farewell with a generic cheer: *"Congratulations! Come back in a year to look at wedding bands!"*
+In standard retail, associates treat the two rings as completely separate purchases. The associate finalizes the engagement solitaire, hands over the receipt, and bids the buyer farewell with an offhand remark: "Come back next year for your wedding bands."
 
-This standard retail practice is a catastrophic strategic error for three reasons:
-1. **Aesthetic and Mechanical Conflict:** Many engagement ring settings—particularly low-set baskets, vintage halos, and split-shank solitaires—do not accommodate a standard straight wedding band. When the bride returns ten months later, two months before her wedding day, she discovers with horror that every straight wedding band leaves an awkward, gaping space or grinds directly against the diamond prongs of her engagement ring.
-2. **Lost Financial Capture:** Industry data reveals that when wedding bands are not introduced during the engagement ring consultation, **over 65% of couples purchase their wedding bands elsewhere**—from online direct-to-consumer discounters, family jewelers in another state, or commercial chain stores.
-3. **Truncated Lifetime Value (LTV):** An engagement ring should never be viewed as a final sale; it is the **entry ticket to a 40-year multi-generational client relationship**.
+That approach creates mechanical and aesthetic headaches.
 
-The master bridal advisor understands that an engagement ring is incomplete without its architectural partner. By introducing the wedding band early, demonstrating how the complete bridal suite lives on the hand, and outlining the lifetime diamond upgrade path, you elevate your client experience from an isolated transactional purchase into an enduring heirloom journey.
+When the bride returns two months before her wedding, she often discovers that her low-set basket blocks standard wedding bands. Straight bands leave a wide triangular gap, or worse, their diamond girdles saw directly into the softer gold prongs of her engagement setting under everyday hand movement.
 
----
+Data across fine jewelry reveals a clear pattern. When wedding bands are not introduced during the engagement consultation, over sixty percent of couples purchase their bands elsewhere.
 
-## 1. Architectural Ring Mechanics: Understanding the Flush-Fit Dynamic
-
-Before an advisor can guide a client in wedding band selection, they must understand the mechanical engineering of ring profiles. 
-
-When an engagement ring and a wedding band sit side-by-side on the proximal phalanx of the fourth finger, their profiles interact constantly. Every time the hand moves, grasps a steering wheel, or holds a door handle, lateral pressure causes the two rings to press and slide against each other.
-
-There are three primary architectural relationships between engagement rings and wedding bands:
-
-### A. The Flush-Fit Design (High-Set or Peg Head)
-In a flush-fit design, the center diamond and its mounting prongs are elevated on a peg or cathedral bridge with an under-gallery clearance of at least **1.5mm to 1.8mm**. This elevation allows a straight wedding band of equal height to slide directly underneath the diamond head, sitting perfectly flush against the engagement ring shank with zero gap.
-- *Advantage:* Maximum versatility. The client can choose almost any straight diamond or metal band.
-- *Trade-off:* Higher center stone profile, which some active clients find more prone to catching on fabrics.
-
-### B. The Contoured / Curved Solution (Low-Set Basket or Halo)
-In low-set designs, the center stone’s basket or halo extends all the way down to the finger rest. A straight band cannot slide underneath; if worn together, the straight band hits the side of the basket, creating an unsightly triangular gap.
-- *Solution:* A custom curved, notched, or chevron band that curves precisely around the perimeter of the engagement ring basket.
-- *Consideration:* Contoured bands often look asymmetric or incomplete if worn alone without the engagement ring (e.g., during travel or workouts).
-
-### C. The Intentional Aesthetic Gap
-In modern fine jewelry fashion, some clients embrace an organic, visible gap between a low-set solitaire and an open-shank or straight eternity band. However, this must be an **intentional aesthetic choice**, never an accidental mechanical defect. 
-- *Crucial Warning:* If diamond girdles on an eternity band grind directly against gold prongs on the engagement ring, the harder diamond will saw through the gold prongs over time, resulting in lost center gemstones.
+A refined bridal consultant introduces the wedding band early. Pairing the pieces as an architectural suite protects the ring from abrasive wear, locks in the design codes, and opens a lifetime relationship.
 
 ---
 
-## 2. Visual Framework: Head Architecture & Flush-Fit Typology
+## 1. Head Architecture and Flush-Fit Mechanics
 
-Below is the engineering schematic illustrating how head clearance dictates wedding band compatibility.
+When two rings sit side by side on a finger, their profiles interact with every hand movement. Gripping a steering wheel, lifting groceries, or holding a handrail forces the metal shanks against one another.
+
+Three architectural profiles govern how bands pair:
+
+### 1. Elevated Bridge Mountings (Flush-Fit)
+The center stone prongs sit atop an elevated bridge with at least 1.6mm of vertical under-gallery clearance.
+Straight eternity and metal bands glide beneath the basket, sitting flush against the engagement shank with zero gap. This provides maximum versatility.
+
+### 2. Low-Set Baskets (Contoured Solution)
+The basket touches the finger base to keep the stone low and secure.
+A straight band cannot slide beneath. It requires a custom contoured, curved, or chevron band that follows the perimeter of the basket. If worn alone, contoured bands can look asymmetrical, which should be discussed upfront.
+
+### 3. Deliberate Gap Styling
+Some clients intentionally embrace an organic gap between a low-set solitaire and a straight band. This works aesthetically, but requires bench care: ensure exposed diamond girdles do not press directly into adjacent metal prongs.
+
+---
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; margin: 28px 0;">
   <figure style="margin:0; background:#ffffff; border:1px solid #e2e8f0; border-radius:10px; overflow:hidden; box-shadow:0 4px 12px rgba(11,15,23,0.05);">
@@ -88,53 +80,23 @@ Below is the engineering schematic illustrating how head clearance dictates wedd
 
 ---
 
-## 3. The Early Band Presentation Protocol: When and How to Introduce
+## 2. When to Introduce the Band
 
-The primary reason sales associates fail to sell wedding bands during the engagement ring visit is **bad timing**.
+Timing determines success. If you wait until the client has negotiated the diamond and pulled out their card, decision fatigue sets in. Asking about wedding bands at the cash register triggers an instinctive refusal: "We will worry about that later."
 
-They wait until the client has made the final decision on the diamond and mounting, negotiated price, and pulled out their credit card. At that point, the client's decision stamina is exhausted. When the associate says, *"Would you also like to pick out a wedding band today?"*, the client's immediate, instinctive reaction is: *"No thanks, we'll deal with that closer to the wedding."*
+Introduce the band in the middle of aesthetic discovery:
 
-The master advisor introduces the wedding band **in the middle of the discovery process**, as an educational styling tool.
+1. Let the client select two favored engagement mountings.
+2. Open the wedding band vitrine before discussing prices.
+3. Slide the matching band alongside the engagement ring on the velvet tray.
 
-### The 4-Step Early Introduction Technique
+Deliver this consultative observation:
 
-```
-+-----------------------------------------------------------------------------------+
-|                     THE 4-STEP EARLY BAND PRESENTATION PROTOCOL                   |
-|                                                                                   |
-|  1. THE SILHOUETTE SELECTION: Client identifies 2 favorite engagement mountings.  |
-|  2. THE ARCHITECTURAL COMPANION: Slip matching band alongside the ring on pad.   |
-|  3. THE DAILY REALITY REFRAME: Emphasize that the ring is worn paired for life.  |
-|  4. THE SUITE ADVANTAGE: Highlight casting consistency, metal purity & savings.   |
-+-----------------------------------------------------------------------------------+
-```
+> "Notice how this band locks beneath the gallery with zero friction. When we cast both rings from the exact same batch of gold, their metal color and curve radii match with precision. Let us see how the complete suite feels on your hand."
 
-#### Step 1: The Silhouette Selection
-Once the client narrows their preference to one or two favorite engagement ring styles (e.g., an oval solitaire in 18k yellow gold), place the engagement ring on the client’s hand or velvet ring tray.
-
-#### Step 2: The Architectural Companion
-Before discussing diamonds or prices, open the wedding band vitrine. Select the matching wedding band engineered for that specific mounting and gently slide it next to the engagement ring on the tray.
-
-#### Step 3: The Daily Reality Reframe
-Deliver the following consultative script:
-
-> **Verbatim Master Script:**  
-> *"When you look at engagement rings in showcases or online, you almost always see them standing alone. But in real life, your engagement ring will only be worn by itself for a few short months during your engagement. For the next fifty years, it will live side-by-side with your wedding band.  
->  
-> Notice how this band locks seamlessly beneath the basket with zero gap. When we cast both rings from the exact same batch of gold, their metal color, curve radius, and pavé diamond sizes match with 100% laser precision. Let's see how they feel together on your hand."*
-
-#### Step 4: The Suite Advantage (Locking in the Pair)
-By presenting the rings as a complete architectural suite, the client no longer views the wedding band as an optional add-on purchase. They perceive the pair as a unified piece of design.
-
-Even if the client decides to defer purchasing the band today due to current cash flow, you accomplish two critical outcomes:
-1. You have documented the exact band style number and finger size in their client profile.
-2. You have eliminated the risk of them buying an ill-fitting band elsewhere later.
+Even if the client chooses to defer purchasing the band today, you have recorded the model code in their profile and prevented them from buying an ill-fitting band elsewhere.
 
 ---
-
-## 4. Visual Framework: The Bridal Attach Curve & Customer Lifetime Value
-
-When jewelers capture the wedding band during the engagement consultation or through structured early follow-up, the lifetime value of the customer expands exponentially.
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; margin: 28px 0;">
   <figure style="margin:0; background:#ffffff; border:1px solid #e2e8f0; border-radius:10px; overflow:hidden; box-shadow:0 4px 12px rgba(11,15,23,0.05);">
@@ -183,11 +145,16 @@ When jewelers capture the wedding band during the engagement consultation or thr
 
 ---
 
-## 5. Wedding Band Setting Typology: Crafting the Perfect Pair
+## 3. Matching Setting Profiles
 
-When pairing a band with an engagement ring, the diamond setting technique on the wedding band must complement the architecture of the engagement mounting. 
+The setting technique on the wedding band must harmonize with the engagement shank to ensure long-term durability.
 
-Mismatched setting styles can cause visual disharmony or premature prong wear. Below is the master typology matrix:
+- **Shared Prong (U-Cut):** Two diamonds share a single prong. Maximizes light entry, pairing well with delicate solitaires. Requires bi-annual bench inspections.
+- **Channel Set:** Diamonds rest between parallel metal walls. Excellent durability with zero snagging prongs, ideal for active professions.
+- **French Pavé (Fishtail):** Hand-cut V-grooves reflect light beneath each stone. Complements handcrafted halos and micro-pavé shanks.
+- **Bezel Station:** Each diamond is encased in a protective metal rim, offering vintage character and complete stone perimeter defense.
+
+---
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; margin: 28px 0;">
   <figure style="margin:0; background:#ffffff; border:1px solid #e2e8f0; border-radius:10px; overflow:hidden; box-shadow:0 4px 12px rgba(11,15,23,0.05);">
@@ -246,9 +213,17 @@ Mismatched setting styles can cause visual disharmony or premature prong wear. B
 
 ---
 
-## 6. Operational Scripts: Mastering Counter Objections
+## 4. Addressing Floor Hesitation
 
-When introducing wedding bands early, associates often face common customer hesitation. Below are the battle-tested luxury scripts to navigate these moments with ease.
+When clients mention deferring their wedding band decision, respond with technical guidance rather than sales pressure:
+
+> "There is no rush to purchase the band today. The reason we look at them together now is architectural. Many brides choose an engagement ring in isolation, only to discover later that standard bands do not sit flush against the basket. By pairing them now, we guarantee the mounting we cast is fully compatible."
+
+If a client mentions buying a cheaper band online later, explain bench realities:
+
+> "Online bands are cast from varying gold alloys and set at different heights. If a third-party band sits even half a millimeter taller than your engagement shank, its diamond girdles act like microscopic saws against your platinum prongs every time you grip something. Casting the suite together ensures they glide together without abrasive wear."
+
+---
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; margin: 28px 0;">
   <figure style="margin:0; background:#ffffff; border:1px solid #e2e8f0; border-radius:10px; overflow:hidden; box-shadow:0 4px 12px rgba(11,15,23,0.05);">
@@ -281,23 +256,18 @@ When introducing wedding bands early, associates often face common customer hesi
 
 ---
 
-## 7. The Lifetime Upgrade Path: Turning One Ring Into a 10-Year Journey
+## 5. The Ten-Year Milestone Roadmap
 
-A luxury jeweler does not sell a single transaction; they build a family jewelry portfolio. 
+A fine jeweler does not sell a single transaction. We curate an evolving collection.
 
-During the delivery of the engagement ring, the consultant should plant the seeds for the couple's future milestone upgrades:
+Introduce future milestones during ring delivery:
 
-### A. The Lifetime Diamond Trade-In Policy
-Every premier jeweler should offer a **100% Lifetime Diamond Trade-In Guarantee** on natural center diamonds. 
+- **Year 0 (The Engagement):** Engagement ring cast and delivered with its certified trade-in documentation.
+- **Year 1 (The Wedding):** The matching band added, completing the initial suite.
+- **Year 3 to 5 (First Milestone / Push Gift):** A contrasting eternity band or bezel stacker introduced to create a three-ring textural look.
+- **Year 10 (The Upgrade):** The 100% lifetime trade-in policy applied toward a larger center diamond, with the original stone reset into an heirloom pendant.
 
-> **Verbatim Delivery Script:**  
-> *"One of the greatest joys of owning a natural earth-mined diamond from our atelier is that your investment is fully protected for life. Whenever you reach an anniversary milestone—whether that's your 5th, 10th, or 25th anniversary—you receive 100% of the price you paid for this center diamond as trade-in credit toward any larger diamond of greater value. Many of our couples start with an exquisite 1.25-carat diamond today, and on their tenth anniversary, upgrade into a breathtaking 2.50-carat stone while resetting their original diamond into a sentimental heirloom pendant."*
-
-### B. The Milestone Stack Progression
-Educate the couple on the modern **"Rule of Three"**:
-1. **Year 0 (The Engagement):** Engagement Solitaire.
-2. **Year 1 (The Wedding):** The Matching Wedding Band (completing the initial pair).
-3. **Year 3 to 5 (First Milestone / Push Gift):** A second contrasting band (e.g., an eternity band in rose gold, or an east-west emerald-cut band) added to create an architectural, textured stack.
+---
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; margin: 28px 0;">
   <figure style="margin:0; background:#ffffff; border:1px solid #e2e8f0; border-radius:10px; overflow:hidden; box-shadow:0 4px 12px rgba(11,15,23,0.05);">
@@ -326,31 +296,28 @@ Educate the couple on the modern **"Rule of Three"**:
 
 ---
 
-## 8. Summary & Daily Floor Implementation
+## 6. Daily Floor Summary
 
-The bridal sales professional who masters band attachment transforms their personal production metrics. 
-
-By treating the engagement ring and wedding band as a single aesthetic and mechanical unit, you solve the client's future problems before they occur, protect their fine jewelry investment from abrasive wear, and establish yourself as their trusted family jeweler for every anniversary to come.
+Treating the engagement ring and wedding band as a single aesthetic and mechanical unit solves future problems before they arise. You protect your client's fine jewelry from premature wear and establish yourself as their trusted family jeweler for every anniversary to come.
 
 ---
 
-## 9. Floor Huddle & Implementation Guide
+## 7. Morning Team Briefing
 
-### Key Floor Takeaways for Today's Team
-1. **Show the Band on Tray 1:** Never wait until the sale is closed to show a wedding band. Place the matching band next to the engagement ring during initial silhouette selection.
-2. **Explain Under-Gallery Clearance:** Show clients why peg heads allow flush bands, and why low baskets require contoured bands to avoid the "rubbing gap."
-3. **Prevent Diamond-on-Prong Friction:** Warn clients that buying ill-fitting bands online creates diamond-on-gold abrasive friction that shears off prongs over time.
-4. **Plant the Anniversary Seed at Pickup:** When delivering the finished engagement ring, hand them the lifetime trade-in certificate and mention their 5-year and 10-year upgrade milestones.
-5. **Log the Band SKU in CRM:** Even if they don't buy the band today, record the exact band model code and finger size for seamless 6-month follow-up.
+- **Pull the Band on Tray One:** Never wait until the end of the appointment. Show the matching band during the first fifteen minutes.
+- **Check Under-Gallery Clearance:** Verify whether mountings allow a flush fit (1.6mm bridge) or require a contoured band.
+- **Explain Diamond-on-Gold Friction:** Warn clients that ill-fitting online bands abrade engagement prongs over time.
+- **Seed the Trade-In Policy at Pickup:** Celebrate the 100% lifetime diamond trade-in guarantee when handing over the ring.
+- **Log the Band SKU:** Always record the matching wedding band model and finger size in the client's profile.
 
 ---
 
-## 10. Fact-Check Verification Table
+## 8. Fact-Check Verification
 
-| Metric / Guideline | Industry Standard | Retail Execution Rule |
+| Metric / Specification | Industry Standard | Retail Execution Rule |
 | :--- | :--- | :--- |
-| **National Band Attach Rate** | 20% to 25% across jewelry retail | Target 60%+ through early consultation pairing and suite presentation. |
-| **Minimum Flush Clearance** | 1.5mm to 1.8mm under-gallery bridge | Required vertical height for straight eternity bands to clear basket without gap. |
-| **Diamond-on-Gold Friction** | Diamond (Mohs 10) cuts Gold (Mohs 2.5-3) | Bands must be flush-seated to prevent girdles from sawing through engagement prongs. |
-| **Matching Gold Alloys** | +/- 5% color variation between casters | Always recommend casting engagement ring and band from same batch for color consistency. |
-| **Diamond Trade-In Standard** | 100% of original invoice purchase price | Applied toward upgrades of 1.5x to 2x value; valid on natural certified stones. |
+| **National Band Attach Rate** | 20% to 25% industry baseline | Target 60%+ through early suite presentation. |
+| **Flush Under-Gallery Height** | 1.5mm to 1.8mm clearance | Required vertical space for straight eternity bands to clear the head. |
+| **Abrasive Friction Risk** | Diamond (Mohs 10) cuts Gold (Mohs 3) | Prevent abrasive wear by ensuring flush alignment. |
+| **Alloy Batch Uniformity** | +/- 5% color variance between casters | Recommend casting engagement ring and band together for color match. |
+| **Trade-In Standard** | 100% of original center stone price | Applied toward upgrades of greater value on natural certified diamonds. |

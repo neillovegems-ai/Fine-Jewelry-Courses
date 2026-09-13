@@ -1,16 +1,14 @@
 # Module 1: The Modern Bridal Buyer's Journey
 
-For generations, fine jewelry retail operated on a cinematic romantic myth: *A nervous young man walks into a local jewelry store alone, looks into a glass case with zero diamond knowledge, spends three months' salary on a round brilliant solitaire recommended by an older jeweler, and hides the black velvet box in his sock drawer until the surprise proposal.*
+For decades, jewelry retail clung to a comforting script. A solitary suitor walked into a store, looked into a glass case with zero diamond knowledge, spent two months of salary on whatever round brilliant solitaire the jeweler recommended, and tucked the ring box into a sock drawer until proposal night.
 
-Today, that mid-20th-century archetype is virtually obsolete. 
+That script is dead.
 
-The modern bridal journey is **omnichannel, highly educated, collaborative, and digitally saturated.** Long before a client ever crosses the threshold of a brick-and-mortar showroom, they have spent between three and six months immersing themselves in gemological content. They have curated secret Pinterest boards with hundreds of saved images, browsed Instagram ring reels, compared pricing across digital diamond aggregators, and engaged in forensic discussions on Reddit forums like *r/EngagementRings*.
+Today's bridal journey begins months before anyone touches a showroom door handle. It starts on phones late at night. Couples spend between three and six months studying facet patterns, ring profiles, and metal alloys. They save hundreds of images to shared boards, watch macro videos of oval diamonds moving under natural sunlight, compare lab-grown diamond price drops on Reddit, and scrutinize cut proportions on specialist forums.
 
-Furthermore, the romantic dynamic has fundamentally shifted. Over **75% of modern couples now engage in collaborative co-shopping.** Even in scenarios where the final proposal moment remains a surprise, the recipient has almost certainly pre-selected their preferred diamond shape, metal alloy, and setting architecture, often submitting direct digital links or detailed specifications to their partner.
+The romantic dynamic has shifted with equal force. More than seventy-five percent of couples now shop together. Even when the proposal retains an element of surprise, the person wearing the ring has almost certainly specified the diamond shape, the prong style, and the gold color.
 
-For a luxury bridal specialist, treating today's client like a blank slate who needs to be lectured on basic 4Cs terminology is fatal to conversion. Modern selling requires operating as a **consultative curator**—a professional guide who validates their extensive online research, decodes their digital inspiration images into wearable structural reality, and provides a warm, non-judgmental sanctuary where romance and technical excellence converge.
-
-This masterclass dissects the modern bridal buyer's journey, examines contemporary couple shopping archetypes, and provides the operational framework for guiding couples from initial digital curiosity to an heirloom acquisition.
+Walking up to today's client with a memorized 4Cs lecture is the fastest way to lose the room. They already know what color grades look like on a certificate. What they lack is tactile reality. They need a knowledgeable guide who can translate digital inspiration into sound bench mechanics, validate their research, and create a calm space where emotion and craft align.
 
 ---
 
@@ -78,22 +76,28 @@ This masterclass dissects the modern bridal buyer's journey, examines contempora
       </svg>
     </div>
     <figcaption style="font-size:13px; color:#64748b; font-style:italic; background:#fdfbf7; border-top:1px solid #f1f5f9; padding:12px 16px;">
-      <strong>Figure 1: The 5-Phase Omnichannel Bridal Buyer Lifecycle.</strong> The engagement ring acquisition path spans roughly six months, transitioning from digital visual inspiration and online price analysis to tactile showroom validation, precision custom fabrication, and lifelong clienteling.
+      <strong>Figure 1: The 5-Phase Omnichannel Bridal Buyer Lifecycle.</strong> The modern acquisition path spans six months, transitioning from digital discovery to tactile evaluation, custom fabrication, and lifelong clienteling.
     </figcaption>
   </figure>
 </div>
 
 ---
 
-## 1. The Anatomy of Modern Bridal Pre-Research
+## 1. What Modern Pre-Shopping Really Looks Like
 
-In the contemporary retail ecosystem, consumers do not enter your showroom to discover what an engagement ring is; **they enter to validate what they have already spent months researching.**
+Clients do not enter your salon to find out what an engagement ring is. They enter to test what they have already spent months looking at on screens.
 
-### The Research Ecosystem
-1. **Pinterest & Visual Curation:** According to wedding industry analytics, over 80% of brides-to-be maintain a wedding or jewelry board long before an official engagement discussion takes place. These boards capture aesthetic nuances: thin pavé bands, hidden halos, elongated proportions (oval, radiant, elongated cushion), and bezel settings.
-2. **Social Video (TikTok & Instagram Reels):** Social video algorithms serve high-frame-rate, macro-zoom videos of diamonds under varying lighting conditions (sunlight, office fluorescent, candlelight). Consumers observe the "fire" of round cuts versus the "crushed ice" brilliance of radiants.
-3. **Forensic Communities (Reddit & Specialty Forums):** On platforms like *r/EngagementRings* (over 500,000 active members) and *Pricescope*, consumers dissect diamond depth percentages, table ratios, bow-tie effects in ovals, GIA vs IGI grading standards, and wholesale diamond price spreads.
-4. **The Consequence for the Counter:** When a client arrives, they are often suffering from **information overload coupled with analysis paralysis.** They possess extensive fragmented technical data, but they lack physical context. They do not know how a 2.5-carat oval actually looks on a size 5 finger, or how a thin 1.5mm band performs under everyday friction.
+The research happens in distinct layers:
+
+First, visual mood boards. More than eighty percent of future brides curate image folders long before ring shopping turns serious. These folders gather specific aesthetic preferences: compass-set prongs, hidden halos, elongated proportions, and bezel collars.
+
+Second, short-form video. Feeds deliver endless clips of diamonds rotating in different lights, comparing the crisp fire of a round brilliant to the crushed-ice look of a radiant cut.
+
+Third, specialized forums. On communities like Reddit's engagement ring boards, shoppers debate depth percentages, bow-tie shadows in ovals, laboratory certificates, and wholesale markups.
+
+This independent research creates a specific counter dynamic. Clients arrive armed with technical terms, yet they remain vulnerable to decision paralysis. They know what a 2.5-carat oval looks like on a phone screen. They do not know how it balances on a size 5 finger, or whether an ultra-thin 1.4mm band can endure years of daily door handles and steering wheels.
+
+Our task is to ground that digital knowledge in physical reality.
 
 ---
 
@@ -136,32 +140,37 @@ In the contemporary retail ecosystem, consumers do not enter your showroom to di
       </svg>
     </div>
     <figcaption style="font-size:13px; color:#64748b; font-style:italic; background:#fdfbf7; border-top:1px solid #f1f5f9; padding:12px 16px;">
-      <strong>Figure 2: Modern Bridal Couple Decision Archetypes.</strong> The modern market is segmented into three distinct buyer behaviors: Full Co-Shopping (45%), Hybrid Hint-Dropping (35%), and Traditional Pure Surprise (20%), each requiring distinct floor consultation strategies.
+      <strong>Figure 2: Modern Bridal Couple Decision Archetypes.</strong> The modern market divides into three distinct buyer behaviors: Full Co-Shopping (45%), Hybrid Hint-Dropping (35%), and Traditional Pure Surprise (20%).
     </figcaption>
   </figure>
 </div>
 
 ---
 
-## 2. Deconstructing the Three Modern Buyer Archetypes
+## 2. Three Counter Archetypes and How to Guide Them
 
-When greeting a bridal client, the sales consultant's first task during Discovery is to immediately identify **which decision archetype** is standing at the counter:
+When welcoming a couple or a solitary shopper, identify their decision archetype within the first three minutes of conversation.
 
-### Archetype A: Full Co-Shopping (~45%)
-- **The Dynamics:** Both partners arrive together. The mood is celebratory, transparent, and enthusiastic.
-- **The Recipient's Focus:** Aesthetics, finger coverage, comfortable daily wear, metal harmony with existing jewelry, and how the ring photographs.
-- **The Purchaser's Focus:** Quality assurance, warranty protection, budget parameters, and payment feasibility.
-- **Floor Strategy:** Address both partners equally. Never direct financial questions exclusively to the purchaser while treating the recipient as an ornament. Facilitate collaborative consensus. In Module 7, we will explore advanced couple dynamics in depth.
+### Archetype 1: Collaborative Co-Shoppers (Roughly 45% of Appointments)
+Both partners sit at the counter together. They share notes openly and treat the appointment as a joint project.
 
-### Archetype B: The Hybrid / "Hint-Drop" Model (~35%)
-- **The Dynamics:** The purchaser walks in alone, but holds up a smartphone within the first two minutes: *"She sent me three pictures and told me her ring size is 5.5."*
-- **The Emotional State:** The purchaser feels relieved to have guardrails, but anxious about execution: *"What if I pick the wrong oval diamond? What if the gold color isn't right?"*
-- **Floor Strategy:** Act as an expert decoder. Validate the recipient's taste: *"Your partner has impeccable taste—this is an elongated brilliant oval set in an ultra-delicate 1.8mm four-prong cathedral."* Reassure the purchaser that you will ensure the design is structurally sound and that complimentary post-proposal resizing is guaranteed.
+The wearer focuses on daily comfort, finger coverage, and how the setting pairs with existing bracelets or rings. The purchaser looks at diamond cut grades, warranty terms, and financing options.
 
-### Archetype C: The Pure Surprise (~20%)
-- **The Dynamics:** The purchaser arrives with zero direct input from the partner. They often bring a best friend, sister, or mother, or rely on subtle detective work.
-- **The Emotional State:** **Extreme anxiety.** They fear spending thousands of dollars on a piece their partner might secretly dislike.
-- **Floor Strategy:** Lower the stakes immediately. Highlight the store's exchange and modification policies: *"The most important thing today is choosing a beautiful, certified center stone. If she ever wants to modify the setting design later, we offer a 100% credit toward any custom design of her choice."* This instantly liberates the buyer from decision paralysis.
+The floor discipline here is balance. Divide your attention equally. Never speak exclusively to the person holding the payment card while treating the wearer like a passive observer. Ask the wearer how the gallery height feels when she closes her hand. Ask the purchaser if the diamond's table reflection meets their expectations. Keep both partners engaged in every step of the decision.
+
+### Archetype 2: The Hybrid Shopper (Roughly 35% of Appointments)
+The purchaser comes in alone, but pulls out a phone immediately: "She sent me three specific links and said she wears a size 6."
+
+This client feels relieved to have guardrails, but nervous about making mistakes. They wonder whether an F color is white enough in yellow gold, or if a four-prong basket is secure.
+
+Step in as a technical translator. Validate the partner's selections right away: "Your partner has an eye for clean proportion. That is an elongated oval in a low-profile cathedral mount." Then walk them through the structural details, assuring them that sizing and post-proposal adjustments are part of your service.
+
+### Archetype 3: The Complete Surprise (Roughly 20% of Appointments)
+The purchaser arrives with zero direct guidance. Sometimes they bring a sister or close friend; often they stand at the counter alone.
+
+Their anxiety is palpable. They worry about spending thousands of dollars on a piece their partner might secretly dislike.
+
+Lower the emotional stakes early. Remind them of your exchange and remounting privileges: "The priority today is selecting an exceptional center diamond. If your partner wants to adjust the setting after the proposal, our workshop credits the mounting fully toward any custom design she prefers." That single policy removes their fear of making an irrevocable error.
 
 ---
 
@@ -174,26 +183,34 @@ When greeting a bridal client, the sales consultant's first task during Discover
           <span style="background:#0f766e; color:#ffffff; font-size:10px; font-weight:bold; padding:3px 8px; border-radius:4px; text-transform:uppercase;">The Knot &amp; De Beers</span>
         </div>
         <div style="font-family:system-ui, sans-serif; font-size:12px; color:#cbd5e1; line-height:1.6;">
-          <p style="margin:0 0 8px 0;"><strong style="color:#ffffff;">1. Average Planning Timeline (The Knot Real Weddings):</strong> The average engagement ring purchase involves 3.5 months of active research, with the buyer visiting an average of 2.8 retail stores (physical and digital) before executing the transaction.</p>
-          <p style="margin:0 0 8px 0;"><strong style="color:#ffffff;">2. Shape Preferences:</strong> Round brilliant diamonds account for ~35% of acquisitions, with fancy shapes (led by Oval at ~28%, followed by Emerald, Radiant, and Pear) representing over 65% of modern bridal selections.</p>
-          <p style="margin:0 0 8px 0;"><strong style="color:#ffffff;">3. Partner Involvement:</strong> Over 70% of proposal recipients are directly involved in selecting or filtering ring styles, with 25% attending every physical showroom visit.</p>
-          <p style="margin:0;"><strong style="color:#ffffff;">4. Center Stone Size Trends:</strong> The average center stone carat weight has climbed from 1.2 carats to over 1.8 carats nationally, heavily influenced by the proliferation and price accessibility of laboratory-grown diamonds.</p>
+          <p style="margin:0 0 8px 0;"><strong style="color:#ffffff;">1. Planning Horizon:</strong> Buyers spend an average of 3.5 months actively researching before purchase, visiting nearly three stores across physical and digital channels.</p>
+          <p style="margin:0 0 8px 0;"><strong style="color:#ffffff;">2. Shape Breakdown:</strong> Round brilliant diamonds represent roughly 35% of selections. Fancy shapes, led by ovals, radiants, and emerald cuts, account for the remaining 65%.</p>
+          <p style="margin:0 0 8px 0;"><strong style="color:#ffffff;">3. Co-Shopping Rates:</strong> Over 70% of recipients directly shape ring choices, with one in four attending every showroom visit.</p>
+          <p style="margin:0;"><strong style="color:#ffffff;">4. Average Carat Weight:</strong> Average center stone weights now hover near 1.8 carats nationally, lifted by the accessibility of lab-grown diamonds alongside classic natural stones.</p>
         </div>
       </div>
     </div>
     <figcaption style="font-size:13px; color:#64748b; font-style:italic; background:#fdfbf7; border-top:1px solid #f1f5f9; padding:12px 16px;">
-      <strong>Figure 3: Empirical Bridal Research Benchmarks (The Knot & De Beers).</strong> Key quantitative metrics defining modern bridal shopping behaviors, engagement timelines, fancy shape distribution, and partner involvement rates.
+      <strong>Figure 3: Empirical Bridal Research Benchmarks (The Knot & De Beers).</strong> Core metrics defining contemporary bridal timelines, fancy shape distribution, and partner involvement rates.
     </figcaption>
   </figure>
 </div>
 
 ---
 
-## 3. The "Pinterest Decoding Protocol"
+## 3. The Digital Image Translation Protocol
 
-One of the most frequent friction points on the luxury sales floor occurs when a customer shows the associate a screenshot from Instagram or Pinterest:
-- *Untrained Associate:* *"Oh, that's an online CAD ring; we don't carry that exact brand. Those micro-prongs will lose diamonds, and you shouldn't buy rings you see on social media."* (Customer immediately feels dismissed and judged).
-- *Master Bridal Consultant:* Executes the **Pinterest Decoding Protocol**.
+When a customer holds out a phone showing an Instagram reel or Pinterest pin, inexperienced associates often make a costly mistake. They criticize the design: "That ring was rendered in CAD; nobody can wear prongs that thin without losing stones."
+
+The customer hears condescension. They pull their phone back, thank the associate, and leave.
+
+A seasoned consultant handles the moment with respect. They break the image down into its structural components:
+
+1. **Acknowledge the aesthetic choice.** "The floating look on this gallery is clean and minimal. It highlights the diamond beautifully."
+2. **Translate the silhouette into bench reality.** "Notice how low this basket sits against the finger. In rendered photos, rings float in empty space. In real life, a ring needs enough under-gallery clearance so a wedding band can slide flush against it without grinding prongs."
+3. **Offer practical alternatives.** "To give you that featherweight look without risking loose diamonds, we cast our shanks with a slight knife-edge taper. The band looks like 1.5mm from above, but maintains 1.8mm of solid gold underneath for everyday durability."
+
+This approach respects the client's research while steering them toward an heirloom that lasts fifty years.
 
 ---
 
@@ -201,74 +218,90 @@ One of the most frequent friction points on the luxury sales floor occurs when a
   <figure style="margin:0; background:#ffffff; border:1px solid #e2e8f0; border-radius:10px; overflow:hidden; box-shadow:0 4px 12px rgba(11,15,23,0.05);">
     <div style="padding:20px; background:#0b0f17; text-align:center;">
       <div style="display:inline-block; text-align:left; background:#1e293b; border:1px solid #334155; border-radius:8px; padding:18px 24px; max-width:680px; width:100%;">
-        <div style="display:flex; justify-content:space-between; align-items:center; border-bottom:1px solid #475569; padding-bottom:10px; margin-bottom:14px;">
-          <span style="font-family:'Playfair Display', Georgia, serif; color:#dfbe54; font-size:16px; font-weight:bold;">THE PINTEREST DECODING PROTOCOL</span>
-          <span style="background:#1d4ed8; color:#ffffff; font-size:10px; font-weight:bold; padding:3px 8px; border-radius:4px; text-transform:uppercase;">Showroom SOP</span>
+        <div style="border-bottom:1px solid #475569; padding-bottom:10px; margin-bottom:14px;">
+          <span style="font-family:'Playfair Display', Georgia, serif; color:#dfbe54; font-size:16px; font-weight:bold;">CONSULTATIVE PHRASING FRAMEWORK</span>
         </div>
-        <div style="font-family:system-ui, sans-serif; font-size:12px; color:#cbd5e1; line-height:1.6;">
-          <p style="margin:0 0 10px 0;"><strong style="color:#34d399;">Step 1: Validate and Compliment:</strong><br>
-          <em>"I love this design. You and your partner have fantastic taste—this delicate aesthetic is breathtaking. Let’s break down the exact architectural details that make this photo so special."</em></p>
-          
-          <p style="margin:0 0 10px 0;"><strong style="color:#60a5fa;">Step 2: Isolate the Core Architectural Elements:</strong><br>
-          Dissect the 2D image into four physical components:<br>
-          1. <em>Center Stone Cut:</em> (e.g., Elongated 1.4:1 ratio Brilliant Oval).<br>
-          2. <em>Prong Style:</em> (e.g., Petite claw prongs vs round beads).<br>
-          3. <em>Gallery Architecture:</em> (e.g., Hidden halo, compass prongs, or open floating basket).<br>
-          4. <em>Shank Profile:</em> (e.g., 1.8mm half-round micro-pavé band).</p>
-          
-          <p style="margin:0;"><strong style="color:#fbbf24;">Step 3: Translate 2D Rendering to 3D Bench Reality:</strong><br>
-          Educate on everyday longevity without disparaging the design:<br>
-          <em>"In computer renderings online, shanks are often drawn at 1.2mm to look ultra-thin. However, for a ring that she will wear while driving, typing, and working out, our master goldsmiths craft this exact silhouette at 1.75mm. To the naked eye, it looks identical to your photo, but it provides the solid platinum structure needed so her diamonds never shift or loosen over the next fifty years."</em></p>
+        <div style="font-family:system-ui, sans-serif; font-size:12px; line-height:1.6;">
+          <div style="margin-bottom:12px;">
+            <p style="color:#f87171; margin:0 0 2px 0; font-weight:bold;">Dismissive Approach (Fatal):</p>
+            <p style="color:#94a3b8; margin:0 0 6px 0;">"You can't trust what you see online. Those micro-prongs will snap in six months."</p>
+            <p style="color:#34d399; margin:0 0 2px 0; font-weight:bold;">Curated Translation (Master):</p>
+            <p style="color:#e2e8f0; margin:0;">"This is a delicate, elegant look. What makes it striking is how open the pavilion looks. Let me show you how our workshop builds that same airy silhouette with reinforced claw prongs, so you get the light return without risking the stone."</p>
+          </div>
+          <div>
+            <p style="color:#f87171; margin:0 0 2px 0; font-weight:bold;">Transaction Focus (Fatal):</p>
+            <p style="color:#94a3b8; margin:0 0 6px 0;">"What kind of budget are you trying to stay under today?"</p>
+            <p style="color:#34d399; margin:0 0 2px 0; font-weight:bold;">Curated Translation (Master):</p>
+            <p style="color:#e2e8f0; margin:0;">"Before we talk about numbers, let us discover what shapes and settings feel natural on your hand. Once we have the design direction, we calibrate the center stone to fit your investment range comfortably."</p>
+          </div>
         </div>
       </div>
     </div>
     <figcaption style="font-size:13px; color:#64748b; font-style:italic; background:#fdfbf7; border-top:1px solid #f1f5f9; padding:12px 16px;">
-      <strong>Figure 4: The Pinterest Decoding Protocol.</strong> A three-step consultative methodology that validates client aesthetic desires while expertly adjusting structural dimensions to guarantee bench durability and lifetime wearability.
+      <strong>Figure 4: Consultative Phrasing Framework.</strong> Contrasting defensive sales rebuttals with constructive design translation that honors client research.
     </figcaption>
   </figure>
 </div>
 
 ---
 
-## 4. Dismantling Showroom Intimidation
+## 4. Hospitality and Showroom Staging
 
-The jewelry store is one of the most psychologically intimidating retail environments in the world. Customers must pass through locked buzz-in doors, face uniformed security guards, and sit across from glass showcases containing merchandise priced at tens of thousands of dollars.
+Fine jewelry transactions succeed when the physical environment slows the customer down. A hurried customer stays guarded. An unhurried customer opens up.
 
-When an anxious buyer enters, they are plagued by three core fears:
-1. **Fear of Looking Ignorant:** They worry that mispronouncing a gemological term (*"marquise"*, *"culet"*) will expose them to haughty snobbery.
-2. **Fear of Overpaying:** They know diamonds are complex, and they fear being manipulated by slick sales talk.
-3. **Fear of Partner Rejection:** The haunting anxiety that their chosen ring will disappoint the love of their life.
+Excellence in showroom hospitality relies on small, deliberate habits:
+
+1. **The beverage ritual.** Offer still water, espresso, or a dry sparkling wine before pulling a single ring tray. Seating clients with a glass in hand changes their heart rate and signals that their visit will not be a high-pressure pitch.
+2. **The velvet tray standard.** Never leave loose diamonds or mountings scattered across bare glass. Every piece sits upright on a plush velvet pad. Hold tweezers with deliberate control. Hand the 10x loupe to the client gently, adjusting the focal distance for them.
+3. **Lighting management.** Showroom halogen spots make every diamond sparkle artificially. After viewing stones under showcase spots, walk the client toward natural daylight near a window or skylight. Demonstrating how a diamond performs in indirect daylight builds instant credibility.
 
 ---
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; margin: 28px 0;">
   <figure style="margin:0; background:#ffffff; border:1px solid #e2e8f0; border-radius:10px; overflow:hidden; box-shadow:0 4px 12px rgba(11,15,23,0.05);">
     <div style="padding:20px; background:#0b0f17; text-align:center;">
-      <div style="display:inline-block; text-align:left; background:#1e293b; border:1px solid #334155; border-radius:8px; padding:18px 24px; max-width:680px; width:100%;">
-        <div style="display:flex; justify-content:space-between; align-items:center; border-bottom:1px solid #475569; padding-bottom:10px; margin-bottom:14px;">
-          <span style="font-family:'Playfair Display', Georgia, serif; color:#dfbe54; font-size:16px; font-weight:bold;">BRIDAL ANXIETY DE-ESCALATION ARCHITECTURE</span>
-          <span style="background:#7c3aed; color:#ffffff; font-size:10px; font-weight:bold; padding:3px 8px; border-radius:4px; text-transform:uppercase;">Psychological Safety</span>
-        </div>
-        <div style="font-family:system-ui, sans-serif; font-size:12px; color:#cbd5e1; line-height:1.6;">
-          <p style="margin:0 0 8px 0;"><strong style="color:#ffffff;">1. Warm Physical Hospitality:</strong> Immediately invite the client to sit in comfortable lounge seating away from high-traffic entrance perimeters. Offer bottled sparkling water, espresso, or tea to lower autonomic nervous system tension.</p>
-          <p style="margin:0 0 8px 0;"><strong style="color:#ffffff;">2. Normalize Confusion:</strong> Explicitly tell the client: <em>"There are thousands of conflicting diamond opinions online. My job today is not to sell you anything; it's simply to help you see diamonds with your own eyes so you feel 100% confident."</em></p>
-          <p style="margin:0 0 8px 0;"><strong style="color:#ffffff;">3. The Tactile Hand-Off:</strong> Put a loose diamond or mounting into the client's hands within the first five minutes. Transitioning from observing behind glass to holding the piece physically breaks psychological distance and awakens ownership.</p>
-          <p style="margin:0;"><strong style="color:#ffffff;">4. The Structural Safety Net:</strong> Assure the client early: <em>"Remember, we provide free custom sizing, lifetime clean-and-check inspections, and a full exchange policy if she wants to tweak the setting later."</em></p>
-        </div>
+      <div style="display:inline-block; text-align:left; background:#1e293b; border-left:4px solid #d4af37; border-radius:6px; padding:16px 20px; max-width:680px; width:100%;">
+        <span style="font-family:'Playfair Display', Georgia, serif; color:#dfbe54; font-size:15px; font-weight:bold; display:block; margin-bottom:8px;">THE SHOWROOM HOSPITALITY DISCIPLINE</span>
+        <ul style="margin:0; padding-left:18px; color:#cbd5e1; font-size:12px; line-height:1.7;">
+          <li><strong>Pacing:</strong> Never rush through diamond specifications. Let silence follow a stone presentation so the client can absorb what they see.</li>
+          <li><strong>Pad Control:</strong> Present no more than three rings at any given time. Return rejected pieces to the vitrine immediately to keep the pad uncluttered.</li>
+          <li><strong>Natural Light Test:</strong> Always bring diamonds to a window to show true face-up color and fire without artificial showroom glare.</li>
+          <li><strong>Documentation:</strong> Record favored proportions, ring sizes, and metal preferences in the client profile before they depart.</li>
+        </ul>
       </div>
     </div>
     <figcaption style="font-size:13px; color:#64748b; font-style:italic; background:#fdfbf7; border-top:1px solid #f1f5f9; padding:12px 16px;">
-      <strong>Figure 5: Bridal Anxiety De-Escalation Architecture.</strong> Strategic consultative techniques designed to neutralize buyer intimidation, eliminate decision panic, and create a calm luxury sanctuary for life milestone celebrations.
+      <strong>Figure 5: The Showroom Hospitality Discipline.</strong> Four essential floor practices that establish an unhurried luxury pace and protect decision clarity.
     </figcaption>
   </figure>
 </div>
 
 ---
 
-## 5. Summary: Essential Operational Takeaways for Bridal Specialists
+## 5. Daily Floor Summary
 
-1. **Respect Modern Pre-Research:** Recognize that clients have spent 3 to 6 months studying diamonds online; validate their knowledge rather than lecturing them on elementary basics.
-2. **Diagnose Couple Archetypes Immediately:** Identify whether you are consulting a Full Co-Shopping couple (45%), a Hybrid Hint-Dropper (35%), or a Pure Surprise buyer (20%).
-3. **Master the Pinterest Protocol:** Compliment saved photos, dissect the architectural elements, and educate on the millimeter dimensions needed for lifelong structural integrity.
-4. **Disarm Showroom Intimidation:** Provide gracious hospitality, normalize information overload, and establish complete psychological safety.
-5. **Position Yourself as a Milestone Sherpa:** Frame your role as a trusted guide who removes stress, guarantees craftsmanship, and ensures the proposal is an unforgettable triumph.
+Modern bridal clients are not looking for an order-taker or an aggressive closer. They are looking for a trusted jeweler who knows more about diamond proportions and metal fatigue than they do, yet treats their ideas with genuine warmth.
+
+When you master the art of decoding digital inspiration, balancing couple dynamics, and staging an unhurried presentation, you turn an anxious transaction into the start of a multi-decade relationship.
+
+---
+
+## 6. Morning Team Briefing
+
+- **Validate Online Research:** When a client shows an Instagram ring, praise the silhouette before explaining any bench considerations. Never make them feel naive.
+- **Spot the Archetype:** Distinguish between co-shoppers, hybrid hint-droppers, and surprise buyers in the opening three minutes.
+- **Rule of Three on the Pad:** Never clutter the presentation tray with more than three rings at once. Remove rejected designs right away.
+- **Test in Natural Light:** Walk stones to a window to demonstrate honest daylight performance.
+- **Keep Notes Clean:** Log finger measurements, partner names, and design favorites into the client record before closing the appointment.
+
+---
+
+## 7. Fact-Check Verification
+
+| Standard / Observation | Industry Benchmark | Floor Execution Guideline |
+| :--- | :--- | :--- |
+| **Research Horizon** | 3 to 4 months prior to purchase | Assume deep familiarity with 4Cs terminology; focus on tactile fit. |
+| **Co-Shopping Rate** | >75% of modern couples | Engage both partners equally throughout the consultation. |
+| **Fancy Shape Dominance** | ~65% of center diamond demand | Maintain broad selection of ovals, emeralds, and radiants on hand. |
+| **Showroom Tray Limit** | 3 rings maximum on display pad | Clear rejected pieces promptly to prevent visual fatigue. |
+| **Daylight Verification** | Standard gemological practice | Demonstrate stone fire under natural light to verify color grades. |
