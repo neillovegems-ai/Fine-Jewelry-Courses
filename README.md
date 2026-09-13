@@ -23,7 +23,7 @@ A catalog of fine jewelry retail training courses built from the *Fine Jewelry R
 | C3 Clienteling & CRM | Foundations | 8 | 8 (complete, Option B enriched: 40 figures/frameworks live on Jewelswell) |
 | C4 Store Security & Loss Prevention | Foundations | 8 | 8 (complete, Option B enriched: 40 figures/frameworks live on Jewelswell) |
 | C5 Financing, Credit & Compliance | Foundations | 6 | 6 (complete, Option B enriched: 30 figures/frameworks live on Jewelswell) |
-| C6 Bridal & Engagement Mastery | Specialist | 10 | 0 |
+| **C6** | Bridal & Engagement Mastery | 10 | **100% Complete & Live** (50 Figures + Tutor LMS) | [Hub](https://jewelswell.com/bridal-engagement-mastery/) &bull; [LMS](https://jewelswell.com/courses/c6-bridal-engagement-mastery/) |
 | C7 Estate, Antique & Trade-In | Specialist | 10 | 0 |
 | C8 Custom Design & Repair Workflow | Specialist | 8 | 0 |
 | C9 Selling High-Ticket in Compressed Time | Specialist | 8 | 0 |
