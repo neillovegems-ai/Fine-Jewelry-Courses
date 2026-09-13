@@ -18,28 +18,38 @@ The learner can:
 **Assessment:** 40-question self-test plus a manager-observed "explain this stone" demonstration.
 **KPI link:** close rate on diamond inquiries, protection-plan attach.
 
-## Module status - COURSE COMPLETE, RETROACTIVE CLEANUP COMPLETE (2026-09-07)
+## Module status - COURSE COMPLETE & OPTION B VISUALLY ENRICHED (2026-09-13)
 
-All 10 modules have been expanded under the project owner's no-cap word policy, given a formal Step 2 self-critique rubric with change log, and (except Module 10) given Step 5 repurposed artifacts (huddle card + 10-question quiz).
+All 10 modules have been expanded under the project owner's no-cap word policy, given a formal Step 2 self-critique rubric with change log, Step 5 repurposed artifacts (huddle card + 10-question quiz), and comprehensive Option B visual enrichment (55 authentic research figures with luxury UI card framing) verified live on jewelswell.com.
 
-| # | Article | Word count | Step 2 (rubric+changelog) | Step 5 (huddle card+quiz) |
-|---|---|---|---|---|
-| 1 | Carat, Cut, Color, Clarity: What the Client Actually Sees | 5,560 | Done | Done |
-| 2 | Reading a GIA Report With a Client (and What Not to Say) | 5,690 | Done | Done |
-| 3 | AGS 0-10 vs. GIA Nomenclature: Translating Between Scales | 4,257 | Done | Done |
-| 4 | Lab-Grown, Natural, Simulant: The Disclosure Conversation | 4,124 | Done | Done |
-| 5 | Fluorescence, Inclusions and "Is This a Flaw?" | 3,678 | Done | Done |
-| 6 | The Colored Stone Top 10: Sapphire to Tanzanite | 3,646 | Done | Done |
-| 7 | Pearls: Types, Grading Vocabulary and Care | 3,877 | Done | Done |
-| 8 | Metals, Marks and Alloys | 3,573 | Done | Done |
-| 9 | Treatment and Origin Questions: What You Must Disclose | 3,207 | Done | Done |
-| 10 | Product-Knowledge Drills: A 30-Day Self-Test (capstone) | 3,335 | Done | Intentionally omitted - module is itself a self-test |
+| # | Article | Word count | Visual Figures | Step 2 (rubric+changelog) | Step 5 (huddle card+quiz) | Live Jewelswell URL |
+|---|---|---|:---:|---|---|---|
+| 1 | Carat, Cut, Color, Clarity: What the Client Actually Sees | 5,560 | 5 | Done | Done | [Live M01](https://jewelswell.com/diamond-gemstone-fluency/module-1-carat-cut-color-clarity/) |
+| 2 | Reading a GIA Report With a Client (and What Not to Say) | 5,690 | 5 | Done | Done | [Live M02](https://jewelswell.com/diamond-gemstone-fluency/module-2-reading-a-gia-report/) |
+| 3 | AGS 0-10 vs. GIA Nomenclature: Translating Between Scales | 4,257 | 5 | Done | Done | [Live M03](https://jewelswell.com/diamond-gemstone-fluency/module-3-ags-vs-gia-nomenclature/) |
+| 4 | Lab-Grown, Natural, Simulant: The Disclosure Conversation | 4,124 | 6 | Done | Done | [Live M04](https://jewelswell.com/diamond-gemstone-fluency/module-4-lab-grown-natural-simulant/) |
+| 5 | Fluorescence, Inclusions and "Is This a Flaw?" | 3,678 | 6 | Done | Done | [Live M05](https://jewelswell.com/diamond-gemstone-fluency/module-5-fluorescence-inclusions/) |
+| 6 | The Colored Stone Top 10: Sapphire to Tanzanite | 3,646 | 6 | Done | Done | [Live M06](https://jewelswell.com/diamond-gemstone-fluency/module-6-colored-stone-top-10/) |
+| 7 | Pearls: Types, Grading Vocabulary and Care | 3,877 | 6 | Done | Done | [Live M07](https://jewelswell.com/diamond-gemstone-fluency/module-7-pearls/) |
+| 8 | Metals, Marks and Alloys | 3,573 | 5 | Done | Done | [Live M08](https://jewelswell.com/diamond-gemstone-fluency/module-8-metals-marks-alloys/) |
+| 9 | Treatment and Origin Questions: What You Must Disclose | 3,207 | 6 | Done | Done | [Live M09](https://jewelswell.com/diamond-gemstone-fluency/module-9-treatment-origin-disclosure/) |
+| 10 | Product-Knowledge Drills: A 30-Day Self-Test (capstone) | 3,335 | 5 | Done | Intentionally omitted | [Live M10](https://jewelswell.com/diamond-gemstone-fluency/module-10-product-knowledge-drills/) |
 
-**Total course word count: approximately 40,947 words**, up from the original ~24,000-word first-pass total.
+**Total course word count: approximately 40,947 words.**
+**Total course visual assets: 55 authentic figures (100% verified HTTP 200).**
+
+## Visual Assets & Media Manifest (Option B Comprehensive Scholarly Set)
+
+All 10 modules have been enriched with high-definition, verified research figures from GIA (*Gems & Gemology*, GIA Research) and trade standards.
+- **Parent Hub Page:** [https://jewelswell.com/diamond-gemstone-fluency/](https://jewelswell.com/diamond-gemstone-fluency/) (Page ID: `1302`)
+- **Tutor LMS Course:** [https://jewelswell.com/courses/c1-diamond-gemstone-fluency/](https://jewelswell.com/courses/c1-diamond-gemstone-fluency/) (Post ID: `1362`)
+- **Total Verified Figures Live:** **55 figures** (5 to 6 figures per module)
+- **Visual Manifest:** [`production/C1-media-manifest.md`](production/C1-media-manifest.md)
+- **Live URL Verification:** 12 / 12 platform URLs verified (100% HTTP 200 pass rate).
 
 ## Production artifacts
 
-Each article carries a matching outline/media record and fact-check table in `production/`, per Prompt Kit steps B3, B3a, C5-C6, B5 and B6. Modules 1-9 also carry a `-huddle-card.md` and `-quiz.md` file (Step 5 repurposing).
+Each article carries a matching outline/media record and fact-check table in `production/`, per Prompt Kit steps B3, B3a, C5-C6, B5 and B6. Modules 1-9 also carry a `-huddle-card.md` and `-quiz.md` file (Step 5 repurposing), and the complete course visual inventory is maintained in `production/C1-media-manifest.md`.
 
 ## Word-count policy note (2026-09-07, final)
 
