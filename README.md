@@ -21,7 +21,7 @@ A catalog of fine jewelry retail training courses built from the *Fine Jewelry R
 | C1 Diamond & Gemstone Fluency for the Sales Floor | Foundations | 10 | 10 (complete, Option B enriched: 55 figures live on Jewelswell) |
 | C2 The Fine Jewelry Sales Conversation | Foundations | 10 | 10 (complete, Option B enriched: 51 figures/frameworks live on Jewelswell) |
 | C3 Clienteling & CRM | Foundations | 8 | 8 (complete, Option B enriched: 40 figures/frameworks live on Jewelswell) |
-| C4 Store Security & Loss Prevention | Foundations | 8 | 0 |
+| C4 Store Security & Loss Prevention | Foundations | 8 | 8 (complete, Option B enriched: 40 figures/frameworks live on Jewelswell) |
 | C5 Financing, Credit & Compliance | Foundations | 6 | 0 |
 | C6 Bridal & Engagement Mastery | Specialist | 10 | 0 |
 | C7 Estate, Antique & Trade-In | Specialist | 10 | 0 |
@@ -36,9 +36,11 @@ A catalog of fine jewelry retail training courses built from the *Fine Jewelry R
 | C16 The GIA Diamonds Deep Dive (companion to GIA's D&DG further-reading bibliography) | Advanced/Specialist | 13 | 13 (complete, Option B enriched: 65 figures live on Jewelswell) |
 | C17 The GIA Colored Stones Deep Dive (companion to GIA's Colored Stones further-reading bibliography) | Advanced/Specialist | 16 | 16 (complete, Option B enriched: 89 figures live on Jewelswell) |
 
-**Total: 159 articles (130 original catalog + 13 in C16 + 16 in C17). Across the platform on jewelswell.com, 57 modules are fully live and visually enriched with 300 authentic figures, laboratory schematics, and sales/clienteling frameworks (100% verified HTTP 200).**
+**Total: 159 articles (130 original catalog + 13 in C16 + 16 in C17). Across the platform on jewelswell.com, 65 modules are fully live and visually enriched with 340 authentic figures, laboratory schematics, and sales/security frameworks (100% verified HTTP 200).**
 
 **Note on C1 & C2:** Both foundation courses are fully expanded under the no-cap policy, accompanied by complete production artifacts (outlines, fact-checks, huddle cards, quizzes, media manifests), and enriched with Option B comprehensive visual sets (55 authentic figures in C1, 51 visual figures & consultative SVG frameworks in C2) live on WordPress and Tutor LMS.
+
+**Note on C4:** Fully completed with all 8 modules produced under the no-cap policy with complete six-step SOP production artifacts (outlines, fact-checks, huddle cards, quizzes, media manifest) and enriched with Option B comprehensive visual sets (40 authentic figures & operational security frameworks) live on WordPress and Tutor LMS.
 
 **Note on C3:** Fully completed with all 8 modules produced under the no-cap policy with complete six-step SOP production artifacts (outlines, fact-checks, huddle cards, quizzes, media manifest) and enriched with Option B comprehensive visual sets (40 authentic figures & luxury clienteling frameworks) live on WordPress and Tutor LMS.
 

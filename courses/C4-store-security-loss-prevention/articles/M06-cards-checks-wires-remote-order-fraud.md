@@ -28,7 +28,9 @@ If a customer presents a chip-enabled card and the sales associate:
 
 ---
 
-<div style="padding:20px; background:#0b0f17; text-align:center;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; margin: 28px 0;">
+    <figure style="margin:0; background:#ffffff; border:1px solid #e2e8f0; border-radius:10px; overflow:hidden; box-shadow:0 4px 12px rgba(11,15,23,0.05);">
+        <div style="padding:20px; background:#0b0f17; text-align:center;">
 <svg viewBox="0 0 850 360" width="100%" height="360" xmlns="http://www.w3.org/2000/svg">
     <rect width="850" height="360" fill="#0b0f17" rx="8"/>
     <text x="425" y="30" font-family="'Playfair Display', Georgia, serif" font-size="18" font-weight="bold" fill="#dfbe54" text-anchor="middle">LAYERED PAYMENT VERIFICATION ARCHITECTURE</text>
@@ -74,6 +76,11 @@ If a customer presents a chip-enabled card and the sales associate:
     <text x="425" y="353" font-family="system-ui, sans-serif" font-size="9.5" fill="#64748b" text-anchor="middle">RULE: Merchandise stays in store custody until funds are fully cleared, irrevocable, and credited to merchant account.</text>
 </svg>
 </div>
+        <figcaption style="font-size:13px; color:#64748b; font-style:italic; background:#fdfbf7; border-top:1px solid #f1f5f9; padding:12px 16px;">
+            <strong>Figure 1: Layered Payment Verification Architecture:</strong> Multi-tier defense funnel spanning card-present EMV chip rules, remote-order AVS/CVV matching, cleared-funds check holds, and Fedwire transfers. Source: Payment Card Industry (PCI) & UCC Banking Standards.
+        </figcaption>
+    </figure>
+</div>
 
 ---
 
@@ -114,7 +121,9 @@ Honest clients understand and respect institutional financial safeguards. Frauds
 
 ---
 
-<div style="padding:20px; background:#0b0f17; text-align:center;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; margin: 28px 0;">
+    <figure style="margin:0; background:#ffffff; border:1px solid #e2e8f0; border-radius:10px; overflow:hidden; box-shadow:0 4px 12px rgba(11,15,23,0.05);">
+        <div style="padding:20px; background:#0b0f17; text-align:center;">
 <svg viewBox="0 0 850 360" width="100%" height="360" xmlns="http://www.w3.org/2000/svg">
     <rect width="850" height="360" fill="#0b0f17" rx="8"/>
     <text x="425" y="30" font-family="'Playfair Display', Georgia, serif" font-size="18" font-weight="bold" fill="#dfbe54" text-anchor="middle">REMOTE-ORDER FRAUD INTERCEPTION ARCHITECTURE</text>
@@ -153,6 +162,11 @@ Honest clients understand and respect institutional financial safeguards. Frauds
     <rect x="460" y="285" width="335" height="24" rx="4" fill="#10b981" opacity="0.15"/>
     <text x="627" y="301" font-family="system-ui, sans-serif" font-size="10" font-weight="bold" fill="#34d399" text-anchor="middle">RESULT: 100% FRAUD CHARGEBACK IMMUNITY</text>
 </svg>
+</div>
+        <figcaption style="font-size:13px; color:#64748b; font-style:italic; background:#fdfbf7; border-top:1px solid #f1f5f9; padding:12px 16px;">
+            <strong>Figure 2: Remote-Order Fraud Interception Architecture:</strong> Fraud signal deconstruction (distant buyer, overnight delivery rush, split addresses) and mandatory wire/courier re-route lockouts. Source: JCK & Jewelers' Security Alliance Fraud Reports.
+        </figcaption>
+    </figure>
 </div>
 
 ---

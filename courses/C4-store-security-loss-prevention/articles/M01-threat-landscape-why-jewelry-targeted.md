@@ -30,7 +30,9 @@ Because fine jewelry can be melted and dismounted within hours, law enforcement 
 
 ---
 
-<div style="padding:20px; background:#0b0f17; text-align:center;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; margin: 28px 0;">
+    <figure style="margin:0; background:#ffffff; border:1px solid #e2e8f0; border-radius:10px; overflow:hidden; box-shadow:0 4px 12px rgba(11,15,23,0.05);">
+        <div style="padding:20px; background:#0b0f17; text-align:center;">
 <svg viewBox="0 0 850 360" width="100%" height="360" xmlns="http://www.w3.org/2000/svg">
     <rect width="850" height="360" fill="#0b0f17" rx="8"/>
     <text x="425" y="30" font-family="'Playfair Display', Georgia, serif" font-size="18" font-weight="bold" fill="#dfbe54" text-anchor="middle">JSA EMPIRICAL JEWELRY CRIME DISTRIBUTION & ATTACK ARCHITECTURE</text>
@@ -70,6 +72,11 @@ Because fine jewelry can be melted and dismounted within hours, law enforcement 
     <text x="50" y="354" font-family="system-ui, sans-serif" font-size="9.5" fill="#64748b">JSA Crime Data Synthesis &bull; Annual industry impact exceeds $100M+ &bull; Physical loss-prevention discipline neutralizes over 75% of daytime attempts.</text>
 </svg>
 </div>
+        <figcaption style="font-size:13px; color:#64748b; font-style:italic; background:#fdfbf7; border-top:1px solid #f1f5f9; padding:12px 16px;">
+            <strong>Figure 1: JSA Empirical Jewelry Crime Distribution & Attack Architecture:</strong> Historical loss analysis showing the prevalence of smash-and-grab raids (38%), distraction theft (27%), grab-and-run incidents (18%), burglaries (10%), and armed robberies (7%). Source: Jewelers' Security Alliance (JSA) Annual Crime Reports.
+        </figcaption>
+    </figure>
+</div>
 
 ---
 
@@ -104,7 +111,9 @@ The most lethal scenario facing fine jewelry professionals.
 
 ---
 
-<div style="padding:20px; background:#0b0f17; text-align:center;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; margin: 28px 0;">
+    <figure style="margin:0; background:#ffffff; border:1px solid #e2e8f0; border-radius:10px; overflow:hidden; box-shadow:0 4px 12px rgba(11,15,23,0.05);">
+        <div style="padding:20px; background:#0b0f17; text-align:center;">
 <svg viewBox="0 0 850 360" width="100%" height="360" xmlns="http://www.w3.org/2000/svg">
     <rect width="850" height="360" fill="#0b0f17" rx="8"/>
     <text x="425" y="30" font-family="'Playfair Display', Georgia, serif" font-size="18" font-weight="bold" fill="#dfbe54" text-anchor="middle">SALON VULNERABILITY AUDIT: SPATIAL DEFENSE ARCHITECTURE</text>
@@ -154,6 +163,11 @@ The most lethal scenario facing fine jewelry professionals.
     <rect x="585" y="295" width="210" height="20" rx="4" fill="#334155"/>
     <text x="690" y="309" font-family="system-ui, sans-serif" font-size="9.5" fill="#e2e8f0" text-anchor="middle">Vulnerability Score: 25% of Risk</text>
 </svg>
+</div>
+        <figcaption style="font-size:13px; color:#64748b; font-style:italic; background:#fdfbf7; border-top:1px solid #f1f5f9; padding:12px 16px;">
+            <strong>Figure 2: Salon Vulnerability Audit & Spatial Defense Architecture:</strong> Three-zone defense perimeter analyzing street sightlines, showcase glass laminate ratings, and private viewing salon chokepoints. Source: Synthesized from JSA & Jewelers Mutual Risk Engineering.
+        </figcaption>
+    </figure>
 </div>
 
 ---

@@ -46,7 +46,9 @@ The most foundational doctrine of fine jewelry asset protection is the **One-Ite
 
 ---
 
-<div style="padding:20px; background:#0b0f17; text-align:center;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; margin: 28px 0;">
+    <figure style="margin:0; background:#ffffff; border:1px solid #e2e8f0; border-radius:10px; overflow:hidden; box-shadow:0 4px 12px rgba(11,15,23,0.05);">
+        <div style="padding:20px; background:#0b0f17; text-align:center;">
 <svg viewBox="0 0 850 360" width="100%" height="360" xmlns="http://www.w3.org/2000/svg">
     <rect width="850" height="360" fill="#0b0f17" rx="8"/>
     <text x="425" y="30" font-family="'Playfair Display', Georgia, serif" font-size="18" font-weight="bold" fill="#dfbe54" text-anchor="middle">COUNTER TOPOGRAPHY & PRESENTATION CUSTODY GEOMETRY</text>
@@ -86,6 +88,11 @@ The most foundational doctrine of fine jewelry asset protection is the **One-Ite
     <text x="425" y="321" font-family="system-ui, sans-serif" font-size="10" fill="#cbd5e1" text-anchor="middle">Golden Rule: The velvet show tray stays on the associate side of the centerline until an item is specifically handed to the client.</text>
 </svg>
 </div>
+        <figcaption style="font-size:13px; color:#64748b; font-style:italic; background:#fdfbf7; border-top:1px solid #f1f5f9; padding:12px 16px;">
+            <strong>Figure 1: Counter Topography & Presentation Custody Geometry:</strong> Spatial tactical centerline, velvet show tray positioning, 45° stance, and wrist key coil retention. Source: Jewelers Mutual Retail Security Protocols.
+        </figcaption>
+    </figure>
+</div>
 
 ---
 
@@ -112,7 +119,9 @@ All merchandise must be presented on a weighted, non-slip velvet presentation tr
 
 ---
 
-<div style="padding:20px; background:#0b0f17; text-align:center;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; margin: 28px 0;">
+    <figure style="margin:0; background:#ffffff; border:1px solid #e2e8f0; border-radius:10px; overflow:hidden; box-shadow:0 4px 12px rgba(11,15,23,0.05);">
+        <div style="padding:20px; background:#0b0f17; text-align:center;">
 <svg viewBox="0 0 850 360" width="100%" height="360" xmlns="http://www.w3.org/2000/svg">
     <rect width="850" height="360" fill="#0b0f17" rx="8"/>
     <text x="425" y="30" font-family="'Playfair Display', Georgia, serif" font-size="18" font-weight="bold" fill="#dfbe54" text-anchor="middle">THE 5-POINT ANTI-SWITCH LOUPE PROTOCOL</text>
@@ -176,6 +185,11 @@ All merchandise must be presented on a weighted, non-slip velvet presentation tr
     <line x1="30" y1="325" x2="815" y2="325" stroke="#334155" stroke-width="1"/>
     <text x="425" y="344" font-family="system-ui, sans-serif" font-size="10" fill="#64748b" text-anchor="middle">Framed as White-Glove Connoisseurship: "Allow me to verify prong tension and the GIA inscription before you try this on."</text>
 </svg>
+</div>
+        <figcaption style="font-size:13px; color:#64748b; font-style:italic; background:#fdfbf7; border-top:1px solid #f1f5f9; padding:12px 16px;">
+            <strong>Figure 2: The 5-Point Anti-Switch Loupe Protocol:</strong> Standardized 10x magnification inspection sequence verifying girdle inscriptions, inclusions, prong seating, hallmarks, and thermal density before hand-off and upon return. Source: JSA Retailer Security Guide & GIA Research Standards.
+        </figcaption>
+    </figure>
 </div>
 
 ---

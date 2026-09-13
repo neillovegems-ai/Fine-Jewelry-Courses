@@ -52,7 +52,9 @@ they are legally classified as "cash."
 
 ---
 
-<div style="padding:20px; background:#0b0f17; text-align:center;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; margin: 28px 0;">
+    <figure style="margin:0; background:#ffffff; border:1px solid #e2e8f0; border-radius:10px; overflow:hidden; box-shadow:0 4px 12px rgba(11,15,23,0.05);">
+        <div style="padding:20px; background:#0b0f17; text-align:center;">
 <svg viewBox="0 0 850 360" width="100%" height="360" xmlns="http://www.w3.org/2000/svg">
     <rect width="850" height="360" fill="#0b0f17" rx="8"/>
     <text x="425" y="30" font-family="'Playfair Display', Georgia, serif" font-size="18" font-weight="bold" fill="#dfbe54" text-anchor="middle">IRS/FINCEN FORM 8300 REGULATORY DECISION FLOWCHART</text>
@@ -114,6 +116,11 @@ they are legally classified as "cash."
     <text x="425" y="344" font-family="system-ui, sans-serif" font-size="10" fill="#64748b" text-anchor="middle">MANDATORY RULE: Electronic filing mandatory since Jan 1, 2024 &bull; Criminal penalties apply for failure to file or willful structuring.</text>
 </svg>
 </div>
+        <figcaption style="font-size:13px; color:#64748b; font-style:italic; background:#fdfbf7; border-top:1px solid #f1f5f9; padding:12px 16px;">
+            <strong>Figure 1: IRS/FinCEN Form 8300 Regulatory Decision Flowchart:</strong> Statutory cash definition, $10,000 threshold, 24-hr & 12-month aggregation rules, and BSA electronic filing sequence. Source: Internal Revenue Service & FinCEN (31 CFR 1010.330).
+        </figcaption>
+    </figure>
+</div>
 
 ---
 
@@ -174,7 +181,9 @@ Federal law (26 CFR § 1.6050I-1(f)) imposes a second, independent statutory obl
 
 ---
 
-<div style="padding:20px; background:#0b0f17; text-align:center;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; margin: 28px 0;">
+    <figure style="margin:0; background:#ffffff; border:1px solid #e2e8f0; border-radius:10px; overflow:hidden; box-shadow:0 4px 12px rgba(11,15,23,0.05);">
+        <div style="padding:20px; background:#0b0f17; text-align:center;">
 <svg viewBox="0 0 850 360" width="100%" height="360" xmlns="http://www.w3.org/2000/svg">
     <rect width="850" height="360" fill="#0b0f17" rx="8"/>
     <text x="425" y="30" font-family="'Playfair Display', Georgia, serif" font-size="18" font-weight="bold" fill="#dfbe54" text-anchor="middle">STRUCTURING AUDIT GUIDE: RED FLAGS VS LEGITIMATE COMPLIANCE</text>
@@ -213,6 +222,11 @@ Federal law (26 CFR § 1.6050I-1(f)) imposes a second, independent statutory obl
     <rect x="460" y="285" width="335" height="24" rx="4" fill="#ef4444" opacity="0.2"/>
     <text x="627" y="301" font-family="system-ui, sans-serif" font-size="10" font-weight="bold" fill="#f87171" text-anchor="middle">PROCEDURE: CHECK 'SUSPICIOUS' BOX &bull; ZERO TIPPING OFF</text>
 </svg>
+</div>
+        <figcaption style="font-size:13px; color:#64748b; font-style:italic; background:#fdfbf7; border-top:1px solid #f1f5f9; padding:12px 16px;">
+            <strong>Figure 2: Structuring Audit Guide: Red Flags vs Legitimate Compliance:</strong> Operational matrix distinguishing transparent cash compliance from criminal smurfing and anti-tipping-off rules. Source: JVC PATRIOT Act Compliance Manual.
+        </figcaption>
+    </figure>
 </div>
 
 ---

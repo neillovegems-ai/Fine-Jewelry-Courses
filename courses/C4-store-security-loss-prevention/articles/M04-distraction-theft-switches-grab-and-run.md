@@ -21,7 +21,9 @@ A standard distraction team operates with three to five members, each assigned a
 
 ---
 
-<div style="padding:20px; background:#0b0f17; text-align:center;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; margin: 28px 0;">
+    <figure style="margin:0; background:#ffffff; border:1px solid #e2e8f0; border-radius:10px; overflow:hidden; box-shadow:0 4px 12px rgba(11,15,23,0.05);">
+        <div style="padding:20px; background:#0b0f17; text-align:center;">
 <svg viewBox="0 0 850 360" width="100%" height="360" xmlns="http://www.w3.org/2000/svg">
     <rect width="850" height="360" fill="#0b0f17" rx="8"/>
     <text x="425" y="30" font-family="'Playfair Display', Georgia, serif" font-size="18" font-weight="bold" fill="#dfbe54" text-anchor="middle">DISTRACTION THEFT: SYNCHRONIZED 4-ROLE ATTACK MATRIX</text>
@@ -82,6 +84,11 @@ A standard distraction team operates with three to five members, each assigned a
     <line x1="30" y1="325" x2="820" y2="325" stroke="#334155" stroke-width="1"/>
     <text x="425" y="344" font-family="system-ui, sans-serif" font-size="10" fill="#64748b" text-anchor="middle">COUNTERMEASURE: One-item-out rule &bull; Showcase plunger locks locked &bull; Immediate 10x loupe verification &bull; Deploy all floor associates on code word.</text>
 </svg>
+</div>
+        <figcaption style="font-size:13px; color:#64748b; font-style:italic; background:#fdfbf7; border-top:1px solid #f1f5f9; padding:12px 16px;">
+            <strong>Figure 1: Distraction Theft Synchronized 4-Role Attack Matrix:</strong> Operational deconstruction of Anchor, Disrupter, Mechanic, and Mule roles in multi-confederate retail theft rings. Source: JSA Crime Bulletins & Industry Intelligence.
+        </figcaption>
+    </figure>
 </div>
 
 ---
@@ -200,7 +207,9 @@ According to Jewelers Mutual claims data, over 50% of grab-and-run thefts occur 
 
 ---
 
-<div style="padding:20px; background:#0b0f17; text-align:center;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; margin: 28px 0;">
+    <figure style="margin:0; background:#ffffff; border:1px solid #e2e8f0; border-radius:10px; overflow:hidden; box-shadow:0 4px 12px rgba(11,15,23,0.05);">
+        <div style="padding:20px; background:#0b0f17; text-align:center;">
 <svg viewBox="0 0 850 360" width="100%" height="360" xmlns="http://www.w3.org/2000/svg">
     <rect width="850" height="360" fill="#0b0f17" rx="8"/>
     <text x="425" y="30" font-family="'Playfair Display', Georgia, serif" font-size="18" font-weight="bold" fill="#dfbe54" text-anchor="middle">GRAB-AND-RUN SPATIAL ARCHITECTURE & PHYSICAL BARRIERS</text>
@@ -251,6 +260,11 @@ According to Jewelers Mutual claims data, over 50% of grab-and-run thefts occur 
     <rect x="460" y="285" width="335" height="24" rx="4" fill="#10b981" opacity="0.2"/>
     <text x="627" y="301" font-family="system-ui, sans-serif" font-size="10" font-weight="bold" fill="#34d399" text-anchor="middle">OUTCOME: OPPORTUNITY DEFICIT &bull; ATTEMPT DETERRED</text>
 </svg>
+</div>
+        <figcaption style="font-size:13px; color:#64748b; font-style:italic; background:#fdfbf7; border-top:1px solid #f1f5f9; padding:12px 16px;">
+            <strong>Figure 2: Grab-and-Run Spatial Architecture & Physical Barriers:</strong> Environmental vulnerability layout comparing entrance mirror exposure versus interior wall placement and buzzer lock controls. Source: Jewelers Mutual Loss Prevention Studies.
+        </figcaption>
+    </figure>
 </div>
 
 ---

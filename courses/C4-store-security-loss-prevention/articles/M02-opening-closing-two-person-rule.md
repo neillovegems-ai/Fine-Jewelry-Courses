@@ -28,7 +28,9 @@ The protocol designates two operational roles: **Employee A (The Scout)** and **
 
 ---
 
-<div style="padding:20px; background:#0b0f17; text-align:center;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; margin: 28px 0;">
+    <figure style="margin:0; background:#ffffff; border:1px solid #e2e8f0; border-radius:10px; overflow:hidden; box-shadow:0 4px 12px rgba(11,15,23,0.05);">
+        <div style="padding:20px; background:#0b0f17; text-align:center;">
 <svg viewBox="0 0 850 360" width="100%" height="360" xmlns="http://www.w3.org/2000/svg">
     <rect width="850" height="360" fill="#0b0f17" rx="8"/>
     <text x="425" y="30" font-family="'Playfair Display', Georgia, serif" font-size="18" font-weight="bold" fill="#dfbe54" text-anchor="middle">TWO-PERSON OPENING PROTOCOL: MULTI-STAGE TACTICAL SEQUENCE</text>
@@ -90,6 +92,11 @@ The protocol designates two operational roles: **Employee A (The Scout)** and **
     <text x="425" y="344" font-family="system-ui, sans-serif" font-size="10" fill="#64748b" text-anchor="middle">CRITICAL SAFETY RULE: If All-Clear Signal is absent, incorrect, or delayed beyond 3 minutes, Observer NEVER enters &bull; Immediate 911 dispatch.</text>
 </svg>
 </div>
+        <figcaption style="font-size:13px; color:#64748b; font-style:italic; background:#fdfbf7; border-top:1px solid #f1f5f9; padding:12px 16px;">
+            <strong>Figure 1: Two-Person Opening Protocol Operational Sequence:</strong> Multi-stage arrival, perimeter sweep, solo entry, internal search, and dual-custody safe opening sequence. Source: Jewelers Mutual Safety & Security Academy.
+        </figcaption>
+    </figure>
+</div>
 
 ---
 
@@ -136,7 +143,9 @@ An All-Clear Signal is an inconspicuous physical visual marker placed by Employe
 
 ---
 
-<div style="padding:20px; background:#0b0f17; text-align:center;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; margin: 28px 0;">
+    <figure style="margin:0; background:#ffffff; border:1px solid #e2e8f0; border-radius:10px; overflow:hidden; box-shadow:0 4px 12px rgba(11,15,23,0.05);">
+        <div style="padding:20px; background:#0b0f17; text-align:center;">
 <svg viewBox="0 0 850 360" width="100%" height="360" xmlns="http://www.w3.org/2000/svg">
     <rect width="850" height="360" fill="#0b0f17" rx="8"/>
     <text x="425" y="30" font-family="'Playfair Display', Georgia, serif" font-size="18" font-weight="bold" fill="#dfbe54" text-anchor="middle">THE ALL-CLEAR SIGNAL SYSTEM & AMBUSH RESPONSE ARCHITECTURE</text>
@@ -175,6 +184,11 @@ An All-Clear Signal is an inconspicuous physical visual marker placed by Employe
     <rect x="460" y="285" width="335" height="24" rx="4" fill="#ef4444" opacity="0.2"/>
     <text x="627" y="301" font-family="system-ui, sans-serif" font-size="10" font-weight="bold" fill="#f87171" text-anchor="middle">ACTION: DRIVE AWAY IMMEDIATELY &bull; DIAL 911</text>
 </svg>
+</div>
+        <figcaption style="font-size:13px; color:#64748b; font-style:italic; background:#fdfbf7; border-top:1px solid #f1f5f9; padding:12px 16px;">
+            <strong>Figure 2: The All-Clear Signal System & Ambush Response Architecture:</strong> Visual marker placement, rotational schedule, and negative response protocol for unconfirmed signals. Source: JSA Ambush & Kidnapping Guidelines.
+        </figcaption>
+    </figure>
 </div>
 
 ---
