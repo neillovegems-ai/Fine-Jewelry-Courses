@@ -1,7 +1,7 @@
 # Module 5 Production Outline: Layaway, Installments and BNPL
 
 ## 1. Executive Summary & Terminal Outcome
-- **Terminal Outcome:** The fine jewelry retail professional navigates and explains alternative payment architectures—including traditional in-house layaway, modern Buy Now Pay Later (BNPL) fintech platforms (Affirm, Klarna), and closed-end retail installment sales contracts (RISC)—balancing merchant fees, inventory custody, legal disclosures, and customer preferences.
+- **Terminal Outcome:** The fine jewelry retail professional navigates and explains alternative payment architectures, including traditional in-house layaway, modern Buy Now Pay Later (BNPL) fintech platforms (Affirm, Klarna), and closed-end retail installment sales contracts (RISC), balancing merchant fees, inventory custody, legal disclosures, and customer preferences.
 - **Key Operational Competencies:**
   - Contrasting the legal mechanics of physical bailment (layaway custody) with immediate possession credit (BNPL and installment loans).
   - Evaluating the merchant cost structure (take rates ranging from 0% on layaway to 6%–9% on BNPL) against closing velocity and average order value.

@@ -1,4 +1,4 @@
-# Daily Floor Huddle Card — Module 4: What You Cannot Promise at the Counter
+# Daily Floor Huddle Card: Module 4: What You Cannot Promise at the Counter
 
 ### 3-Minute Morning Briefing for the Floor Team
 
@@ -9,7 +9,7 @@
 
 #### 2. The 10-Second Decline Recovery
 - When an application comes back declined:
-  1. Keep a warm, calm smile—zero awkward pauses or sighs.
+  1. Keep a warm, calm smile, zero awkward pauses or sighs.
   2. Say: *"The bank's automated system wasn't able to complete an instant approval right now; they'll mail a confidential letter directly to your home with details."*
   3. Pivot immediately: *"In the meantime, we have our wonderful zero-interest layaway program or we can easily split this across your cards. Which works best?"*
 

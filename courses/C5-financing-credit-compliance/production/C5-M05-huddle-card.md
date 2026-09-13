@@ -1,4 +1,4 @@
-# Daily Floor Huddle Card — Module 5: Layaway, Installments & BNPL
+# Daily Floor Huddle Card: Module 5: Layaway, Installments & BNPL
 
 ### 3-Minute Morning Briefing for the Floor Team
 

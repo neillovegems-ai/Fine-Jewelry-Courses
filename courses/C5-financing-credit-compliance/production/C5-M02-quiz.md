@@ -12,7 +12,7 @@
 
 #### Q2: What is the primary psychological reason why affluent, high-income consumers choose to use 0% promotional financing?
 - A) They have no cash in their bank accounts
-- B) Capital preservation and the opportunity cost of money—keeping their liquid capital earning interest or dividends in investments while borrowing at 0%
+- B) Capital preservation and the opportunity cost of money, keeping their liquid capital earning interest or dividends in investments while borrowing at 0%
 - C) They want to damage their credit scores
 - D) They do not understand how interest works
 *Correct Answer:* B

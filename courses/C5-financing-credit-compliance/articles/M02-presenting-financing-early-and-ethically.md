@@ -2,7 +2,7 @@
 
 In traditional jewelry retail folklore, an unspoken superstition lingers on the sales floor: *Never mention financing unless the customer is visibly choking on the price.* 
 
-For generations, untrained associates treated financing as an emergency defogger—a desperate, awkward Hail Mary thrown when a customer gasped at a price tag or prepared to walk out the door. The dialogue was clumsy: *"Well... if that's too expensive for you, I guess we could check if you qualify for financing?"* 
+For generations, untrained associates treated financing as an emergency defogger: a desperate, awkward last resort thrown when a customer gasped at a price tag or prepared to walk out the door. The dialogue was clumsy: *"Well... if that's too expensive for you, I guess we could check if you qualify for financing?"* 
 
 This outdated approach fails on every psychological and operational level. It insults the client's pride, implies financial inadequacy, reduces a luxury milestone to an embarrassing negotiation, and positions the store as a predatory lender waiting to trap vulnerable shoppers.
 
@@ -81,7 +81,7 @@ Why do so many sales professionals hesitate to bring up financing? When audited 
 
 ### Barrier 2: "Financing feels tacky or cheap for a luxury store."
 - *The Misconception:* Luxury brands (Cartier, Tiffany, independent guild stores) shouldn't talk about monthly payments.
-- *The Reality:* Every major luxury automotive brand (Porsche, Mercedes-Benz, BMW) leases and finances over 70% of their vehicles. Luxury is defined by the quality of the product, the elegance of the environment, and the excellence of the service—not by requiring customers to carry duffel bags of cash. Flexible payment terms are an integral component of modern luxury hospitality.
+- *The Reality:* Every major luxury automotive brand (Porsche, Mercedes-Benz, BMW) leases and finances over 70% of their vehicles. Luxury is defined by the quality of the product, the elegance of the environment, and the excellence of the service, rather than requiring customers to carry duffel bags of cash. Flexible payment terms are an integral component of modern luxury hospitality.
 
 ### Barrier 3: "The application process takes too long and disrupts the romance."
 - *The Misconception:* Pulling out credit forms kills the emotional excitement of buying an engagement ring.
@@ -153,11 +153,11 @@ During Stage 2 (Discovery), while asking questions about the milestone occasion,
           
           <p style="margin:0 0 10px 0;"><strong style="color:#60a5fa;">Scenario 2: The Milestone Anniversary / Upgrade Client:</strong><br>
           <em>Client:</em> "We have a daughter starting college in the fall, so I shouldn't be spending $6,000 on a diamond band right now."<br>
-          <em>Associate:</em> "Congratulations on your daughter heading to college—what an exciting milestone! That's exactly why our 24-month equal payment option is so popular for milestone anniversaries. It allows you to celebrate your 20th anniversary with the band she deserves for roughly $250 a month, keeping your college tuition reserves completely intact. Shall we set up a quick pre-approval so you have that flexibility?"</p>
+          <em>Associate:</em> "Congratulations on your daughter heading to college. What an exciting milestone! That is exactly why our 24-month equal payment option is so popular for milestone anniversaries. It allows you to celebrate your 20th anniversary with the band she deserves for roughly $250 a month, keeping your college tuition reserves completely intact. Shall we set up a quick pre-approval so you have that flexibility?"</p>
           
           <p style="margin:0;"><strong style="color:#fbbf24;">Scenario 3: The Self-Purchasing Professional:</strong><br>
           <em>Client:</em> "I adore this tennis bracelet, but I should probably wait until my year-end bonus comes through."<br>
-          <em>Associate:</em> "You work exceptionally hard, and you deserve to enjoy this piece all season. With our 6-month deferred-interest plan, you can take the bracelet home tonight, make modest monthly minimums, and then pay off the remaining balance in full the day your bonus clears—with zero interest charges. It lets your bonus reward you today rather than waiting."</p>
+          <em>Associate:</em> "You work exceptionally hard, and you deserve to enjoy this piece all season. With our 6-month deferred-interest plan, you can take the bracelet home tonight, make modest monthly minimums, and then pay off the remaining balance in full the day your bonus clears, with zero interest charges. It lets your bonus reward you today rather than waiting."</p>
         </div>
       </div>
     </div>
@@ -244,7 +244,7 @@ While retail financing is a powerful closing tool, it carries severe ethical res
 
 ### The Three Sacred Floor Rules of Ethical Financing:
 
-#### 1. Never Guilt-Trip Through Emotional Leverage
+#### 1. Never Guilt-Trip Through Emotional Pressure
 Using personal relationships or romantic obligation to overcome financial anxiety is strictly prohibited. Phrases like:
 - *"If you really loved her, you wouldn't let $150 a month stand in the way."*
 - *"You only get engaged once; who cares about a little debt?"*
@@ -291,5 +291,5 @@ An associate must never imply that paying the minimum monthly payment on a defer
 1. **Introduce Financing in Discovery:** Mention financing options within the first 5–10 minutes as a standard store amenity before specific price tags are negotiated.
 2. **Never Assume Financial Need:** Frame financing as a smart cash-management and capital-preservation tool favored by sophisticated, affluent clients.
 3. **Always Practice Dual-Pricing:** Quote the monthly allocation alongside the full retail price ($6,000 or ~$250/month).
-4. **Leverage Split-Payments:** Suggest combining an immediate cash/debit down payment with a promotional financing plan for the upgrade balance.
+4. **Employ Split-Payments:** Suggest combining an immediate cash/debit down payment with a promotional financing plan for the upgrade balance.
 5. **Honor Client Dignity:** Never pressure, guilt-trip, or push financing on a client who prefers cash.

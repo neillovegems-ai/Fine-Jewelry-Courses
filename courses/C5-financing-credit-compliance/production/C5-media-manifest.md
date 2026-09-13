@@ -1,4 +1,4 @@
-# Course C5: Financing, Credit & Compliance at the Counter — Production Media Manifest
+# Course C5: Financing, Credit & Compliance at the Counter: Production Media Manifest
 
 All visual assets verified live on jewelswell.com. Images and operational frameworks utilize responsive luxury UI card architecture with verified academic, institutional, and regulatory fair-use citations.
 

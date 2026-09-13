@@ -1,4 +1,4 @@
-# Daily Floor Huddle Card — Module 2: Presenting Financing Early and Ethically
+# Daily Floor Huddle Card: Module 2: Presenting Financing Early and Ethically
 
 ### 3-Minute Morning Briefing for the Floor Team
 
@@ -13,4 +13,4 @@
 
 #### 3. Quick Role-Play Practice Question
 - *Customer:* "I love this tennis necklace, but $5,000 is a lot to pull out of checking today."
-- *Associate Response:* "I completely agree, and that's why over half of our clients choose our 12-month interest-free plan. You can put down whatever cash feels comfortable today—say $2,000—and finance the rest for about $250 a month with zero interest. That way you wear the necklace tonight without touching your savings. Would you like to see how that looks?"
+- *Associate Response:* "I completely agree, and that's why over half of our clients choose our 12-month interest-free plan. You can put down whatever cash feels comfortable today, say $2,000, and finance the rest for about $250 a month with zero interest. That way you wear the necklace tonight without touching your savings. Would you like to see how that looks?"

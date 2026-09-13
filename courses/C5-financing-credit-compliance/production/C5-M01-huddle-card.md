@@ -1,4 +1,4 @@
-# Daily Floor Huddle Card — Module 1: How Retail Financing Works
+# Daily Floor Huddle Card: Module 1: How Retail Financing Works
 
 ### 3-Minute Morning Briefing for the Floor Team
 

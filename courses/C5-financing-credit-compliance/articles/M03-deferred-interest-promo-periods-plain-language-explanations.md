@@ -1,6 +1,6 @@
 # Module 3: Deferred Interest, Promo Periods and Plain-Language Explanations
 
-In fine jewelry retail, no promotional vehicle generates more sales volume—and more consumer confusion, regulatory scrutiny, and post-purchase anger—than **Deferred Interest Financing**.
+In fine jewelry retail, no promotional vehicle generates more sales volume, as well as more consumer confusion, regulatory scrutiny, and post-purchase anger, than **Deferred Interest Financing**.
 
 Every weekend across the country, customers sign credit applications under the impression that they have secured a "free 0% loan." A year later, many open their billing statements in horror to discover that an unexpected charge of $1,200 or $1,800 has been slapped onto their account, wiping out their savings and shattering their trust in the jeweler who sold them their engagement ring.
 
@@ -75,7 +75,7 @@ Retail financing promotions generally fall into two legal and operational catego
 - **Legal Character:** The standard purchase APR (typically **28.99% to 34.99% Variable**) applies to the purchase from the exact day of the transaction.
 - **Background Accrual:** **Continuous.** Every month, the bank calculates finance charges based on the average daily balance and records them in a "deferred interest ledger" shown in the fine print of the monthly statement.
 - **The Conditional Waiver:** The assessment of this interest is *deferred* (held in suspense). If, and only if, the customer pays the entire promotional purchase balance down to **$0.00** before the promotional period expiration date, the bank permanently waives and deletes the accrued interest.
-- **The Penalty Cliff:** If the customer fails to pay the balance in full by the deadline—even if they owe a mere **$5.00** or make their final payment one day late—**the entire deferred interest accumulated over the full 12 months is immediately capitalized and billed to the customer's account.**
+- **The Penalty Cliff:** If the customer fails to pay the balance in full by the deadline (even if they owe a mere **$5.00** or make their final payment one day late), **the entire deferred interest accumulated over the full 12 months is immediately capitalized and billed to the customer's account.**
 
 ---
 
@@ -130,7 +130,7 @@ Retail financing promotions generally fall into two legal and operational catego
 
 The greatest operational danger facing consumers on deferred-interest programs is the disconnect between the **Required Payoff Amount** and the **Minimum Monthly Payment** printed on their billing statement.
 
-By federal law, credit card issuers are required to calculate a minimum monthly payment—usually between **2.5% and 3.5% of the total balance**, or a minimum floor of $25 to $35.
+By federal law, credit card issuers are required to calculate a minimum monthly payment, usually between **2.5% and 3.5% of the total balance**, or a minimum floor of $25 to $35.
 
 Consider a customer who finances a **$6,000 diamond engagement ring** on a 12-month deferred interest promotion:
 1. **The Bank's Stated Minimum Payment:** The first monthly statement arrives indicating a *"Minimum Payment Due"* of approximately **$150.00**.

@@ -1,4 +1,4 @@
-# Daily Floor Huddle Card — Module 6: FTC Guides & Product Representation
+# Daily Floor Huddle Card: Module 6: FTC Guides & Product Representation
 
 ### 3-Minute Morning Briefing for the Floor Team
 

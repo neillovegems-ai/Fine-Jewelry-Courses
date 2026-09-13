@@ -1,6 +1,6 @@
 # Module 4: What You Cannot Promise: Approvals, Terms, Credit Scores
 
-At the fine jewelry counter, enthusiasm is a salesperson's greatest asset—until it crosses the line into **unauthorized and illegal credit promises**.
+At the fine jewelry counter, enthusiasm is a salesperson's greatest asset until it crosses the line into **unauthorized and illegal credit promises**.
 
 In the heat of closing an $8,500 diamond sale, an eager associate might casually say:
 - *"Don't worry about it, everyone gets approved through our bank!"*

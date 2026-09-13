@@ -1,4 +1,4 @@
-# Daily Floor Huddle Card — Module 3: Deferred Interest & Plain-Language Disclosures
+# Daily Floor Huddle Card: Module 3: Deferred Interest & Plain-Language Disclosures
 
 ### 3-Minute Morning Briefing for the Floor Team
 

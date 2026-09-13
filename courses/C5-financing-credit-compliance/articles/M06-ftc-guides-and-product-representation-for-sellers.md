@@ -6,7 +6,7 @@ Every time a sales professional describes a center stone, quotes metal purity, o
 
 The FTC Guides are not optional industry suggestions; they are the federal benchmark for what constitutes deceptive, unfair, and illegal trade practices under Section 5 of the FTC Act. When an associate misrepresents a lab-grown diamond as "natural," fails to disclose that an emerald has been fracture-filled with resin, quotes a misleading gold karatage, or tells a client that a $4,000 ring "appraises for $9,000," they expose themselves and their employer to civil penalties, consumer restitution lawsuits, and enforcement actions coordinated by state Attorneys General and the **Jewelers Vigilance Committee (JVC)**.
 
-True luxury sales professionals take deep pride in complete legal compliance. Clear, transparent, and accurate product representation does not diminish perceived value—it elevates the jeweler above deceptive competitors and establishes unshakeable consumer trust.
+True luxury sales professionals take deep pride in complete legal compliance. Clear, transparent, and accurate product representation does not diminish perceived value. It elevates the jeweler above deceptive competitors and establishes unshakeable consumer trust.
 
 This masterclass details the legal standards governing diamond origins, gemstone treatments, precious metal markings, and counter appraisals, equipping floor teams with the definitive compliance manual for counter sales.
 
