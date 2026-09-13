@@ -170,7 +170,7 @@ Place Tier 1 and Tier 2 on a black velvet presentation pad. Invite the client to
 
 ### The Script for Calibrating Investment
 
-> **Associate:** *"To give us a baseline of scale and presence, I’ve brought out two beautiful options. This piece is around twenty-eight hundred, and this one beside it with more substantial visual presence is around fifty-four hundred. When you see them side by side, does one of these feel closer to the scale and investment you had in mind for this milestone?"*
+> **Associate:** *"To give us a baseline of scale and presence, I've brought out two beautiful options. This piece is around twenty-eight hundred, and this one beside it with more substantial visual presence is around fifty-four hundred. When you see them side by side, does one of these feel closer to the scale and investment you had in mind for this milestone?"*
 
 ### Analyzing the Client's Reaction
 

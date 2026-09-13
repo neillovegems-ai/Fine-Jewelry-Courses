@@ -1,6 +1,6 @@
 # Module 1: How Retail Financing Actually Works
 
-At the modern fine jewelry counter, a transactional paradox unfolds daily. A client stands before a showcases of diamond solitaires or hand-finished platinum bands, emotionally captivated by a piece priced at $7,500. They possess excellent personal credit, a steady professional income, and an unwavering desire to celebrate a pivotal life milestone. Yet, when confronted with the immediate lump-sum reality of swiping a checking account debit card or liquidating an interest-bearing investment account, emotional hesitation sets in. The purchase stalls, compromises are proposed ("Maybe we look at a half-carat smaller"), or the client retreats with the classic floor exit line: *"Let me think about it over the weekend."*
+At the modern fine jewelry counter, a transactional paradox unfolds daily. A client stands before a showcases of diamond solitaires or hand-finished platinum bands, emotionally captivated by a piece priced at $7,500. They possess excellent personal credit, a steady professional income, and an unwavering desire to celebrate a defining life milestone. Yet, when confronted with the immediate lump-sum reality of swiping a checking account debit card or liquidating an interest-bearing investment account, emotional hesitation sets in. The purchase stalls, compromises are proposed ("Maybe we look at a half-carat smaller"), or the client retreats with the classic floor exit line: *"Let me think about it over the weekend."*
 
 Retail financing exists to dismantle this friction. When executed professionally, consumer financing is not a predatory debt trap, nor is it a desperate last-resort rescue for a financially strained customer. Rather, it is a sophisticated **budget enablement vehicle**—a financial planning tool that bridges the gap between liquid cash-on-hand and monthly household cash flow. 
 
@@ -152,7 +152,7 @@ As demonstrated in Figure 2, this is mathematically irrational:
 2. Offering a 12-Month No Interest promotional plan at a 5.0% MDR costs the store **$500 in dealer fees**.
 3. **The net result:** The store preserves $500 more profit, maintains the brand's luxury pricing integrity, and enables the customer to walk out with the piece for ~$833/month instead of parting with $9,000 in immediate cash.
 
-Furthermore, financing increases the **Average Ticket**. Industry data consistently demonstrates that fine jewelry clients utilizing private-label credit cards spend **30% to 50% more** per transaction than clients paying with traditional debit or cash, because their psychological focus shifts from the aggregate capital barrier to manageable monthly cash allocations.
+Beyond that,, financing increases the **Average Ticket**. Industry data consistently demonstrates that fine jewelry clients using private-label credit cards spend **30% to 50% more** per transaction than clients paying with traditional debit or cash, because their psychological focus shifts from the aggregate capital barrier to manageable monthly cash allocations.
 
 ---
 
@@ -327,7 +327,7 @@ In high-volume independent and chain jewelry retail, progressive stores implemen
 - **Tier 3 (No Credit Needed / Lease-to-Own):** Companies like **Acima**, **Progressive Leasing**, or **Snap Finance**. These are technically lease-purchase agreements rather than credit cards. They do not report to standard credit bureaus and base approvals on checking account deposit history. (Note: Many luxury guild jewelers choose not to offer Tier 3 due to brand perception and high effective consumer cost, but it remains prevalent in commercial mid-market retail).
 
 ### The Golden Rule of Floor Privacy
-When utilizing an integrated multi-lender platform, the customer's application cascades automatically from Tier 1 to Tier 2 in the background. If Tier 1 declines, the screen seamlessly presents the Tier 2 offer. 
+When using an integrated multi-lender platform, the customer's application cascades automatically from Tier 1 to Tier 2 in the background. If Tier 1 declines, the screen seamlessly presents the Tier 2 offer. 
 
 At no point does the associate receive a reason code (e.g., *"Customer had a repossession in 2024"*). Federal privacy law (the Fair Credit Reporting Act) strictly forbids the bank from sharing credit bureau details with store personnel. The associate is told only: *"Approved for $X"* or *"Unable to approve at this time; a letter will be mailed by the issuing bank."*
 

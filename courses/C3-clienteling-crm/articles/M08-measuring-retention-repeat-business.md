@@ -312,7 +312,7 @@ On the last Friday of every month, dedicate 45 minutes to conducting this **30-D
 
 You have now completed the eight foundational modules of **Course C3: Clienteling & CRM**.
 
-You hold the complete operating architecture of the world’s elite fine jewelry client advisors:
+You hold the complete operating architecture of the world's elite fine jewelry client advisors:
 - You know that **a client book is compounding career equity**, freeing you from the walk-in trap.
 - You capture **7-Pillar profiling data** through custodial service rather than interrogation.
 - You execute the **2-2-2 Cadence** with handwritten gratitude, custodial care, and curated horizons.

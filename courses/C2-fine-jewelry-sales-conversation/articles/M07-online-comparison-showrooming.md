@@ -218,7 +218,7 @@ If a customer remains skeptical about online pricing, invite them to conduct the
 - **Day 1 (The Non-Defensive Reset):** Practice your initial reaction to a smartphone. Smile, lean in with interest, and validate their research.
 - **Day 2 (Mastering the Blueprint Script):** Deliver the *"GIA report is a blueprint, not a portrait"* analogy to a colleague until you can recite it with effortless gravitas.
 - **Day 3 (The Ergonomic Fist Test):** Guide at least two clients to close their hand into a fist to feel the comfort-fit weight of your mountings.
-- **Day 4 (The Bench Math Breakdown):** Calculate and memorize your store’s exact lifetime service costs (free sizing, lifetime cleaning, rhodium plating) to demonstrate tangible dollar value.
+- **Day 4 (The Bench Math Breakdown):** Calculate and memorize your store's exact lifetime service costs (free sizing, lifetime cleaning, rhodium plating) to demonstrate tangible dollar value.
 - **Day 5 (The Loupe Contrast Drill):** Show a client how an eye-clean VS2 with clean facet junctions differs from a stone with cloud-based light suppression.
 - **Day 6 (The Optical Challenge Invitation):** Offer the Side-by-Side Optical Challenge to an undecided client comparing online options.
 - **Day 7 (Weekly Showrooming Review):** Review any showrooming encounters from the week with your team. Which pillar of value resonated most with the client?

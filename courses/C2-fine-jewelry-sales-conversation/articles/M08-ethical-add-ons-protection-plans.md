@@ -42,7 +42,7 @@ The associate walks away feeling proud. He just logged a $9,500 sale.
 Yet from a master retail operations perspective, that transaction was incomplete. The associate committed the classic retail blunder known as **The One-Item Blind Spot**:
 - He sent a diamond ring out the door without the companion wedding band that mechanically protects its setting.
 - He failed to provide professional cleaning chemistry, ensuring the diamond will look dull and greasy within four weeks of daily wear.
-- He failed to secure a comprehensive jewelry protection plan, leaving the client vulnerable to catastrophic financial loss if a prong snags or a stone dislodges on honeymoon travels.
+- He failed to secure a thorough jewelry protection plan, leaving the client vulnerable to catastrophic financial loss if a prong snags or a stone dislodges on honeymoon travels.
 
 In fine jewelry economics, store profitability and associate earnings are driven by **Units Per Transaction (UPT)**:
 

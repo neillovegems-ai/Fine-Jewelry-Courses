@@ -36,14 +36,14 @@ Every fine jewelry acquisition is charged with intense emotional energy. Whether
 
 Yet the moment the client walks out of your showroom and re-enters their daily life, the **Law of Emotional Decay** takes effect.
 
-Within 48 hours, the initial dopamine surge begins to wane. By Day 7, the piece has become part of their routine. By Day 14, if there has been zero communication from the associate, buyer’s remorse or emotional disconnect can set in:
+Within 48 hours, the initial dopamine surge begins to wane. By Day 7, the piece has become part of their routine. By Day 14, if there has been zero communication from the associate, buyer's remorse or emotional disconnect can set in:
 - *"Did I spend too much?"*
 - *"Is the clasp really secure?"*
 - *"Did the salesperson actually care about my anniversary, or was I just another commission check to them?"*
 
 If you wait 11 months until their next anniversary to reach out, you are starting from zero. The emotional connection has dissolved, and your message reads as an intrusive, mercenary sales pitch.
 
-The **2-2-2 Cadence** is the luxury industry’s proven antidote to emotional decay. By timing three specific, value-driven touchpoints at **2 Days**, **2 Weeks**, and **2 Months**, you systematically reinforce their conviction, elevate your status to trusted custodial advisor, and naturally pave the way for their next major fine jewelry milestone.
+The **2-2-2 Cadence** is the luxury industry's proven antidote to emotional decay. By timing three specific, value-driven touchpoints at **2 Days**, **2 Weeks**, and **2 Months**, you systematically reinforce their conviction, elevate your status to trusted custodial advisor, and naturally pave the way for their next major fine jewelry milestone.
 
 ---
 
@@ -211,7 +211,7 @@ A client who receives a handwritten envelope with a real postage stamp in their 
   <figure style="background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 12px rgba(11,15,23,0.05); margin: 0;">
     <img src="https://jewelswell.com/wp-content/uploads/2026/09/m10-elizabeth-taylor-bulgari-emerald.jpg" alt="Elizabeth Taylor Bulgari 23.46 ct Emerald Brooch" style="width: 100%; height: auto; display: block;" loading="lazy" />
     <figcaption style="padding: 12px 16px; background: #fdfbf7; border-top: 1px solid #f1f5f9; font-size: 13px; color: #64748b; font-style: italic;">
-      <strong>Figure 3: Sentimental Provenance & Emotional Milestones:</strong> Elizabeth Taylor’s legendary Bulgari 23.46 ct Colombian emerald brooch, a gift from Richard Burton during the filming of Cleopatra in Rome. Fine jewelry is acquired to anchor life’s deepest emotions; your Day 2 gratitude note honors that sacred sentiment. Source: GIA Gems & Gemology.
+      <strong>Figure 3: Sentimental Provenance & Emotional Milestones:</strong> Elizabeth Taylor's legendary Bulgari 23.46 ct Colombian emerald brooch, a gift from Richard Burton during the filming of Cleopatra in Rome. Fine jewelry is acquired to anchor life's deepest emotions; your Day 2 gratitude note honors that sacred sentiment. Source: GIA Gems & Gemology.
     </figcaption>
   </figure>
 </div>
@@ -222,7 +222,7 @@ A client who receives a handwritten envelope with a real postage stamp in their 
 
 Fourteen days post-purchase, the client has now worn the piece in daily life. 
 
-The objective of the Week 2 touchpoint is **Custodial Care**: ensuring that the jewelry functions flawlessly, the fit is ergonomic and comfortable, and the client feels completely protected by your salon’s workshop.
+The objective of the Week 2 touchpoint is **Custodial Care**: ensuring that the jewelry functions flawlessly, the fit is ergonomic and comfortable, and the client feels completely protected by your salon's workshop.
 
 ### Key Focus Areas:
 1. **Fit & Comfort:** Does the ring spin? Is the bracelet clasp opening smoothly? Is the necklace length sitting properly on her neckline?
@@ -245,10 +245,10 @@ The objective of the Week 2 touchpoint is **Custodial Care**: ensuring that the 
 ### Verbatim Week 2 Outreach Scripts (WhatsApp / SMS)
 
 #### Script A: Solitaire Ring Fit Check
-> *"Good morning Sarah! It’s Elena from [Salon Name]. I wanted to check in and see how your new oval solitaire is feeling after your first two weeks of daily wear? How is the ring feeling across your knuckle, especially in the mornings? If the ring ever feels loose or shifts, please remember our workshop can adjust the sizing beads anytime. We’d also love to steam and refresh it whenever you’re near the boutique!"*
+> *"Good morning Sarah! It's Elena from [Salon Name]. I wanted to check in and see how your new oval solitaire is feeling after your first two weeks of daily wear? How is the ring feeling across your knuckle, especially in the mornings? If the ring ever feels loose or shifts, please remember our workshop can adjust the sizing beads anytime. We'd also love to steam and refresh it whenever you're near the boutique!"*
 
 #### Script B: Appraisal Delivery & Care Protocol
-> *"Hello David! Marcus here from [Salon Name]. Your formal gemological appraisal certificate for the emerald ring is finalized and signed by our Graduate Gemologist. I have uploaded a secure digital PDF copy to your client dossier, and the original hardbound certificate is ready for you whenever you’d like to stop by. How did Sarah love the anniversary presentation on Friday?"*
+> *"Hello David! Marcus here from [Salon Name]. Your formal gemological appraisal certificate for the emerald ring is finalized and signed by our Graduate Gemologist. I have uploaded a secure digital PDF copy to your client dossier, and the original hardbound certificate is ready for you whenever you'd like to stop by. How did Sarah love the anniversary presentation on Friday?"*
 
 ### Gemological Safety Note: Ultrasonic Protocols
 When inviting clients for cleaning, remember your gemological training:
@@ -266,7 +266,7 @@ Now—and only now—is the time to introduce **The Curated Horizon**.
 ### The Principle of the Natural Companion
 You never reach out at Month 2 with a generic *"Hey, do you want to buy anything else?"* 
 
-Instead, you curate a specific piece that serves as the **natural stylistic companion** to what they already own:
+Instead, you curate a specific piece that acts as the **natural stylistic companion** to what they already own:
 
 | Original Purchase (Day 0) | Month 2 Curated Companion Piece | Pedagogical Rationale |
 |---|---|---|
@@ -281,7 +281,7 @@ Instead, you curate a specific piece that serves as the **natural stylistic comp
   <figure style="background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 12px rgba(11,15,23,0.05); margin: 0;">
     <img src="https://jewelswell.com/wp-content/uploads/2026/09/m10-cartier-panther-152ct-sapphire.jpg" alt="Cartier 152 ct Sapphire Panther Brooch" style="width: 100%; height: auto; display: block;" loading="lazy" />
     <figcaption style="padding: 12px 16px; background: #fdfbf7; border-top: 1px solid #f1f5f9; font-size: 13px; color: #64748b; font-style: italic;">
-      <strong>Figure 5: High-Jewelry Suite Presentation:</strong> Cartier’s iconic 152.35 ct sapphire panther brooch. At Month 2, elite advisors present suite completions and bespoke atelier acquisitions, transitioning clients from single-item buyers into lifelong jewelry connoisseurs. Source: GIA Gems & Gemology.
+      <strong>Figure 5: High-Jewelry Suite Presentation:</strong> Cartier's iconic 152.35 ct sapphire panther brooch. At Month 2, elite advisors present suite completions and bespoke atelier acquisitions, transitioning clients from single-item buyers into lifelong jewelry connoisseurs. Source: GIA Gems & Gemology.
     </figcaption>
   </figure>
 </div>

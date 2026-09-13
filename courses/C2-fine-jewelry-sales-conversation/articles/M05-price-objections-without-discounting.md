@@ -241,7 +241,7 @@ Look the client directly in the eye, smile warmly, and deliver this word-for-wor
 - **Day 4 (The Three Value Pillars):** Present the trio of geological cut, platinum density, and lifetime custodial warranty before quoting any price above $5,000.
 - **Day 5 (Financing as Cash Flow):** Introduce preferred client financing as a wealth-preservation tool rather than a debt burden.
 - **Day 6 (The Value-Add Offer):** Practice offering an appraisal or care kit instead of cash discounts when a customer asks for a concession.
-- **Day 7 (Weekly Margin Audit):** Review your sales transactions from the week. Calculate how many gross margin dollars you protected by utilizing the AARE framework.
+- **Day 7 (Weekly Margin Audit):** Review your sales transactions from the week. Calculate how many gross margin dollars you protected by using the AARE framework.
 
 ---
 

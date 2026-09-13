@@ -23,7 +23,7 @@ refined_with_antigravity: 2026-09-12
 | 2 | Factual discipline | 5 | Synthesizes behavioral cues documented by sales authority Shane Decker, INSTORE Magazine's floor coaching archives, Allan Pease's non-verbal body language research, and Harvard Program on Negotiation principles regarding tactical silence. |
 | 3 | Floor readiness | 5 | Delivers immediate, practical floor tools: the Possessive Pronoun Shift, the 5-Second Silence Rule, physical retreat geometry, and graceful verbal bridges that move from signal detection directly to order confirmation. |
 | 4 | Voice | 5 | Quiet luxury gravitas, observant psychological insight, and zero aggressive sales jargon; frames silence as the ultimate form of professional confidence and respect. |
-| 5 | Scannability | 5 | Structured with clean categorization tables, diagnostic signal checklists, side-by-side behavioral contrast matrices, and a comprehensive 7-day floor training plan. |
+| 5 | Scannability | 5 | Structured with clean categorization tables, diagnostic signal checklists, side-by-side behavioral contrast matrices, and a thorough 7-day floor training plan. |
 | 6 | Persona fit | 5 | Directly solves the primary flaw of P1 associates (nervous over-talking and filling silence), while offering P2 advisors sophisticated non-verbal calibration techniques. |
 | 7 | Length | 5 | ~3,500 words of thorough, field-tested guidance covering non-verbal psychology, verbal markers, floor geometry, and complex edge cases. |
 

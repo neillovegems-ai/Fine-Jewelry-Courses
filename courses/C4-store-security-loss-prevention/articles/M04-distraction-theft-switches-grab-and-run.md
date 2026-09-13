@@ -270,12 +270,12 @@ According to Jewelers Mutual claims data, over 50% of grab-and-run thefts occur 
 ---
 
 ### The Four Environmental Traps That Invite Grab-and-Runs
-1. **The Entrance Mirror Trap:** Placing a full-length mirror within 10 feet of the front entrance door is an invitation to theft. A customer modeling a diamond necklace naturally walks over to the mirror. The moment they reach the glass, they are one step from the sidewalk. The associate—standing 15 feet behind the counter—has zero physical leverage to intervene.
+1. **The Entrance Mirror Trap:** Placing a full-length mirror within 10 feet of the front entrance door is an invitation to theft. A customer modeling a diamond necklace naturally walks over to the mirror. The moment they reach the glass, they are one step from the sidewalk. The associate—standing 15 feet behind the counter—has zero physical deploy to intervene.
    - *The Countermeasure:* All mirrors must be mounted on **interior structural walls located deep within the showroom**, forcing the client to face inward, toward the back salon, while admiring the piece.
 2. **The Front-Door Showcase:** Placing your most expensive diamond solitaires or luxury Swiss watches in the showcases closest to the street entrance minimizes the runner's sprint time to under 3 seconds. High-ticket cases must be positioned at least 25 feet from the door.
 3. **The "Natural Sunlight" Request:** A customer trying on a diamond ring says: *"The spotlights in here are so bright. Can I just step over by the front door to see how this diamond looks in natural daylight?"*
    - *The Countermeasure:* Never allow merchandise within 10 feet of an exterior door. Politely redirect the client: *"I completely understand! Natural daylight reveals the true color. Let me escort you to our calibrated daylight viewing booth right over here."*
-4. **The Buzz-In Door Lock Vulnerability:** Many boutiques utilize magnetic buzz-in door locks. However, associates frequently buzz the door release button the moment a customer begins walking toward the door to be polite. A grab-and-run runner relies on this habit: they snatch the ring, and the unsuspecting door monitor buzzes the lock open before realizing a theft has occurred!
+4. **The Buzz-In Door Lock Vulnerability:** Many boutiques use magnetic buzz-in door locks. However, associates frequently buzz the door release button the moment a customer begins walking toward the door to be polite. A grab-and-run runner relies on this habit: they snatch the ring, and the unsuspecting door monitor buzzes the lock open before realizing a theft has occurred!
    - *The Rule:* The door release button is pressed **ONLY AFTER** the sales associate gives a positive verbal or visual confirmation that the transaction is complete and merchandise is returned to the case.
 
 ---

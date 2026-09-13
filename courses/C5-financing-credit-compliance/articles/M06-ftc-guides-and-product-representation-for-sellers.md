@@ -225,7 +225,7 @@ If a treatment is non-permanent, requires special cleaning care, or significantl
 
 ## 4. Deceptive Pricing & Inflated Counter Appraisals
 
-One of the most persistent abusive practices in commercial retail is using **inflated in-house appraisals** as closing leverage.
+One of the most persistent abusive practices in commercial retail is using **inflated in-house appraisals** as closing deploy.
 
 Under **FTC Deceptive Pricing Guides (16 CFR Part 233)**, an appraisal must represent a genuine, objective valuation based on real marketplace sales. When a retailer promises an appraisal document at twice the sales price, they are engaging in deceptive marketing.
 

@@ -175,7 +175,7 @@ Master the **2-2-2 Cadence**:
 Send a personalized text message or brief email two days after their visit. The tone must be warm, supportive, and completely free of sales pressure:
 
 ### Verbatim SMS Template (48-Hour Touchpoint):
-> *"Hi Marcus, this is Elena from [Boutique Name]. I just wanted to thank you again for spending time with me on Tuesday. That 2.10ct platinum oval looked breathtaking, and your thoughtfulness toward Sarah’s proposal is truly inspiring. I know you're taking your time to think things through—please know I'm here whenever questions come up. Have a wonderful weekend!"*
+> *"Hi Marcus, this is Elena from [Boutique Name]. I just wanted to thank you again for spending time with me on Tuesday. That 2.10ct platinum oval looked breathtaking, and your thoughtfulness toward Sarah's proposal is truly inspiring. I know you're taking your time to think things through—please know I'm here whenever questions come up. Have a wonderful weekend!"*
 
 ### Why It Works:
 - Mentions his partner by name (*Sarah*).

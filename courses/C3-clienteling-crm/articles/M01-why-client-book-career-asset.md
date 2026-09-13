@@ -50,7 +50,7 @@ Top-performing fine jewelry advisors—those earning six-figure incomes and comm
 
 When the calendar turns to the first of the month, a master client advisor already has **60% to 80% of their monthly sales quota scheduled in private appointments**. 
 
-They know that Dr. Aris is celebrating his 15th wedding anniversary on the 18th, and his wife's emerald wish-list item has already been brought in on memo from an Antwerp cutter. They know that Mrs. Kensington’s daughter is graduating medical school in three weeks, and a curated selection of Akoya pearl strands is waiting in the private salon. 
+They know that Dr. Aris is celebrating his 15th wedding anniversary on the 18th, and his wife's emerald wish-list item has already been brought in on memo from an Antwerp cutter. They know that Mrs. Kensington's daughter is graduating medical school in three weeks, and a curated selection of Akoya pearl strands is waiting in the private salon. 
 
 They do not wait for the door chime. They generate their own traffic.
 
@@ -118,7 +118,7 @@ They do not wait for the door chime. They generate their own traffic.
 
 To understand why a client book is your greatest professional asset, you must shift your mental model from **Transaction Value** to **Client Lifetime Value (LTV)**.
 
-In luxury fine jewelry, acquiring a new customer is brutally expensive. According to the National Retail Federation and Bain & Company retail research, acquiring a first-time luxury buyer costs between **5x to 7x more** in advertising, store overhead, and marketing than nurturing an existing client. Furthermore, first-time walk-in buyers exhibit an average closing ratio of just **10% to 18%**.
+In luxury fine jewelry, acquiring a new customer is brutally expensive. According to the National Retail Federation and Bain & Company retail research, acquiring a first-time luxury buyer costs between **5x to 7x more** in advertising, store overhead, and marketing than nurturing an existing client. Beyond that,, first-time walk-in buyers exhibit an average closing ratio of just **10% to 18%**.
 
 In contrast, clienteling unlocks three compounding economic levers:
 

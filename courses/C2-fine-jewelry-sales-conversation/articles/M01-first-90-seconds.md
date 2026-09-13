@@ -292,12 +292,12 @@ To turn these principles into permanent counter habits, complete this sequential
 ### Edge Case 2: Simultaneous Walk-Ins
 * **The Situation:** Two separate parties enter the showroom within ten seconds of each other, and you are the only associate currently on the floor.
 * **The Mistake:** Giving 100% of your focus to Party A while completely ignoring Party B.
-* **The Professional Move:** Give Party A a warm welcome: *"Welcome in, I'll be with you in just a moment."* Turn immediately to Party B, make eye contact, smile, and say: *"Welcome in! Please make yourselves comfortable—I’ll be right with you both."* Verifying that both parties have been seen maintains security and prevents walk-outs.
+* **The Professional Move:** Give Party A a warm welcome: *"Welcome in, I'll be with you in just a moment."* Turn immediately to Party B, make eye contact, smile, and say: *"Welcome in! Please make yourselves comfortable—I'll be right with you both."* Verifying that both parties have been seen maintains security and prevents walk-outs.
 
 ### Edge Case 3: The Client Who Directly Asks for a Discount in the First 30 Seconds
 * **The Situation:** A client walks up to a showcase, points at an item, and asks: *"What's your bottom-dollar cash price on this?"*
 * **The Mistake:** Quoting a discount immediately or acting defensive.
-* **The Professional Move:** Smile calmly, unlock the case, and transition to value: *"We take extraordinary care with our pricing, but before we talk numbers, let's make sure this is actually the piece you love. Let’s get it in your hands."* (Explored in depth in Module 5: *Price Objections Without Discounting*).
+* **The Professional Move:** Smile calmly, unlock the case, and transition to value: *"We take extraordinary care with our pricing, but before we talk numbers, let's make sure this is actually the piece you love. Let's get it in your hands."* (Explored in depth in Module 5: *Price Objections Without Discounting*).
 
 ---
 

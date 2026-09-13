@@ -202,11 +202,11 @@ Every premier fine jewelry salon must enforce a **Standardized Tagging Taxonomy*
 
 ## 3. Objective Note-Taking: The "Front Page Test"
 
-What you write in a client’s CRM profile reflects the ethical and legal standard of your salon.
+What you write in a client's CRM profile reflects the ethical and legal standard of your salon.
 
 Under US Federal Rules of Civil Procedure (Rule 34) and international privacy laws like the General Data Protection Regulation (GDPR) and the California Consumer Privacy Act (CCPA), **CRM notes are legally discoverable documents**. In the event of commercial litigation, employment disputes, or a formal client data request, every single line you write can be inspected.
 
-Furthermore, luxury clients who exercise their legal right to inspect their personal file will read exactly what you wrote about them.
+Beyond that,, luxury clients who exercise their legal right to inspect their personal file will read exactly what you wrote about them.
 
 ### The Golden Rule: The Front Page Test
 *Never write anything in a client profile that you would be embarrassed or legally compromised by if the client, your store owner, or a judge read it on the front page of a newspaper.*

@@ -296,7 +296,7 @@ Surviving an armed robbery is a severe psychological trauma. The enterprise's re
   > *"We are fully cooperating with law enforcement in their active investigation. Our sole focus today is the safety and well-being of our team and clients. All inquiries should be directed to our corporate office."*
 
 ### Filing with the Jewelers' Security Alliance
-Within hours of the incident, file a comprehensive confidential incident report with the **Jewelers' Security Alliance (JSA)** (www.jewelerssecurity.org). 
+Within hours of the incident, file a thorough confidential incident report with the **Jewelers' Security Alliance (JSA)** (www.jewelerssecurity.org). 
 
 JSA maintains an intelligence database that connects crime patterns across all 50 states. By submitting details of the modus operandi, weapon types, and suspect descriptions, your report allows JSA analysts to match the crime against known traveling syndicates, alert neighboring jewelers across the region, and coordinate multi-agency federal investigations.
 

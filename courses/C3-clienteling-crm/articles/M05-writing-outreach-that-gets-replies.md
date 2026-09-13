@@ -165,19 +165,19 @@ You follow the **4-Part Luxury SMS Blueprint**:
 
 1. **Warm Personal Greeting:**  
    Always identify yourself by your first name and the salon name immediately. Never assume they have your personal number saved:  
-   *“Good morning Claire! Elena here from [Salon Name].”*
+   *"Good morning Claire! Elena here from [Salon Name]."*
 
 2. **Specific Conversational Memory Anchor:**  
    Prove immediately that you remember their taste, past conversation, or lifestyle context:  
-   *“I was inspecting an untreated Ceylon sapphire pendant that just arrived from our Paris workshop, and I immediately remembered our conversation about your love for cornflower blue with platinum.”*
+   *"I was inspecting an untreated Ceylon sapphire pendant that just arrived from our Paris workshop, and I immediately remembered our conversation about your love for cornflower blue with platinum."*
 
 3. **Styled Daylight Visual Media (Photo / Video):**  
    Never send plain text describing jewelry. Fine jewelry is an optical, tactile art form. Attach a crisp 10-second video or high-definition photo of the piece held in natural daylight:  
-   *“I took a quick 10-second video of its velvet brilliance in the morning sun [attached].”*
+   *"I took a quick 10-second video of its velvet brilliance in the morning sun [attached]."*
 
 4. **Low-Friction Question Closing:**  
    Never ask for a credit card or demand an immediate purchase. End with a low-stakes, conversational question that is easy and enjoyable to answer:  
-   *“I have it reserved in our vault through Thursday. Do you prefer this classic oval cut, or do you still have your heart set on the cushion shape we viewed last month?”*
+   *"I have it reserved in our vault through Thursday. Do you prefer this classic oval cut, or do you still have your heart set on the cushion shape we viewed last month?"*
 
 ---
 
@@ -203,7 +203,7 @@ You follow the **4-Part Luxury SMS Blueprint**:
 While text messaging is ideal for quick previews and milestone check-ins, **curated email** is the preferred vehicle for high-ticket dossiers, multi-stone comparisons, and formal private salon invitations.
 
 ### The 3 Rules of Luxury Email Subject Lines:
-- **Rule 1: Name & Personal Context:** Always include the client’s first name and a specific reference to a piece they admired.
+- **Rule 1: Name & Personal Context:** Always include the client's first name and a specific reference to a piece they admired.
 - **Rule 2: Zero Marketing Buzzwords:** Never use words like *Sale*, *Discount*, *Offer*, *Limited Time*, or *Exclusive Deal*. These trigger spam filters and luxury skepticism.
 - **Rule 3: Curiosity & Understatement:** Keep it calm, quiet, and understated.
 
@@ -237,7 +237,7 @@ While text messaging is ideal for quick previews and milestone check-ins, **cura
 >
 > *Here is what makes both stones extraordinary:*
 >
-> - **Stone 1: 3.42 ct Cushion Cut (Royal Blue):** Certified unheated by GIA. It displays that rare, velvety royal blue saturation with exceptional transparency and no zoning. Set in platinum with tapered baguette diamonds, it would mirror the Art Deco geometry you loved in your grandmother’s brooch.
+> - **Stone 1: 3.42 ct Cushion Cut (Royal Blue):** Certified unheated by GIA. It displays that rare, velvety royal blue saturation with exceptional transparency and no zoning. Set in platinum with tapered baguette diamonds, it would mirror the Art Deco geometry you loved in your grandmother's brooch.
 > - **Stone 2: 3.85 ct Oval Cut (Cornflower Blue):** Lighter in tone, vibrant, with extraordinary daylight dispersion. It has a slightly softer, romantic presence on the hand.
 >
 > *I have attached high-resolution photographs of both stones resting against 950 platinum mountings under natural 5500K daylight, alongside their GIA laboratory reports.*
@@ -255,7 +255,7 @@ While text messaging is ideal for quick previews and milestone check-ins, **cura
   <figure style="background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 12px rgba(11,15,23,0.05); margin: 0;">
     <img src="https://jewelswell.com/wp-content/uploads/2026/09/m12-cartier-65ct-kashmir-sapphire-bracelet.jpg" alt="Cartier Kashmir Sapphire Art Deco Bracelet" style="width: 100%; height: auto; display: block;" loading="lazy" />
     <figcaption style="padding: 12px 16px; background: #fdfbf7; border-top: 1px solid #f1f5f9; font-size: 13px; color: #64748b; font-style: italic;">
-      <strong>Figure 5: High-Jewelry Art Deco Bracelet Architecture:</strong> Cartier’s Kashmir sapphire masterpiece. Luxury email dossiers should educate collectors on mounting architecture, prong security, and gemstone pedigree, elevating client advisors to trusted curators. Source: GIA Gems & Gemology.
+      <strong>Figure 5: High-Jewelry Art Deco Bracelet Architecture:</strong> Cartier's Kashmir sapphire masterpiece. Luxury email dossiers should educate collectors on mounting architecture, prong security, and gemstone pedigree, elevating client advisors to trusted curators. Source: GIA Gems & Gemology.
     </figcaption>
   </figure>
 </div>
@@ -277,7 +277,7 @@ Follow these **Five Golden Rules of Mobile Jewelry Staging**:
 4. **Clean Before Shooting:**  
    Always steam and wipe the jewelry with a microfiber lint-free cloth before taking a photo. A high-resolution smartphone camera will magnify microscopic dust or fingerprints into glaring flaws.
 5. **Shoot Slow, Smooth Video:**  
-   Record a 10-to-15 second video slowly tilting the piece by 15 degrees. This allows the diamond’s scintillation, dispersion (fire), and scintillation patterns to dance across the screen.
+   Record a 10-to-15 second video slowly tilting the piece by 15 degrees. This allows the diamond's scintillation, dispersion (fire), and scintillation patterns to dance across the screen.
 
 ---
 

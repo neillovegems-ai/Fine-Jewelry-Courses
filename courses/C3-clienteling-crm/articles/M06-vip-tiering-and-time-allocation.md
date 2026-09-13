@@ -32,7 +32,7 @@ published_url: https://jewelswell.com/clienteling-crm/module-6-vip-tiering-and-t
 
 ## 1. The Luxury Pareto Law
 
-The greatest hidden tax on a fine jewelry sales associate’s career is **the democratization of time**.
+The greatest hidden tax on a fine jewelry sales associate's career is **the democratization of time**.
 
 In a typical retail showroom, associates treat every person who crosses the threshold with identical time investment. They will spend 45 minutes helping an occasional buyer select a $180 silver fashion ring, and then find themselves rushed, fatigued, or distracted when a generational collector with a $75,000 annual jewelry budget enters the salon.
 
@@ -52,7 +52,7 @@ Decades of luxury retail analysis from Bain & Company and the Luxury Institute c
 
 If you allocate 80% of your time to the bottom 80% of your customer book, you are running a charity, not a compounding luxury career. 
 
-Master client advisors do not neglect entry-level clients; rather, they **stratify their energy systematically**. They build a structured 3-tier portfolio and allocate their precious proactive outreach hours where emotional and commercial leverage is highest.
+Master client advisors do not neglect entry-level clients; rather, they **stratify their energy systematically**. They build a structured 3-tier portfolio and allocate their precious proactive outreach hours where emotional and commercial deploy is highest.
 
 ---
 
@@ -285,7 +285,7 @@ You implement **The 4-Block Daily Operating Rhythm**:
   <figure style="background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 12px rgba(11,15,23,0.05); margin: 0;">
     <img src="https://jewelswell.com/wp-content/uploads/2026/09/m03-christies-salesroom-historic.jpg" alt="Christie's Historic Auction Salesroom" style="width: 100%; height: auto; display: block;" loading="lazy" />
     <figcaption style="padding: 12px 16px; background: #fdfbf7; border-top: 1px solid #f1f5f9; font-size: 13px; color: #64748b; font-style: italic;">
-      <strong>Figure 5: The High-Net-Worth Collector Environment:</strong> Christie’s salesroom during a landmark jewelry auction. UHNW collectors prioritize privacy, asset pedigree, and advisory discretion over retail convenience. Managing Tier 1 relationships requires cultivating this same aura of quiet luxury authority. Source: Christie's Images / GIA.
+      <strong>Figure 5: The High-Net-Worth Collector Environment:</strong> Christie's salesroom during a landmark jewelry auction. UHNW collectors prioritize privacy, asset pedigree, and advisory discretion over retail convenience. Managing Tier 1 relationships requires cultivating this same aura of quiet luxury authority. Source: Christie's Images / GIA.
     </figcaption>
   </figure>
 </div>

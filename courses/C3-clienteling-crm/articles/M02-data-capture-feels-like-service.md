@@ -18,7 +18,7 @@ published_url: https://jewelswell.com/clienteling-crm/module-2-data-capture-feel
 
 | # | Criterion | Score (1-5) | Justification |
 |---|---|:---:|---|
-| 1 | Outcome alignment | 5 | Solves the universal retail friction point of customer data collection. Explains why cash-wrap interrogation fails and introduces the comprehensive 7-Pillar Luxury Profiling Matrix. |
+| 1 | Outcome alignment | 5 | Solves the universal retail friction point of customer data collection. Explains why cash-wrap interrogation fails and introduces the thorough 7-Pillar Luxury Profiling Matrix. |
 | 2 | Factual discipline | 5 | Cites retail psychology studies on data refusal rates (Endear Clienteling Studies), gemological sizing standards (GIA JMA wide-band displacement), and legal privacy frameworks (GDPR/CCPA). |
 | 3 | Floor readiness | 5 | Features verbatim discovery scripts, the "Complimentary Jewelry Cleaning Bridge," and exact dialogue to overcome client data hesitation. |
 | 4 | Voice | 5 | Calm luxury authority, empathetic, service-oriented, devoid of sales pressure. |
@@ -36,14 +36,14 @@ Imagine you have just experienced a wonderful 45-minute luxury jewelry presentat
 
 You walk to the cash wrap. You pull out your black titanium credit card.
 
-Suddenly, the associate’s demeanor shifts from a gracious host to an administrative interrogator. They tap the glass POS screen and say:
+Suddenly, the associate's demeanor shifts from a gracious host to an administrative interrogator. They tap the glass POS screen and say:
 
 *"Can I get your first and last name, home address, zip code, phone number, and email address for our system?"*
 
 Instantly, the warmth leaves the room. Your internal guard snaps shut. You think: *I just spent $3,800 with you, and now you want to put me on a digital spam list that will email me promotional flyers every Tuesday morning.*
 
 You respond with the universal retail reflex:
-*"Actually, I’m in a bit of a rush—let's just skip that today."*
+*"Actually, I'm in a bit of a rush—let's just skip that today."*
 
 Or worse, you provide a burner email: `john.smith992@gmail.com`—an inbox you check once every four months to clear 10,000 unread marketing blasts.
 
@@ -51,7 +51,7 @@ Or worse, you provide a burner email: `john.smith992@gmail.com`—an inbox you c
 
 According to retail data from Endear and the Luxury Institute, **between 65% and 80% of retail customers decline or falsify their contact information** when asked at the point of sale. 
 
-Why? Because the request is framed entirely around the **retailer’s administrative needs**, rather than the **client’s personal service**. In the client’s mind, giving an email address provides zero value and guarantees future digital annoyance.
+Why? Because the request is framed entirely around the **retailer's administrative needs**, rather than the **client's personal service**. In the client's mind, giving an email address provides zero value and guarantees future digital annoyance.
 
 In luxury fine jewelry, data capture must never be an administrative afterthought at checkout. It must be woven into the very fabric of the presentation as an act of **protective, custodial luxury service**.
 
@@ -206,7 +206,7 @@ To build an actionable client book that compounds in value year after year, you 
 | **4** | **Collection Gaps & Wish List** | Owned pieces vs missing foundations (e.g. owns solitaire ring, missing diamond line bracelet or cocktail ring). | Gives you a logical, compelling reason to contact them when new matching pieces arrive. |
 | **5** | **Sizing & Ergonomics** | Left & right ring finger sizes, wrist circumference, necklace drop length, earring sensitivity. | Allows a partner or spouse to purchase surprise gifts with 100% confidence of a perfect fit. |
 | **6** | **Lifestyle Context** | Daily occupation, travel destinations, active sports, gala attendance, climate preferences. | Directs mounting durability recommendations (e.g. bezel settings for active athletes). |
-| **7** | **Values & Provenance** | Natural diamond purist vs lab-grown flexibility, Canadian/Botswana provenance, recycled metals sentiment. | Respects the client’s ethical convictions and avoids awkward sales friction. |
+| **7** | **Values & Provenance** | Natural diamond purist vs lab-grown flexibility, Canadian/Botswana provenance, recycled metals sentiment. | Respects the client's ethical convictions and avoids awkward sales friction. |
 
 ---
 
@@ -258,7 +258,7 @@ When helping a client select a piece for themselves or discussing upcoming trave
 
 > **Associate:** *"This yellow sapphire pendant looks striking against your linen blazer. If you don't mind me asking, is this celebrating a specific milestone, or a personal treat for the summer?"*
 >
-> **Client:** *"It’s actually our 10th anniversary next month. We're spending two weeks in Lake Como."*
+> **Client:** *"It's actually our 10th anniversary next month. We're spending two weeks in Lake Como."*
 >
 > **Associate:** *"Congratulations! Ten years is magnificent. What exact date is your anniversary?"*
 >

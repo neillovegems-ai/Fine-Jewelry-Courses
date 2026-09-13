@@ -23,9 +23,9 @@ refined_with_antigravity: 2026-09-12
 | 2 | Factual discipline | 5 | Incorporates behavioral economics on the Endowment Effect (Kahneman & Tversky), GIA presentation protocols, luxury tactile retail research, and floor coaching standards from Shane Decker and INSTORE Magazine. |
 | 3 | Floor readiness | 5 | Includes word-for-word FBES translation scripts for diamonds, platinum, colored gemstones, and pearls, plus clear physical choreography rules (the Two-Piece Maximum tray discipline). |
 | 4 | Voice | 5 | High-luxury gravitas, poetic precision, and practical floor discipline; eliminates retail cliché and clinical specification reciting. |
-| 5 | Scannability | 5 | Formatted with clear anatomical breakdowns, transformation tables, step-by-step physical protocols, and a comprehensive 7-day floor training plan. |
+| 5 | Scannability | 5 | Formatted with clear anatomical breakdowns, transformation tables, step-by-step physical protocols, and a thorough 7-day floor training plan. |
 | 6 | Persona fit | 5 | Guides P1 associates away from "reading the grading report aloud" into consultative storytelling, while refining P2 maison advisors on tactile choreography. |
-| 7 | Length | 5 | ~3,600 words of comprehensive, field-tested guidance covering physical handling, verbal architecture, and challenging counter edge cases. |
+| 7 | Length | 5 | ~3,600 words of thorough, field-tested guidance covering physical handling, verbal architecture, and challenging counter edge cases. |
 
 **Verdict: Approved for Production & LMS Deployment.**
 
@@ -77,7 +77,7 @@ Never pass a piece of fine jewelry directly hand-to-hand like loose pocket chang
 2. **The Two-Piece Ceiling:** Never place more than two (maximum three) pieces on the presentation pad simultaneously. 
    - When a tray is filled with eight competing rings, the client's visual cortex experiences cognitive overload. They become paralyzed by micro-comparisons.
    - When introducing a third piece, remove the least-favored piece from the pad and return it to the case: *"Let's set this one aside so we can focus our eyes on what you love most."*
-3. **Curated Lighting Alignment:** Position the pad directly beneath the showroom’s high-CRI focal spots. Angle the piece so the light enters the crown facets and refracts directly back into the client's eyes.
+3. **Curated Lighting Alignment:** Position the pad directly beneath the showroom's high-CRI focal spots. Angle the piece so the light enters the crown facets and refracts directly back into the client's eyes.
 
 ---
 

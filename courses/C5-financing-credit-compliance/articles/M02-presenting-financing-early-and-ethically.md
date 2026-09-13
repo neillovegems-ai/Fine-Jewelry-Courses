@@ -129,11 +129,11 @@ The single biggest operational error is waiting until the client asks for the pr
 During Stage 2 (Discovery), while asking questions about the milestone occasion, style preferences, and metal choices, the associate smoothly embeds payment options into the store's service portfolio:
 
 > **Associate Script (Universal Discovery Drop):**
-> *"As we start looking at diamonds today, I want to make sure you know all the tools we have available. In addition to custom designing the piece and handling sizing in-house, we also offer a wonderful 12-month interest-free program through our private jewelry card. Many of our clients love using it because it keeps their savings completely liquid and breaks the investment into comfortable monthly payments. Whether you decide to pay in full today or take advantage of the 12-month program, we’ll make sure everything is completely customized to what feels best for you."*
+> *"As we start looking at diamonds today, I want to make sure you know all the tools we have available. In addition to custom designing the piece and handling sizing in-house, we also offer a wonderful 12-month interest-free program through our private jewelry card. Many of our clients love using it because it keeps their savings completely liquid and breaks the investment into comfortable monthly payments. Whether you decide to pay in full today or take advantage of the 12-month program, we'll make sure everything is completely customized to what feels best for you."*
 
 ### Why This Script Works:
 1. **It Bundles Financing with Other Services:** By pairing financing with custom CAD design and in-house sizing, it is positioned as a **premium store amenity**, not a debt vehicle.
-2. **Social Proof ("Many of our clients love using it"):** It instantly normalizes the behavior, assuring the client that other successful, sophisticated shoppers utilize it regularly.
+2. **Social Proof ("Many of our clients love using it"):** It instantly normalizes the behavior, assuring the client that other successful, sophisticated shoppers use it regularly.
 3. **Zero Assumption:** It explicitly states *"whether you decide to pay in full today or take advantage of the program,"* honoring the client's autonomy and eliminating any awkward presumption that they need credit.
 
 ---

@@ -6,7 +6,7 @@ In the heat of closing an $8,500 diamond sale, an eager associate might casually
 - *"Don't worry about it, everyone gets approved through our bank!"*
 - *"Just fill this out; checking your rate doesn't touch your credit score at all."*
 - *"Once we get you approved, I can have my manager bump your limit to $10,000."*
-- *"Are you married? We’ll just put your husband’s salary on the form."*
+- *"Are you married? We'll just put your husband's salary on the form."*
 
 Every single one of these four statements is **patently false, ethically unacceptable, and in direct violation of federal statutory law.**
 
@@ -123,7 +123,7 @@ An associate has **zero underwriting authority**. They do not see the customer's
 
 #### 2. Never Misrepresent Credit Score Impact
 Inquiries generally fall into two categories:
-- **Soft Inquiries (Pre-Qualification):** Many modern digital counter platforms offer a pre-qualification tool. This utilizes a soft inquiry that does not affect the consumer's credit score.
+- **Soft Inquiries (Pre-Qualification):** Many modern digital counter platforms offer a pre-qualification tool. This uses a soft inquiry that does not affect the consumer's credit score.
 - **Hard Inquiries (Final Application):** Once the consumer accepts the pre-qualified offer and officially applies for the account, the bank registers a hard inquiry on the credit bureau report. A hard inquiry can temporarily reduce a credit score by a few points (typically 3–5 points for a short period).
 - **The Rule:** An associate must never state that submitting a full credit application *"won't affect your score."*
 
@@ -236,7 +236,7 @@ When a customer's application is not approved, the moment is laden with intense 
         <div style="font-family:system-ui, sans-serif; font-size:12px; color:#cbd5e1; line-height:1.6;">
           <p style="margin:0 0 10px 0;"><strong style="color:#dfbe54;">Step 1: Immediate Composure:</strong> When the screen displays "Declined" or "Unable to Approve," maintain a warm, relaxed facial expression. Never frown, sigh, or look away.</p>
           <p style="margin:0 0 10px 0;"><strong style="color:#dfbe54;">Step 2: Deliver the Standard Privacy Transition Script:</strong><br>
-          <em>Associate:</em> "Thank you so much for taking a moment to submit that. The bank’s automated system wasn't able to complete an instant approval right now through the digital portal. They will be mailing a confidential letter directly to your home address within 7 to 10 business days explaining their decision."</p>
+          <em>Associate:</em> "Thank you so much for taking a moment to submit that. The bank's automated system wasn't able to complete an instant approval right now through the digital portal. They will be mailing a confidential letter directly to your home address within 7 to 10 business days explaining their decision."</p>
           <p style="margin:0 0 10px 0;"><strong style="color:#dfbe54;">Step 3: Pivot Seamlessly Without Interruption:</strong> Do not pause for an awkward silence. Pivot immediately to a constructive, empowering alternative:<br>
           <em>Associate:</em> "...In the meantime, the great news is that we have several wonderful options to make this piece yours today. We can easily split the purchase across your existing debit and credit cards, or we can put the diamond into our complimentary in-house layaway program with zero interest and zero credit checks. Which of those sounds most convenient for you?"</p>
           <p style="margin:0;"><strong style="color:#f87171;">Strict Prohibition:</strong> Never speculate on the decline! Never say: <em>"Did you forget to pay a bill?"</em> or <em>"Is your credit score low?"</em> Federal law strictly forbids store associates from speculating on credit decisions.</p>

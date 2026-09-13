@@ -61,7 +61,7 @@ Institutional asset protection requires a continuous, multi-tiered cadence:
     <rect x="592" y="88" width="216" height="26" rx="4" fill="#10b981" opacity="0.2"/>
     <text x="700" y="106" font-family="system-ui, sans-serif" font-size="12" font-weight="bold" fill="#a7f3d0" text-anchor="middle">TIER 3: ANNUAL PHYSICAL</text>
     <text x="592" y="132" font-family="system-ui, sans-serif" font-size="10.5" fill="#ffffff" font-weight="bold">&bull; Cadence:</text>
-    <text x="592" y="148" font-family="system-ui, sans-serif" font-size="9.5" fill="#94a3b8">Annual comprehensive fiscal reconciliation.</text>
+    <text x="592" y="148" font-family="system-ui, sans-serif" font-size="9.5" fill="#94a3b8">Annual thorough fiscal reconciliation.</text>
     <text x="592" y="174" font-family="system-ui, sans-serif" font-size="10.5" fill="#ffffff" font-weight="bold">&bull; Archival Mandate:</text>
     <text x="592" y="190" font-family="system-ui, sans-serif" font-size="9.5" fill="#94a3b8">Complete itemized lists & photo logs retained off-premises for 7+ years.</text>
     <text x="592" y="226" font-family="system-ui, sans-serif" font-size="10.5" fill="#ffffff" font-weight="bold">&bull; Insurer Integration:</text>
@@ -100,7 +100,7 @@ A cycle count is a continuous, rotating physical audit of specific merchandise c
   - *Why Blind Audits Matter:* If an auditor sees a sheet that says: *"SKU 4092: Expected Quantity = 14,"* human nature leads them to count 13, recount quickly, assume the 14th is in the back, and check the box. In a blind count, the auditor must physically count and record the actual number. Any variance between the blind physical count and the system database is flagged automatically.
 
 ### Tier 3: Annual Comprehensive Physical Inventory
-Once per fiscal year, the boutique undergoes a 100% comprehensive physical inventory audit. Every single item in the store—including showcase goods, safe stock, shop repairs, customer layaways, and memo consignments—is barcode-scanned, weighed, and matched to physical invoices.
+Once per fiscal year, the boutique undergoes a 100% thorough physical inventory audit. Every single item in the store—including showcase goods, safe stock, shop repairs, customer layaways, and memo consignments—is barcode-scanned, weighed, and matched to physical invoices.
 - **Insurer Document Retention Rule:** Underwriting standards established by **Jewelers Mutual** require the finalized, itemized annual physical inventory audit—complete with high-resolution photographic archives and broker reconciliation sheets—to be **retained off-premises for a minimum of 7 years**.
 
 ---

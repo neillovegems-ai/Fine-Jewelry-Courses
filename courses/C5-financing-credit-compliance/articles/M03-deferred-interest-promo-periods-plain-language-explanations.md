@@ -171,7 +171,7 @@ The customer feels cheated, betrayed, and deceived. They do not blame Synchrony 
 
 To prevent any client from ever falling into the retroactive interest trap, professional fine jewelers never quote the bank's minimum monthly payment. Instead, they calculate and present the **Required Payoff Payment**.
 
-Furthermore, seasoned retail leaders teach the **"N - 1 Rule"**:
+Beyond that,, seasoned retail leaders teach the **"N - 1 Rule"**:
 
 $$	ext{Safe Monthly Payoff Payment} = rac{	ext{Total Financed Invoice Amount}}{	ext{Total Promotional Months} - 1}$$
 
@@ -267,7 +267,7 @@ Transparency builds luxury confidence. Clients do not run away from clear terms;
           This plan is legally called <strong>Deferred Interest</strong>. That means you pay absolutely zero interest, provided the balance is paid off within the 12-month window. <br><br>
           However, here is the critical part that many stores won't tell you: In the background, the bank calculates interest at their standard 29.99% rate. If there is even one dollar left unpaid on the final day of month 12, the bank will charge you all the back-interest all the way from today.<br><br>
           Also, when your bill arrives, the bank will show a small 'minimum payment' of around $150. If you only pay that minimum, you will not pay off the balance in time. <br><br>
-          So, to ensure you pay exactly zero interest, I’ve written down your exact payment schedule right here on your receipt. If you set up an automatic monthly payment of <strong>$545</strong>, you will have this ring 100% paid off a full month early, completely penalty-free. Does that make complete sense?"</p>
+          So, to ensure you pay exactly zero interest, I've written down your exact payment schedule right here on your receipt. If you set up an automatic monthly payment of <strong>$545</strong>, you will have this ring 100% paid off a full month early, completely penalty-free. Does that make complete sense?"</p>
         </div>
       </div>
     </div>

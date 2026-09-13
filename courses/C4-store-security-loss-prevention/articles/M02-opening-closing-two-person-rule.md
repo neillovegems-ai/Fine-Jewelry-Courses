@@ -216,7 +216,7 @@ If Employee A enters the boutique and any of the following occur:
     <figure style="margin:0; background:#ffffff; border:1px solid #e2e8f0; border-radius:10px; overflow:hidden; box-shadow:0 4px 12px rgba(11,15,23,0.05);">
         <img src="https://jewelswell.com/wp-content/uploads/2026/03/Bank-Vault-Mechanism.png" alt="Bank and Vault Dual-Lock Time Mechanism" style="width:100%; height:200px; object-fit:cover; display:block;" />
         <figcaption style="font-size:13px; color:#64748b; font-style:italic; background:#fdfbf7; border-top:1px solid #f1f5f9; padding:12px 16px;">
-            <strong>Figure 3: High-Security Vault Time-Lock Mechanism.</strong> Commercial jewelry safes utilize triple-movement mechanical time locks that prevent door release outside pre-set operating hours regardless of combination entry. <em>Source: Physical Security Archive.</em>
+            <strong>Figure 3: High-Security Vault Time-Lock Mechanism.</strong> Commercial jewelry safes use triple-movement mechanical time locks that prevent door release outside pre-set operating hours regardless of combination entry. <em>Source: Physical Security Archive.</em>
         </figcaption>
     </figure>
 
@@ -249,7 +249,7 @@ Underwriting standards from Jewelers Mutual and corporate compliance standards e
 - **Opening Sequence:** Employee A enters their code while Employee B stands guard outside the vault room. Employee A steps back, and Employee B enters their code. The heavy locking bolts can only be retracted when both independent credentials have been successfully authenticated.
 
 ### Time-Delay and Time-Lock Architecture
-High-risk retail boutiques utilize safes equipped with **Electronic Time Delays** (e.g., a mandatory 15-minute wait after entering correct codes before the lock releases) or **Mechanical Time Locks** (wind-up movements that mechanically block the boltwork from retracting between 7:00 PM and 8:30 AM). 
+High-risk retail boutiques use safes equipped with **Electronic Time Delays** (e.g., a mandatory 15-minute wait after entering correct codes before the lock releases) or **Mechanical Time Locks** (wind-up movements that mechanically block the boltwork from retracting between 7:00 PM and 8:30 AM). 
 - If an ambush crew captures staff at 8:00 AM demanding immediate safe opening, the mechanical time lock physically makes opening impossible. The staff cannot comply even under coercion, rendering early morning ambush tactics futile for the criminals.
 
 ---

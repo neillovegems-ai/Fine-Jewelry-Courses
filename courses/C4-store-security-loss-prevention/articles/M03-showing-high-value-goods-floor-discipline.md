@@ -156,7 +156,7 @@ All merchandise must be presented on a weighted, non-slip velvet presentation tr
     <text x="360" y="130" font-family="system-ui, sans-serif" font-size="10" fill="#ffffff" font-weight="bold">Setting Integrity:</text>
     <text x="360" y="146" font-family="system-ui, sans-serif" font-size="9" fill="#94a3b8">Check prong tips for tool marks, loose seating, or bent platinum claws.</text>
     <text x="360" y="185" font-family="system-ui, sans-serif" font-size="10" fill="#ffffff" font-weight="bold">Switch Counter:</text>
-    <text x="360" y="201" font-family="system-ui, sans-serif" font-size="9" fill="#94a3b8">Rapid physical ring switches often utilize glue or pre-pinched imitation mounts.</text>
+    <text x="360" y="201" font-family="system-ui, sans-serif" font-size="9" fill="#94a3b8">Rapid physical ring switches often use glue or pre-pinched imitation mounts.</text>
     <circle cx="422" cy="275" r="14" fill="#f59e0b"/>
     <text x="422" y="280" font-family="system-ui, sans-serif" font-size="11" font-weight="bold" fill="#ffffff" text-anchor="middle">03</text>
     
@@ -198,7 +198,7 @@ All merchandise must be presented on a weighted, non-slip velvet presentation tr
 
 Diamond switching is one of the most lucrative and undetectable crimes facing fine jewelry retailers. In a switch operation, a professional thief poses as an affluent client interested in a 2.00 to 5.00-carat certified loose diamond or diamond engagement ring. The suspect carries a counterfeit replica—typically a cubic zirconia (CZ) or synthetic moissanite stone mounted in a matching silver or brass setting. The replica has been pre-selected to match the millimeter dimensions, carat weight, and head design of genuine inventory.
 
-Through sleight-of-hand (often utilizing a palmed stone, a fake cough, dropping an item, or a double-ring palm), the thief substitutes the counterfeit for the genuine article, returning the fake to the associate while slipping the real diamond into their pocket. If the associate simply glances at the stone with the naked eye and returns it to the showcase, the theft will not be discovered until the piece is sold to another client weeks later, creating catastrophic financial and reputational damage.
+Through sleight-of-hand (often using a palmed stone, a fake cough, dropping an item, or a double-ring palm), the thief substitutes the counterfeit for the genuine article, returning the fake to the associate while slipping the real diamond into their pocket. If the associate simply glances at the stone with the naked eye and returns it to the showcase, the theft will not be discovered until the piece is sold to another client weeks later, creating catastrophic financial and reputational damage.
 
 The **5-Point Anti-Switch Loupe Protocol** completely eliminates this threat:
 

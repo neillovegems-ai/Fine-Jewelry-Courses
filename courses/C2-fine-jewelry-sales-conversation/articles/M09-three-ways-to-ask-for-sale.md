@@ -150,7 +150,7 @@ In the Alternative Choice Close, **both options lead to the purchase.** The clie
 
 ## Modality 3: The Emotional Milestone Close (The Soul of Luxury)
 
-Fine jewelry is not an investment in metal and carbon. It is an enduring emotional testament to love, sacrifice, achievement, and family legacy.
+Fine jewelry is not an investment in metal and carbon. It is an enduring emotional reflection of love, sacrifice, achievement, and family legacy.
 
 The **Emotional Milestone Close** is the most powerful closing modality in the fine jewelry industry. It succeeds where all technical selling fails because it bridges the physical object directly back to the **Real Purchase** uncovered during Module 2 Discovery.
 

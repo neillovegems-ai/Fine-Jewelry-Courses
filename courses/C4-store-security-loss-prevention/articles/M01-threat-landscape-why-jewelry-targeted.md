@@ -182,7 +182,7 @@ Asset protection begins with spatial layout. A sales floor designed solely for v
 - **Audible Access Annunciation:** Every entry door must be equipped with an audible chime or access-control interlock (buzz-in vestibule/mantrap). An associate should never be surprised by a customer standing at their counter.
 
 ### Zone 2: Showcase Line Defense
-- **Burglary-Resistant Glass Standards:** Standard tempered glass shatters instantly upon impact from a center-punch or hammer, leaving an open cavity. Luxury jewelry showcases must utilize **UL 972-rated burglary-resistant laminated glass**. Laminated glass consists of two layers of high-strength glass bonded by an elastomeric polymer interlayer. Under heavy sledgehammer strikes, the glass cracks but the polymer web maintains structural cohesion, resisting penetration for several minutes and defeating the 60-second smash-and-grab window.
+- **Burglary-Resistant Glass Standards:** Standard tempered glass shatters instantly upon impact from a center-punch or hammer, leaving an open cavity. Luxury jewelry showcases must use **UL 972-rated burglary-resistant laminated glass**. Laminated glass consists of two layers of high-strength glass bonded by an elastomeric polymer interlayer. Under heavy sledgehammer strikes, the glass cracks but the polymer web maintains structural cohesion, resisting penetration for several minutes and defeating the 60-second smash-and-grab window.
 - **Plunger Lock Discipline:** Showcases must feature automatic deadbolt or plunger locks. Leaving a case unlocked while turning to present a piece on a counter pad is the single most common vulnerability exploited by distraction teams.
 
 ### Zone 3: Private Salons and High-Security Viewing

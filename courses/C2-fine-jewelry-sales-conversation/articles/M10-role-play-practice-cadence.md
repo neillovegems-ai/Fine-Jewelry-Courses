@@ -19,13 +19,13 @@ refined_with_antigravity: 2026-09-12
 
 | # | Criterion | Score (1-5) | Justification |
 |---|---|---|---|
-| 1 | Outcome alignment | 5 | Serves as the capstone practical integration of Course C2. Bridges theoretical knowledge into live counter performance through end-to-end simulation scripts, scoring rubrics, and structured weekly practice regimens. |
+| 1 | Outcome alignment | 5 | Acts as the capstone practical integration of Course C2. Bridges theoretical knowledge into live counter performance through end-to-end simulation scripts, scoring rubrics, and structured weekly practice regimens. |
 | 2 | Factual discipline | 5 | Grounded in deliberate practice science (K. Anders Ericsson), luxury sales enablement benchmarks from the National Retail Federation (NRF), INSTORE Magazine's floor coaching guides, and Shane Decker's role-play sparring protocols. |
 | 3 | Floor readiness | 5 | Provides four verbatim, full-length counter role-play scripts covering every major floor scenario (First-Time Bridal, Aggressive Haggler, Showrooming Comparison, Anniversary Milestone), paired with an actionable 5-point observation scorecard. |
 | 4 | Voice | 5 | High-luxury discipline, professional coaching authority, and practical encouragement; treats sales rehearsal as an athletic craft required of elite client advisors. |
 | 5 | Scannability | 5 | Formatted with clear simulation scripts, speaker labels, scoring tables, weekly cadence schedules, and capstone certification self-check drills. |
 | 6 | Persona fit | 5 | Equips P1 associates with immediate verbal muscle memory, while providing P7 store leaders and P9 sales trainers with turn-key coaching blueprints. |
-| 7 | Length | 5 | ~3,750 words of rigorous, comprehensive floor practice instruction covering simulations, scoring metrics, coaching psychology, and scheduling cadences. |
+| 7 | Length | 5 | ~3,750 words of rigorous, thorough floor practice instruction covering simulations, scoring metrics, coaching psychology, and scheduling cadences. |
 
 **Verdict: Approved for Production & LMS Deployment.**
 
@@ -282,7 +282,7 @@ To embed these skills across your store culture, implement this weekly team rhyt
 
 ## Course C2 Capstone Self-Check
 
-Test your comprehensive mastery of Course C2:
+Test your thorough mastery of Course C2:
 
 1. What are the four words that end a sale before it starts, and what opening question generated a 16% sales lift in Leonard Mouwatt's JCK study?
 2. Why is the question *"What's your budget?"* destructive, and how does the Comparative Two-Tray Presentation calibrate financial comfort without asking?
